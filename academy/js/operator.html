@@ -1,0 +1,27 @@
+<!DOCTYPE html>
+<html lang="ko">
+<head>
+  <meta charset="UTF-8">
+  <meta http-equiv="X-UA-Compatible" content="IE=edge">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <title>조건 연산자</title>
+  <script type="text/javascript">
+    var a, b, rs1, rs2;
+    a = "수요일";
+
+    rs1 = "오늘은 수요일 입니다.";
+    rs2 = "오늘은 수요일이 아닙니다.";
+    
+    b = (a == "수요일")? rs1 : rs2;
+    document.write("<h2>"+b+"</h2>");
+
+    a = "일요일";
+
+    b = (a == "수요일")? rs1 : rs2;
+    document.write("<h2>"+b+"</h2>");
+  </script>
+</head>
+<body>
+  
+</body>
+</html>
