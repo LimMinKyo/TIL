@@ -1,0 +1,19 @@
+<!DOCTYPE html>
+<html lang="ko">
+<head>
+  <meta charset="UTF-8">
+  <meta http-equiv="X-UA-Compatible" content="IE=edge">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <title>main</title>
+  <script type="text/javascript">
+    function win_open(page, left){
+      // window.open("팝업될 문서 경로","팝업된 문서 이름","옵션(크기, 위치, bar 표시 등)"); 
+      window.open(page, "", "width=300, height=400, left="+left+", top=0");
+    };
+  </script>
+</head>
+<body>
+  <button type="button" onclick="win_open('pop1.html', 0)">팝업 1</button>
+  <button type="button" onclick="win_open('pop2.html', 300)">팝업 2</button>
+</body>
+</html>

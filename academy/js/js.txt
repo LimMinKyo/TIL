@@ -270,3 +270,37 @@ switch(변수) {
           break;
   default : 변수값이 "값1","값2","값3"이 아닌 경우 실행할 문장
 }
+
+** 사용자 정의 함수 **
+1. 사용자가 임의로 생성한 함수
+2. 선언문: function
+3. function 함수명(매개변수,매개변수...){
+  실행문
+  실행문
+  .
+  .
+}
+4. 호출 시에만 실행
+5. 사용자 정의 함수 호출방법
+  - 단독 실행
+  - 변수에 의한 실행
+  - 다른 함수에 의한 실행
+  - 이벤트에 의한 실행(*******)
+6. 함수명 규칙 : 변수명 규칙과 동일
+
+** 이벤트 **
+1. 언제
+2. 이벤트 : 상황, ~~gkek
+3. 이벤트 핸들러 : 이벤트 사용, ~~ 했을 때 
+              이벤트 앞에 on 추가
+
+  이벤트           이벤트 핸들러
+  load            onload
+  unload          onunload
+  mouseover       onmouseover
+  mouseout        onmouseout
+  focus           onfocus
+  blur            onblur
+  click           onclick
+  mousedown       onmousedown
+  mouseup         onmouseup
