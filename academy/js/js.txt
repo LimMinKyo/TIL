@@ -290,7 +290,7 @@ switch(변수) {
 
 ** 이벤트 **
 1. 언제
-2. 이벤트 : 상황, ~~gkek
+2. 이벤트 : 상황, ~~하다
 3. 이벤트 핸들러 : 이벤트 사용, ~~ 했을 때 
               이벤트 앞에 on 추가
 
@@ -304,3 +304,30 @@ switch(변수) {
   click           onclick
   mousedown       onmousedown
   mouseup         onmouseup
+
+  ** DOM(Document Object Model) 방식 **
+  - html 요소에 접근하는 표준화된 방식
+  - 기존 name 속성과 태그별 접근 방식에서 벗어나 오브젝트의 종류에 상관없이 id 속성을 사용하여 요소에 접근하는 방식
+
+  * getElementById("요소") 객체의 생성
+
+  * 자바스크립트
+
+  1. 표준 모델 : ECMAScript 6(ES6)
+
+  2. 라이브러리 : 파일 형태로 제공되는 완성된 효과
+  - jquery.js
+  - angular.js
+  
+  3. 서버 관련 스크립트
+  - node.js
+
+  4. 프레임워크
+  - react.js
+  - 파이썬
+  - vue.js
+  - angular.js
+
+  5. 동작 방식
+  - ajax : 비동기식 스크립트
+  - DOM : HTML 요소 선택

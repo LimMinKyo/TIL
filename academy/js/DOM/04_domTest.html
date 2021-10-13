@@ -1,0 +1,32 @@
+<!DOCTYPE html>
+<html lang="ko">
+<head>
+  <meta charset="UTF-8">
+  <meta http-equiv="X-UA-Compatible" content="IE=edge">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <title>04_domTest</title>
+  <style type="text/css">
+
+  </style>
+  <script type="text/javascript">
+    function redColor(){
+      var txt = document.getElementById("changeText");
+      txt.style.color = "red";
+    };
+    function blueColor(){
+      var txt = document.getElementById("changeText");
+      txt.style.color = "blue";
+    };
+    function greenColor(){
+      var txt = document.getElementById("changeText");
+      txt.style.color = "green";
+    };
+  </script>
+</head>
+<body>
+  <p id="changeText">클릭한 버튼에 따라 다른 스타일이 적용됩니다.</p>
+  <p><button type="button" onclick="redColor()">빨강</button></p>
+  <p><button type="button" onclick="blueColor()">파랑</button></p>
+  <p><button type="button" onclick="greenColor()">초록</button></p>
+</body>
+</html>

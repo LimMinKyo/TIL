@@ -1,0 +1,27 @@
+<!DOCTYPE html>
+<html lang="ko">
+<head>
+  <meta charset="UTF-8">
+  <meta http-equiv="X-UA-Compatible" content="IE=edge">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <title>01_execScript</title>
+  <style type="text/css">
+
+  </style>
+  <script type="text/javascript">
+    function printText(){
+      // 기존 폼 요소 선택 : 배열 또는 name 속성값
+      document.form1.txt1.value = "글자 출력하기";
+    };
+  </script>
+</head>
+<body>
+  <form name="form1" action="" method="">
+    <p>* 버튼을 클릭하면 텍스트 필드에 글자가 나타납니다.</p>
+    <p>
+      <input type="text" name="txt1" id="txt1">
+      <button type="button" onclick="printText()">글자 출력</button>
+    </p>
+  </form>
+</body>
+</html>
