@@ -1,0 +1,31 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8">
+  <meta http-equiv="X-UA-Compatible" content="IE=edge">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <title>Document</title>
+  <style>
+    div {
+      border: 2px solid #73a11a;
+      width: 150px;
+      height: 200px;
+      margin:5px;
+      background: url(/images/flw02.jpg) right bottom no-repeat;
+      float: left;
+    }
+    #box-rel{background-size: 100% 100%;}
+    #box-abs{background-size: 50px 50px;}
+    #box-cover{background-size: cover;}
+    #box-contain{background-size: contain;}
+  </style>
+</head>
+<body>
+  <h2>배경 이미지 크기 조절</h2>
+  <div id="box-org">원본 크기</div>
+  <div id="box-rel">비율 사용</div>
+  <div id="box-abs">고정값 사용</div>
+  <div id="box-cover">컨텐츠 크기에 맞게</div>
+  <div id="box-contain">컨텐츠 크기에 맞춰 비율 고정</div>
+</body>
+</html>

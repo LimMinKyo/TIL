@@ -1,0 +1,80 @@
+<!DOCTYPE html>
+<html lang="ko">
+<head>
+    <meta charset="UTF-8">
+    <title>div VS semantic element</title>
+</head>
+<body>
+    <!-- div -->
+    <div id="header">
+        <h1>LOGO</h1>
+        <div class="gnb"></div>
+        <div class="top_menu"></div>
+    </div>
+
+    <div id="content">
+        <div class="main_image"></div>
+        <div class="lnb"></div>
+        <div class="cont_wrap">
+            <div class="cont1">
+                <h2>TITLE</h2>
+                <p>content</p>
+            </div>
+            <div class="cont2">
+                <h2>TITLE</h2>
+                <p>content</p>
+            </div>
+        </div>
+    </div>
+
+    <div id="footer"></div>
+
+    <!-- semantic -->
+    <header id="header">
+        <h1>LOGO</h1>
+        <nav class="gnb"></nav>
+        <div class="top_menu"></div>
+    </header>
+
+    <main id="content">
+        <!-- 비주얼 이미지 -->
+        <!-- <div class="main_image"></div> -->
+
+        <!-- 정보 포함 -->
+        <!-- <article class="main_image"></article> -->
+        <!-- 또는 -->
+        <section class="main_image"></section>
+
+
+        <article class="lnb"></article>
+
+        <!-- 하위 요소의 주제가 무관한 경우 -->
+        <div class="cont_wrap">
+            <section class="cont1">
+            <!-- article, aside, header, footer, div -->
+                <h2>공지사항</h2>
+                <p>content</p>
+            </section>
+            <section class="cont2">
+                <h2>신상품 소개</h2>
+                <p>content</p>
+            </section>
+        </div>
+
+        <!-- 상관된 상위 주제를 갖는 경우 -->
+        <section class="cont_wrap"><!-- 또는 article -->
+            <h2>주요소식</h2>
+            <section class="cont1"><!-- 또는 article -->
+                <h3>공지사항</h3>
+                <p>content</p>
+            </section>
+            <section class="cont2"><!-- 또는 article -->
+                <h3>보도자료</h3>
+                <p>content</p>
+            </section>
+        </section>
+    </main>
+
+    <footer id="footer"></footer>
+</body>
+</html>
