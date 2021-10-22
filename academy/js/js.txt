@@ -305,20 +305,20 @@ switch(변수) {
   mousedown       onmousedown
   mouseup         onmouseup
 
-  ** DOM(Document Object Model) 방식 **
-  - html 요소에 접근하는 표준화된 방식
-  - 기존 name 속성과 태그별 접근 방식에서 벗어나 오브젝트의 종류에 상관없이 id 속성을 사용하여 요소에 접근하는 방식
+** DOM(Document Object Model) 방식 **
+- html 요소에 접근하는 표준화된 방식
+- 기존 name 속성과 태그별 접근 방식에서 벗어나 오브젝트의 종류에 상관없이 id 속성을 사용하여 요소에 접근하는 방식
 
-  * getElementById("요소") 객체의 생성
+* getElementById("요소") 객체의 생성
 
-  * 자바스크립트
+* 자바스크립트
 
   1. 표준 모델 : ECMAScript 6(ES6)
 
   2. 라이브러리 : 파일 형태로 제공되는 완성된 효과
   - jquery.js
   - angular.js
-  
+
   3. 서버 관련 스크립트
   - node.js
 
@@ -331,3 +331,10 @@ switch(변수) {
   5. 동작 방식
   - ajax : 비동기식 스크립트
   - DOM : HTML 요소 선택
+
+* DOM 코어 / HTML-DOM : HTML 요소들의 속성 제어문
+  DOM 코어 : 스크립트가 지원되는 모든 기기에서 사용
+  ex) object.getAttribute("src")
+
+  HTML-DOM : 웹 브라우저에서만 사용 가능
+  ex) object.src
