@@ -86,6 +86,31 @@
             
             // ~~~.submit();
         };
+
+        function change_email(){
+            // alert("TEST");
+            var email_dns = document.getElementById("email_dns");
+            var email_sel = document.getElementById("email_sel");
+
+            var idx = email_sel.options.selectedIndex;
+            // alert(idx);
+            // var sel_txt = email_sel.options[1].text;
+            // var sel_txt = email_sel.options[1].value;
+            // alert(sel_txt);
+
+            var sel_txt = email_sel.options[idx].value;
+            email_dns.value = sel_txt;
+        };
+
+        function id_search(){
+            // window.open("팝업돌 문서 경로", "팝업될 문서이름", "옵션");
+            window.open("search_id.html", "", "width=600, height=250, left=0, top=0");
+        };
+
+        function addr_search(){
+            // window.open("팝업돌 문서 경로", "팝업될 문서이름", "옵션");
+            window.open("search_addr.html", "", "width=600, height=250, left=0, top=0");
+        };
     </script>
 </head>
 <body>
@@ -102,7 +127,7 @@
             <p>
                 <label for="uid">아이디</label>
                 <input type="text" name="uid" id="uid">
-                <button type="button">아이디 중복확인</button>
+                <button type="button" onclick="id_search()">아이디 중복확인</button>
                 <br>
                 <span class="err_id">* 아이디는 4~12글자만 입력할 수 있습니다.</span>
             </p>
@@ -134,7 +159,7 @@
                 <label for="">이메일</label>
                 <input type="text" name="email_id" id="email_id"> @ 
                 <input type="text" name="email_dns" id="email_dns"> 
-                <select name="email_sel" id="email_sel">
+                <select name="email_sel" id="email_sel" onchange="change_email()">
                     <option value="">직접 입력</option>
                     <option value="naver.com">NAVER</option>
                     <option value="hanmail.net">DAUM</option>
@@ -150,13 +175,13 @@
             </p>
 
             <p>
-                <label for="repwd">주소</label>
-                <input type="text" name="birth" id="birth" size="5">
-                <button type="button">주소검색</button>
+                <label for="postalCode">주소</label>
+                <input type="text" name="postalCode" id="postalCode" size="5">
+                <button type="button" onclick="addr_search()">주소검색</button>
                 <br>
-                기본주소 <input type="text" name="" id="" size="30">
+                <label for="addr1">기본주소</label><input type="text" name="addr1" id="addr1" size="30">
                 <br>
-                상세주소 <input type="text" name="" id="" size="30">
+                <label for="addr2">상세주소</label><input type="text" name="addr2" id="addr2" size="30">
             </p>
 
             <p>
