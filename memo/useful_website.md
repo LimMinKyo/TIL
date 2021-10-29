@@ -86,6 +86,10 @@
 
 - 웹접근성연구소: https://www.wah.or.kr:444/index.asp
 
+- 한국형 웹 콘텐츠 접근성 지침 2.1: https://www.wah.or.kr:444/Participation/guide.asp
+
+- 웹 콘텐츠 제작기법 2.1: https://www.wah.or.kr:444/Participation/technique.asp
+
 - 널리: https://nuli.navercorp.com/
 
 - 캔아이유즈: https://www.caniuse.com/
