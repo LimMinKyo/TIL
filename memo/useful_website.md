@@ -82,7 +82,13 @@
 
 - Software Expert Academy: https://swexpertacademy.com/main/main.do
 
-## 기타
+## 유효성 검사
+
+- 캔아이유즈: https://www.caniuse.com/
+
+- Validator: https://validator.w3.org/
+
+- Validator(kr): http://validator.kldp.org/
 
 - 웹접근성연구소: https://www.wah.or.kr:444/index.asp
 
@@ -92,19 +98,21 @@
 
 - 널리: https://nuli.navercorp.com/
 
-- 캔아이유즈: https://www.caniuse.com/
+- 널리 Chart Library Nwagon: https://nuli.navercorp.com/tool/nwagon
 
-- Validator: https://validator.w3.org/
+- 널리 Unused CSS Check Tool: https://nuli.navercorp.com/tool/chktool
 
-- Validator2: http://validator.kldp.org/
+## 기타
 
-- Playground: http://jsbin.com/
+- jsbin: http://jsbin.com/
 
 - px to em: http://pxtoem.com/
 
 - Emmet Cheat Sheet: https://docs.emmet.io/cheat-sheet/
 
 ## 책
+
+- 비전공자를 위한 이해할 수 있는 IT지식
 
 - 리팩토링
 
