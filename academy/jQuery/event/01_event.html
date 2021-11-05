@@ -1,0 +1,74 @@
+<!DOCTYPE html>
+<html lang="ko">
+<head>
+  <meta charset="UTF-8">
+  <meta http-equiv="X-UA-Compatible" content="IE=edge">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <title>이벤트</title>
+  <style type="text/css">
+    table{
+      border:1px solid #aaa;
+      margin: 20px;
+      text-align:center;
+      font-weight:bold;
+      font-size:20px;
+    }
+    td{
+      border: 1px solid #aaa;
+      width: 100px;
+      height: 100px;
+    }
+    .sel{
+      background: #f00;
+      color:#fff;
+      font-weight:bolid;
+    }
+  </style>
+  <script type="text/javascript" src="../js/jquery-3.6.0.min.js"></script>
+  <script type="text/javascript">
+    $(document).ready(function(){
+      // js : obj . eventHandler = function(){};
+      // jq : $("selector") . event ( function(){} );
+
+      // click
+      // $("td:eq(0)").click(function(){
+      //   $("td:eq(0)").addClass("sel");
+      // });
+
+      // mouseenter
+      // $("td:eq(0)").mouseenter(function(){
+      //   $("td:eq(0)").addClass("sel");
+      // });
+      // mouseleave
+      // $("td:eq(0)").mouseleave(function(){
+      //   $("td:eq(0)").removeClass("sel");
+      // });
+
+      // this
+      // $("td").mouseenter(function(){
+      //   $(this).addClass("sel");
+      // });
+      // $("td").mouseleave(function(){
+      //   $(this).removeClass("sel");
+      // });
+
+      // hover = mouseenter + mouseleave
+      $("td").hover(function(){
+        $(this).addClass("sel");
+      }, function(){
+        $(this).removeClass("sel");
+      });
+      
+    });
+  </script>
+</head>
+<body>
+  <h2>* 이벤트</h2>
+  <table>
+    <tr>
+      <td>#1</td><td>#2</td><td>#3</td>
+      <td>#4</td><td>#5</td>
+    </tr>
+  </table>
+</body>
+</html>
