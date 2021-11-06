@@ -1,0 +1,62 @@
+<!DOCTYPE html>
+<html lang="ko">
+<head>
+  <meta charset="UTF-8">
+  <meta http-equiv="X-UA-Compatible" content="IE=edge">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <title>ribon</title>
+  <style type="text/css">
+    body{
+      overflow-y: scroll;
+    }
+    body,div{
+      margin: 0;
+      padding: 0;
+    }
+    .wrap{
+      text-align: center;
+      background: url(images/bg_wrap.jpg) repeat-x;
+      position: relative;
+      top: 70px;
+    }
+    .pop{
+      background: #a9e3f9 url(images/banner.jpg) no-repeat center;
+      height: 70px;
+      position: absolute;
+      width: 100%;
+    }
+    .pop a{
+      display: block;
+      width: 38px;
+      height: 38px;
+      background: url(images/close.jpg) no-repeat;
+      text-indent: -9999px;
+      position: absolute;
+      right: 16px;
+      top: 16px;
+    }
+  </style>
+  <script type="text/javascript" src="../js/jquery-3.6.0.min.js"></script>
+  <script type="text/javascript">
+    $(document).ready(function(){
+      $(".pop a").click(function(){
+        // $(".pop").slideUp();
+        $(".wrap").animate({top:0});
+      })
+    });
+  </script>
+</head>
+<body>
+  <!-- banner -->
+  <div class="pop">
+    <a href="#">닫기</a>
+  </div>
+  <div class="wrap">
+    <header></header>
+    <main>
+      <img src="images/content.jpg" alt="">
+    </main>
+    <footer></footer>
+  </div>
+</body>
+</html>

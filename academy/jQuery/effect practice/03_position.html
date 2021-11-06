@@ -1,0 +1,111 @@
+<!DOCTYPE html>
+<html lang="ko">
+<head>
+  <meta charset="UTF-8">
+  <meta http-equiv="X-UA-Compatible" content="IE=edge">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <title>position</title>
+  <style type="text/css">
+    .m1{
+      width: 200px;
+      height: 200px;
+      background: url(images/img1.jpg);
+      background-size: 100% 100%;
+      margin-bottom: 20px;
+      position: relative;
+      overflow: hidden;
+    }
+    .m1 span{
+      width: 200px;
+      height: 200px;
+      position: absolute;
+      left: 0;
+      top: 160px;
+      background: rgba(0,0,0,0.7);
+      line-height: 200px;
+      font-size: 20px;
+      color: #fff;
+      font-weight: bold;
+      text-align: center;
+    }
+    .m2{
+      width: 200px;
+      height: 200px;
+      background: url(images/img2.jpg);
+      background-size: 100% 100%;
+      margin-bottom: 20px;
+      position: relative;
+    }
+    .m2 span{
+      width: 200px;
+      height: 40px;
+      position: absolute;
+      left: 0;
+      top: 160px;
+      background: rgba(0,0,0,0.6);
+      line-height: 200px;
+      font-size: 20px;
+      color: #fff;
+      font-weight: bold;
+      text-align: center;
+    }
+    .m3{
+      width: 200px;
+      height: 200px;
+      background: url(images/img3.jpg);
+      background-size: 100% 100%;
+      margin-bottom: 20px;
+      position: relative;
+      overflow: hidden;
+    }
+    .m3 span{
+      width: 200px;
+      height: 200px;
+      position: absolute;
+      left: 0;
+      top: 160px;
+      background: rgba(0,0,0,0.6);
+      line-height: 200px;
+      font-size: 20px;
+      color: #fff;
+      font-weight: bold;
+      text-align: center;
+      transition: top 0.5s;
+    }
+    .m3:hover span{
+      top:0;     
+    }
+  </style>
+  <script type="text/javascript" src="../js/jquery-3.6.0.min.js"></script>
+  <script type="text/javascript">
+    $(document).ready(function(){
+      $(".m1").mouseenter(function(){
+        $(".m1 span").animate({top:0});
+      });
+      $(".m1").mouseleave(function(){
+        $(".m1 span").animate({top:160});
+      });
+
+      $(".m2").mouseenter(function(){
+        $(".m2 span").animate({top:0, height:200});
+      });
+      $(".m2").mouseleave(function(){
+        $(".m2 span").animate({top:160,height:40});
+      });
+    });
+  </script>
+</head>
+<body>
+  <div class="m1">
+    <span>TEXT SECTION</span>
+  </div>
+  
+  <div class="m2">
+    <span>TEXT SECTION</span>
+  </div>
+
+  <div class="m3">
+    <span>TEXT SECTION</span>
+  </div>
+</body>
+</html>

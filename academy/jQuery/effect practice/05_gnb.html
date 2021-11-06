@@ -1,0 +1,148 @@
+<!DOCTYPE html>
+<html lang="ko">
+<head>
+  <meta charset="UTF-8">
+  <meta http-equiv="X-UA-Compatible" content="IE=edge">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <title>gnb</title>
+  <style type="text/css">
+    body,header,nav,div,ul,li{
+      margin: 0;
+      padding: 0;
+    }
+    ul, li{
+      list-style: none;
+    }
+    a{
+      text-decoration: none;
+    }
+    header{
+      padding-top: 80px;
+      border-bottom: 1px solid #333;
+      height: 40px;
+    }
+    .gnb h2{
+      position: absolute;
+      left: -9999px;
+      top: -9999px;
+    }
+    .gnb>ul{
+      width: 1000px;
+      height: 40px;
+      margin: auto;
+    }
+    .gnb>ul>li{
+      font-size: 20px;
+      font-family: "나눔고딕";
+      float: left;
+      width: 20%;
+      height: 40px;
+      line-height: 40px;
+      text-align: center;
+      position: relative;
+      background: #ccc;
+    }
+    .gnb>ul>li>a{
+      display: block;
+      height: 40px;
+    }
+    .gnb ul ul{
+      padding-top: 20px;
+      width: 100%;
+      position: absolute;
+      left: 0;
+      top: 40px;
+      background: #aaa;
+      display: none;
+    }
+    .nav_bg{
+      width: 100%;
+      height: 240px;
+      background: #eee;
+      display: none;
+    }
+  </style>
+  <script type="text/javascript" src="../js/jquery-3.6.0.min.js"></script>
+  <script type="text/javascript">
+    $(document).ready(function(){
+      // $(".gnb > ul > li").mouseenter(function(){
+      //   // $(this).children().slideDown("fast");
+      //   $(this).find("ul").stop().slideDown("fast");
+      // });
+      // $(".gnb > ul > li").mouseleave(function(){
+      //   $(this).find("ul").stop().slideUp("fast");
+      // });
+
+      $(".gnb > ul > li").mouseenter(function(){
+        // $(this).children().slideDown("fast");
+        $(".gnb ul ul, .nav_bg").stop().slideDown("fast");
+      });
+      $(".gnb > ul > li").mouseleave(function(){
+        $(".gnb ul ul, .nav_bg").stop().slideUp("fast");
+      });
+    });
+  </script>
+</head>
+<body>
+  <header>
+    <nav class="gnb">
+      <h2>주요메뉴</h2>
+      <ul>
+        <li class=".menu01">
+          <a href="#">주메뉴</a>
+          <ul>
+            <li><a href="#">주메뉴</a></li>
+            <li><a href="#">주메뉴</a></li>
+            <li><a href="#">주메뉴</a></li>
+            <li><a href="#">주메뉴</a></li>
+            <li><a href="#">주메뉴</a></li>
+          </ul>
+        </li>
+        <li>
+          <a href="#">주메뉴</a>
+          <ul>
+            <li><a href="#">주메뉴</a></li>
+            <li><a href="#">주메뉴</a></li>
+            <li><a href="#">주메뉴</a></li>
+            <li><a href="#">주메뉴</a></li>
+            <li><a href="#">주메뉴</a></li>
+          </ul>
+        </li>
+        <li>
+          <a href="#">주메뉴</a>
+          <ul>
+            <li><a href="#">주메뉴</a></li>
+            <li><a href="#">주메뉴</a></li>
+            <li><a href="#">주메뉴</a></li>
+            <li><a href="#">주메뉴</a></li>
+            <li><a href="#">주메뉴</a></li>
+          </ul>
+        </li>
+        <li>
+          <a href="#">주메뉴</a>
+          <ul>
+            <li><a href="#">주메뉴</a></li>
+            <li><a href="#">주메뉴</a></li>
+            <li><a href="#">주메뉴</a></li>
+            <li><a href="#">주메뉴</a></li>
+            <li><a href="#">주메뉴</a></li>
+          </ul>
+        </li>
+        <li>
+          <a href="#">주메뉴</a>
+          <ul>
+            <li><a href="#">주메뉴</a></li>
+            <li><a href="#">주메뉴</a></li>
+            <li><a href="#">주메뉴</a></li>
+            <li><a href="#">주메뉴</a></li>
+            <li><a href="#">주메뉴</a></li>
+          </ul>
+        </li>
+      </ul>
+      <div class="nav_bg"></div>
+    </nav>
+  </header>
+  <main></main>
+  <footer></footer>
+</body>
+</html>

@@ -1,0 +1,149 @@
+<!DOCTYPE html>
+<html lang="ko">
+<head>
+  <meta charset="UTF-8">
+  <meta http-equiv="X-UA-Compatible" content="IE=edge">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <title>tab</title>
+  <style type="text/css">
+    ul, li, h2, p{
+      margin: 0;
+      padding: 0;
+      height: -9999px;
+      list-style: none;
+    }
+    a{
+      text-decoration: none;
+    }
+    .blind{
+      position: absolute;
+      left: -9999px;
+      height: -9999px;
+    }
+    .tab_menu{
+      width: 300px;
+      height: 300px;
+      border: 1px solid #999;
+      position: relative;
+    }
+    .tab_menu a{
+      display: block;
+      height: 100%;
+      text-align: center;
+      line-height: 40px;
+      font-size: 16px;
+      font-weight: bold;
+      color: #fff;
+    }
+    .list1{
+      width: 100px;
+      height: 40px;
+      background: rgb(255, 203, 61);
+      position: absolute;
+      top: 0;
+      left: 0;
+    }
+    .list2{
+      width: 100px;
+      height: 40px;
+      background: rgb(157, 246, 84);
+      position: absolute;
+      top: 0;
+      left: 100px;
+    }
+    .list3{
+      width: 100px;
+      height: 40px;
+      background: rgb(74, 189, 255);
+      position: absolute;
+      top: 0;
+      left: 200px;
+    }
+
+    .tab1{
+      width: 300px;
+      height: 260px;
+      background: rgb(255, 145 ,0);
+      position: absolute;
+      left: 0;
+      top: 41px;
+    }
+    .tab2{
+      width: 300px;
+      height: 260px;
+      background: rgb(124, 236 ,32);
+      position: absolute;
+      left: 0;
+      top: 41px;
+      display: none;
+    }
+    .tab3{
+      width: 300px;
+      height: 260px;
+      background: rgb(29, 146 ,241);
+      position: absolute;
+      left: 0;
+      top: 41px;
+      display: none;
+    }
+  </style>
+  <script type="text/javascript" src="../js/jquery-3.6.0.min.js"></script>
+  <script type="text/javascript">
+    $(document).ready(function(){
+      // $(".list1").click(function(){
+      //   $(".tab1").show();
+      //   $(".tab2").hide();
+      //   $(".tab3").hide();
+      // });
+      // $(".list2").click(function(){
+      //   $(".tab1").hide();
+      //   $(".tab2").show();
+      //   $(".tab3").hide();
+      // });
+      // $(".list3").click(function(){
+      //   $(".tab1").hide();
+      //   $(".tab2").hide();
+      //   $(".tab3").show();
+      // });
+
+      $(".list li").click(function(){
+        var idx = $(this).index();
+        $(".tabs div").hide();
+        // var show_box = ".tabs div:eq("+idx+")";
+        // $(show_box).show();
+
+        // $(".tabs div:eq("+idx+")").show();
+
+        $(".tabs div").eq(idx).show();
+      });
+    });
+  </script>
+</head>
+<body>
+  <div class="tab_menu">
+    <div class="list">
+      <h2 class="blind">TITLE</h2>
+      <ul>
+        <li class="list1"><a href="#">1</a></li>
+        <li class="list2"><a href="#">2</a></li>
+        <li class="list3"><a href="#">3</a></li>
+      </ul>
+    </div>
+
+    <div class="tabs">
+      <div class="tab1">
+        <h2 class="blind"><a href="#">1</a></h2>
+        <p>11111</p>
+      </div>
+      <div class="tab2">
+        <h2 class="blind"><a href="#">2</a></h2>
+        <p>22222</p>
+      </div>
+      <div class="tab3">
+        <h2 class="blind"><a href="#">3</a></h2>
+        <p>33333</p>
+      </div>
+    </div>
+  </div>
+</body>
+</html>

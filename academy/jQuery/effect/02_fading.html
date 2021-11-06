@@ -1,0 +1,75 @@
+<!DOCTYPE html>
+<html lang="ko">
+<head>
+  <meta charset="UTF-8">
+  <meta http-equiv="X-UA-Compatible" content="IE=edge">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <title>fading</title>
+  <style type="text/css">
+    body{
+      font-size: 20px;
+    }
+    #pop{
+      width: 300px;
+      height: 400px;
+      position: absolute;
+      left: 50px;
+      top:50px;
+      background: #09f;
+    }
+  </style>
+  <script type="text/javascript" src="../js/jquery-3.6.0.min.js"></script>
+  <script type="text/javascript">
+    $(document).ready(function(){
+      $("a:last").click(function(){
+        // $("#pop").hide();
+        // $("#pop").fadeOut();
+        // $("#pop").fadeOut(2000);
+        // $("#pop").fadeOut("fast");
+        $("#pop").fadeOut("slow", function(){
+          alert("fade를 완료하였습니다.");
+        });
+
+      });
+
+      $("a:first").click(function(){
+        // $("#pop").show();
+        // $("#pop").fadeIn();
+        // $("#pop").fadeIn(2000);
+        // $("#pop").fadeIn("fast");
+        $("#pop").fadeIn("slow", function(){
+          alert("fade를 완료하였습니다.");
+        });
+      });
+
+      $("a:eq(3)").click(function(){
+        // $("#pop").toggle();
+        // $("#pop").fadeToggle();
+        // $("#pop").fadeToggle(2000);
+        // $("#pop").fadeToggle("fast");
+        $("#pop").fadeToggle("slow", function(){
+          alert("fade를 완료하였습니다.");
+        });
+      });
+
+      $("a:eq(1)").click(function(){
+        $("#pop").fadeTo("slow", 0.5);
+      });
+
+      $("a:eq(1)").click(function(){
+        $("#pop").fadeTo("slow", 1);
+      });
+
+    });
+  </script>
+</head>
+<body>
+  <a href="#">보이기</a>
+  <a href="#">50%</a>
+  <a href="#">100%</a>
+  <a href="#">바꾸기</a>
+  <div id="pop">
+    <a href="#">감추기</a>
+  </div>
+</body>
+</html>
