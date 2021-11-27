@@ -1,0 +1,170 @@
+** DB 생성 : front **
+create database front
+default character set utf8
+default collate utf8_general_ci;
+
+* DB 선택 *
+use front;
+
+* 테이블 생성 *
+1. 새로운 테이블 만들기
+create table 테이블이름(
+  필드명 데이터타입(길이) 제약,
+  필드명 데이터타입(길이) 제약,
+  필드명 데이터타입(길이) 제약,
+  필드명 데이터타입(길이) 제약
+);
+
+2. 다른 테이블을 이용한 테이블 생성
+create table 테이블이름 as select 문;
+
+========================
+게시판 : board
+--------------------------------
+항목 | 열이름 | 데이터타입(길이) | 제약
+--------------------------------
+글번호 | idx | int | PK, AI
+제목 | title | varchar(100) | NN
+내용 | content | text | NN
+작성자 | author | varchar(20) | NN
+작성일자 | wr_date | date | NN
+조회수 | view_count | int | default 0
+
+create table board(
+  idx int primary key auto_increment,
+  title varchar(100) not null,
+  content text not null,
+  author varchar(20) not null,
+  wr_date date not null,
+  view_count int default 0
+);
+
+* 테이블 구조 확인
+describe 테이블이름;
+desc 테이블이름;
+
+create table board2 as select title, content, author from board;
+
+* 테이블 수정
+1. 열 삭제
+alter table 테이블이름 drop 삭제할 열이름
+- alter table board drop view_count;
+
+2. 열 추가
+alter table 테이블이름 add 열이름 자료형;
+- alter table board add view_count varchar(20);
+
+alter table 테이블이름 add 열이름 자료형 after 필드명;
+alter table 테이블이름 add 열이름 자료형 first 필드명;
+
+3. 데이터 타입 변경 
+alter table 테이블이름 modify 열이름 자료형;
+- alter table board modify view_count int default 0;
+
+4. 필드명 변경
+alter table 테이블이름 change 기존열이름 새로운열이름 자료형;
+
+* 테이블 이름 변경
+1. rename table 이전테이블이름 to 새로운테이블이름
+- rename table board to notice;
+
+2. alter table 이전테이블이름 rename 새로운테이블이름
+- alter table notice rename event;
+
+* 테이블 데이터 삭제(DML : delete)
+1. truncate table 테이블이름
+- truncate table event;
+
+* 테이블 삭제
+1. drop table 테이블이름
+- drop table board2;
+
+* insert : 데이터 입력
+1. 전체 필드에 데이터 입력
+insert into 테이블이름 values('값1', '값2', ....);
+- insert into board values(1, '첫번째 글', 'aaaaaaaa', '관리자', '2021-11-24', 0);
+
+2. 일부 필드에 데이터 입력
+insert into 테이블이름(필드명1, 필드명2, ...) values('필드1의 값1', '필드2의 값2', ...);
+- insert into board(title, content, author, wr_date) values('두번째 글', 'bbbbbbbbb', '홍길동', '2021-11-24');
+
+* select : 데이터 검색
+1. 전체 데이터 검색
+select * from 테이블이름
+- select * from board;
+
+2. 일부 데이터 검색
+select 필드명, 필드명, ... from 테이블이름;
+- select idx, title from board;
+
+3. 중복값 제외 검색
+select distinct 필드명 from 테이블이름;
+- select distinct wr_date from board;
+
+4. 별칭 사용
+select 필드명 as 별칭, 필드명 as 별칭, ... from 테이블이름;
+- select title as '제목', content as '내용' from board;
+
+5. where절 : 조건검색
+select 필드명 from 테이블이름 where 조건;
+- select * from board where idx=1;
+- select title, content from board where idx=1;
+- select * from board where author='관리자';
+
+6. in : 비연속 범위 검색
+select 필드명 from 테이블이름 where 조건필드 in(검색조건, 검색 조건, ...);
+- select * from board where idx in(1, 3, 5);
+
+7. between ~ and : 연속 범위 검색
+select 필드명 from 테이블이름 where 조건필드 between 최초범위 and 최종범위;
+- select * from board where idx between 1 and 5;
+- select * from board where wr_date between '2021-11-22' and '2021-11-24';
+
+8. order by asc(오름차순)/desc(내림차순) : 정렬
+select 필드명 from 테이블명 order by 기준필드 정렬방식
+- select * from board order by idx desc;
+- select * from board where idx in(1, 3, 5) order by idx desc;
+
+* update : 데이터 수정
+1. update 테이블이름 set 필드명 = '수정할 값';
+- update board set view_count=1;
+
+2. update 테이블이름 set 필드명 = '수정할 값', 필드명='수정할 값', ...;
+
+3. update 테이블이름 set 필드명 = '수정할 값', 필드명='수정할 값', ... where 조건;
+- update board set view_count=2 where idx in(1, 3, 5);
+
+* delete : 데이터 수정
+1. delete from 테이블이름;
+- delete from board;
+
+2. delete from 테이블이름 where 조건;
+- delete from board where idx in(1, 3, 5);
+
+* 사용자 생성
+create user '아이디'@'호스트(접속위치)' identified by '비밀번호';
+- create user 'tester1'@'localhost'identified by '1234';
+
+1. 접속 위치
+- 내부 : localhost
+- 외부 : %
+- 특정 IP
+
+* 권한 확인
+show grants for '사용자'@'접속위치';
+
+1. usage : 접속 권한
+
+* 사용자 제거
+drop user '아이디'@'접속위치'
+- drop user 'tester1'@'localhost';
+
+* grant : 권한 부여
+grant 권한, 권한 on DB이름.테이블이름 to '아이디'@'접속위치' with 옵션;
+
+1. tester1 사용자에게 front 라는 DB의 모든 테이블에 select, insert 권한 부여
+- grant select, insert on front.* to 'tester1'@'localhost';
+
+* revoke : 권한 회수
+revoke 권한 on DB.table from '사용자'@'접속위치';
+- revoke all on *.* from 'tester1'@'localhost';
