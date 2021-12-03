@@ -1,0 +1,887 @@
+<!DOCTYPE html>
+<html lang="ko">
+<head>
+    <meta charset="UTF-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>한진</title>
+    <style type="text/css">
+    /* css 초기화(reset) : 태그들이 가지고 있는 기본 속성과 값을 코딩하기 편한 값으로 변경 */
+    body{
+        font-family:"나눔고딕", "맑은 고딕", "돋움";
+        font-size:14px;
+        line-height:1.5
+    }
+    body, h1, h2, h3, p, div, ul, li, dl, dt, dd{
+        margin:0;
+        padding:0
+    }
+    a{
+        text-decoration:none;
+        color:#000
+        /* color:inherit */
+    }
+    ul, li{
+        list-style:none
+    }
+    address{
+        font-style:normal
+    }
+
+    /* 공통 클래스 */
+    .blind{position:absolute;clip:rect(0 0 0 0);width:1px;height:1px;margin:-1px;overflow:hidden}
+    .screen_out{overflow:hidden;position:absolute;width:0;height:0;line-height:0;text-indent:-9999px}
+    .hide{position:absolute;left:-9999px;top:-9999px}
+
+    /* header */
+    .header{
+        height:160px;
+        border-top:1px solid #fff
+    }
+
+    .logo{
+        /* Image Replacement : 텍스트를 이미지로 출력 */
+        /* 1. 크기 설정 */
+        width:184px; height:39px;
+        /* 2. 배경 이미지 적용 */
+        background:url(images/logo.jpg) no-repeat;
+        /* 3. 글자 감추기 */
+        text-indent:-9999px;
+        /* margin:auto;
+        margin-top:28px;
+        margin-bottom:22px; */
+        margin:26px auto 22px;
+        
+        /* border:1px solid #f00 */
+    }
+    .logo a{
+        display:block;
+        /* width:184px; height:39px */
+        height:100%
+    }
+
+    /* gnb */
+    .gnb{
+        border-top:1px solid #cbcbcb
+    }
+    .gnb ul{
+        width:1000px;
+        height:72px;
+        /* overflow:hidden; */
+        margin:auto
+    }
+    /* .gnb > ul > li{float:left} */
+    .menu1{
+        float:left;
+        margin-right:60px
+    }
+    
+    /* .menu1 a{
+        width:119px; height:72px;
+        background:url(images/menu_01.jpg) no-repeat;
+        text-indent:-9999px;
+    }
+    .menu1 a{
+        display:block;
+        width:119px; height:72px
+    } */
+
+    .menu1 a{
+        width:119px; height:72px;
+        background:url(images/menu_01.jpg) no-repeat;
+        text-indent:-9999px;
+        display:block;
+    }
+
+    .menu2{
+        float:left;
+        margin-right:60px
+    }
+    .menu2 a{
+        width:118px; height:72px;
+        background:url(images/menu_02.jpg) no-repeat;
+        text-indent:-9999px;
+        display:block;
+    }
+
+    .menu3{
+        float:left;
+        margin-right:60px
+    }
+    .menu3 a{
+        width:117px; height:72px;
+        background:url(images/menu_03.jpg) no-repeat;
+        text-indent:-9999px;
+        display:block;
+    }
+
+    .menu4{
+        float:left;
+        margin-right:60px
+    }
+    .menu4 a{
+        width:120px; height:72px;
+        background:url(images/menu_04.jpg) no-repeat;
+        text-indent:-9999px;
+        display:block;
+    }
+
+    .menu5{
+        float:left;
+        margin-right:60px
+    }
+    .menu5 a{
+        width:99px; height:72px;
+        background:url(images/menu_05.jpg) no-repeat;
+        text-indent:-9999px;
+        display:block;
+    }
+
+    .menu6{
+        float:left
+    }
+    .menu6 a{
+        width:120px; height:72px;
+        background:url(images/menu_06.jpg) no-repeat;
+        text-indent:-9999px;
+        display:block;
+    }
+
+    /* top menu */
+    .top_menu{
+        width:1000px;
+        margin:auto;
+        position:relative
+    }
+    .top_menu ul{
+        position:absolute;
+        right:0;
+        top:-100px
+    }
+    .top_menu ul li{
+        float:left
+    }
+    /* .top_menu ul li:first-child{} */
+    /* .site_map{
+        padding-right:11px;
+        margin-right:10px;
+        background:url(images/top_bar.jpg) no-repeat right center
+    } */
+    .site_map:after{
+        content:"|";
+        margin:0 10px
+    }
+
+    /* main image */
+    .main_image{
+        width:1000px;
+        margin:0 auto 60px
+    }
+    .main_image1{
+        width:1000px; height:519px;
+        background:url(images/main_01.jpg) no-repeat;
+        text-indent:-9999px;
+    }
+
+    /* glp */
+    .glp{
+        width:1000px;
+        height:560px;
+        margin:0 auto 60px
+    }
+    /* .glp_title{} */
+    .glp h2{
+        width:550px; height:24px;
+        background:url(images/glp_title.jpg) no-repeat;
+        text-indent:-9999px;
+        margin:0 auto 10px
+    }
+    .glp_text1{
+        text-align:center;
+        margin-bottom:20px
+    }
+    .glp_text2{
+        text-align:center;
+        margin-bottom:40px
+    }
+    .glp_down{
+        text-indent:-9999px;
+        display:inline-block;
+
+        /* width:8px; height:7px;
+        background:url(images/glp_down.jpg) no-repeat;
+        position:relative;top:8px */
+
+        width:8px; height:18px;
+        background:url(images/glp_down.jpg) 0 8px no-repeat;
+        
+        /* border:1px solid #f00; */
+    }
+    .glp_cont1{
+        width:321px;
+        height:400px;
+        border-right:1px solid #cdcdcd;
+        border-bottom:1px solid #cdcdcd;
+        background:url(images/glp_image1.jpg) no-repeat;
+        padding:260px 20px 20px;
+        box-sizing:border-box;
+        position:relative;
+        float:left
+    }
+    .glp_cont1 dt{
+        font-size:15px;
+        font-weight:bold;
+        margin-bottom:15px
+    }
+    .glp_cont1 a{
+        width:69px; height:24px;
+        background:url(images/glp_more.jpg) no-repeat;
+        text-indent:-9999px;
+        display:block;
+        position:absolute;
+        left:20px;
+        bottom:20px
+    }
+
+    .glp_cont2{
+        width:356px;
+        height:400px;
+        border-right:1px solid #cdcdcd;
+        border-bottom:1px solid #cdcdcd;
+        background:url(images/glp_image2.jpg) no-repeat center top;
+        padding:260px 20px 20px;
+        box-sizing:border-box;
+        position:relative;
+        float:left
+    }
+    .glp_cont2 dt{
+        font-size:15px;
+        font-weight:bold;
+        margin-bottom:15px
+    }
+    .glp_cont2 a{
+        width:69px; height:24px;
+        background:url(images/glp_more.jpg) no-repeat;
+        text-indent:-9999px;
+        display:block;
+        position:absolute;
+        left:20px;
+        bottom:20px
+    }
+
+    .glp_cont3{
+        width:323px;
+        height:400px;
+        border-right:1px solid #cdcdcd;
+        border-bottom:1px solid #cdcdcd;
+        background:url(images/glp_image3.jpg) no-repeat right top;
+        padding:260px 20px 20px;
+        box-sizing:border-box;
+        position:relative;
+        float:left
+    }
+    .glp_cont3 dt{
+        font-size:15px;
+        font-weight:bold;
+        margin-bottom:15px
+    }
+    .glp_cont3 a{
+        width:69px; height:24px;
+        background:url(images/glp_more.jpg) no-repeat;
+        text-indent:-9999px;
+        display:block;
+        position:absolute;
+        left:20px;
+        bottom:20px
+    }
+
+    /* biz */
+    .biz_wrap{
+        background:url(images/ob_bg.jpg) repeat-x bottom;
+        margin-bottom:60px
+    }
+    .biz{
+        width:1000px;
+        margin:auto;
+        position:relative
+    }
+    .biz h2{
+        width:227px; height:18px;
+        background:url(images/ob_title.jpg) no-repeat;
+        text-indent:-9999px;
+        margin:0 auto 10px
+    }
+    .biz p{
+        text-align:center;
+        margin-bottom:40px
+    }
+    .biz_cont1{
+        width:760px;
+        height:510px;
+        background:url(images/ob_image1.jpg) no-repeat;
+        padding:450px 20px 20px;
+        box-sizing:border-box;
+        position:relative;
+        margin:auto;
+        color:#fff
+    }
+    .biz_cont1 dt{
+        font-size:15px;
+        font-weight:bold;
+        float:left;
+        margin-right:50px
+    }
+    .biz_cont1 dd{
+        width:600px;
+        float:left
+    }
+    .biz_cont1 a{
+        width:92px; height:31px;
+        background:url(images/ob_more.jpg) no-repeat;
+        text-indent:-9999px;
+        display:block;
+        position:absolute;
+        left:650px;
+        top:380px
+    }
+    .biz_prev{
+        width:22px; height:42px;
+        background:url(images/ob_prev.jpg) no-repeat;
+        text-indent:-9999px;
+        display:block;
+        position:absolute;
+        left:50px;
+        top:260px
+    }
+    .biz_next{
+        width:22px; height:42px;
+        background:url(images/ob_next.jpg) no-repeat;
+        text-indent:-9999px;
+        display:block;
+        position:absolute;
+        right:50px;
+        top:260px
+    }
+
+    /* news */
+    .news{
+        width:856px;
+        height:560px;
+        margin:0 auto 60px
+    }
+    .news h2{
+        width:211px; height:18px;
+        background:url(images/news_title.jpg) no-repeat;
+        text-indent:-9999px;
+        margin:0 auto 10px
+    }
+    .news p{
+        text-align:center;
+        margin-bottom:40px
+    }
+    .news_cont1{
+        width:276px;
+        height:371px;
+        background:url(images/news_image1.jpg) no-repeat;
+        padding:220px 15px 15px;
+        border:1px solid #cbcbcb;
+        box-sizing:border-box;
+        position:relative;
+        float:left;
+        margin-right:14px;
+        margin-bottom:40px
+    }
+    .news_cont1 dt{
+        font-size:15px;
+        font-weight:bold;
+        white-space:nowrap;
+        overflow:hidden;
+        text-overflow:ellipsis;
+        margin-bottom:20px
+    }
+    .news_cont1 span{
+        position:absolute;
+        left:15px;
+        bottom:15px
+    }
+
+    .news_cont2{
+        width:276px;
+        height:371px;
+        background:url(images/news_image2.jpg) no-repeat;
+        padding:220px 15px 15px;
+        border:1px solid #cbcbcb;
+        box-sizing:border-box;
+        position:relative;
+        float:left;
+        margin-right:14px;
+        margin-bottom:40px
+    }
+    .news_cont2 dt{
+        font-size:15px;
+        font-weight:bold;
+        white-space:nowrap;
+        overflow:hidden;
+        text-overflow:ellipsis;
+        margin-bottom:20px
+    }
+    .news_cont2 span{
+        position:absolute;
+        left:15px;
+        bottom:15px
+    }
+
+    .news_cont3{
+        width:276px;
+        height:371px;
+        background:url(images/news_image3.jpg) no-repeat;
+        padding:220px 15px 15px;
+        border:1px solid #cbcbcb;
+        box-sizing:border-box;
+        position:relative;
+        float:left;
+        margin-bottom:40px
+    }
+    .news_cont3 dt{
+        font-size:15px;
+        font-weight:bold;
+        white-space:nowrap;
+        overflow:hidden;
+        text-overflow:ellipsis;
+        margin-bottom:20px
+    }
+    .news_cont3 span{
+        position:absolute;
+        left:15px;
+        bottom:15px
+    }
+
+    .news a{
+        width:116px; height:39px;
+        background:url(images/news_more.jpg) no-repeat;
+        text-indent:-9999px;
+        display:block;
+        clear:both;
+        margin:auto
+    }
+
+    /* ci */
+    .ci_wrap{
+        background:#eee;
+        padding:30px 0;
+        margin-bottom:40px
+    }
+    .ci{
+        width:680px;
+        height:38px;
+        margin:auto
+    }
+    .ci p{
+        width:400px; height:38px;
+        background:url(images/ci_text.jpg) no-repeat;
+        text-indent:-9999px;
+        float:left
+    }
+    .ci a{
+        width:178px; height:38px;
+        background:url(images/ci_view.jpg) no-repeat;
+        text-indent:-9999px;
+        display:block;
+        float:right
+    }
+
+    /* video */
+    .cont_bottom{
+        width:1000px;
+        height:310px;
+        margin:0 auto 60px;
+        padding:0 20px
+    }
+    .video{
+        width:472px;
+        height:310px;
+        float:left;
+        margin-right:16px;
+        position:relative
+    }
+    .video h2{
+        width:165px; height:22px;
+        background:url(images/video_title.jpg) no-repeat;
+        text-indent:-9999px;
+        margin-bottom:15px
+    }
+    .video p{
+        width:471px; height:270px;
+        background:url(images/video_image.jpg) no-repeat;
+        text-indent:-9999px;
+    }
+    .video a{
+        width:22px; height:22px;
+        background:url(images/video_more.jpg) no-repeat;
+        text-indent:-9999px;
+        display:block;
+        position:absolute;
+        left:165px;
+        top:0
+    }
+
+    /* social */
+    .social{
+        width:472px;
+        height:310px;
+        float:left;
+        position:relative
+    }
+    .social h2{
+        width:220px; height:22px;
+        background:url(images/social_title.jpg) no-repeat;
+        text-indent:-9999px;
+        margin-bottom:15px
+    }
+    .social p{
+        width:472px; height:270px;
+        background:url(images/social_image.jpg) no-repeat;
+        text-indent:-9999px;
+    }
+    .social a{
+        width:22px; height:22px;
+        background:url(images/video_more.jpg) no-repeat;
+        text-indent:-9999px;
+        display:block;
+        position:absolute;
+        left:220px;
+        top:0
+    }
+
+    /* footer */
+    .footer{
+        background:#626262;
+        color:#fff
+    }
+    .footer a{
+        color:#fff
+    }
+
+    .footer_top{
+        width:1000px;
+        margin:auto;
+        position:relative
+    }
+    
+    .footer h2{
+        width:142px; height:29px;
+        background:url(images/logo_footer.jpg) no-repeat;
+        text-indent:-9999px;
+        position:absolute;
+        left:20px;
+        top:80px
+    }
+
+    .term ul{
+        height:60px
+    }
+    .term li{
+        line-height:60px;
+        float:left;
+        margin-left:20px
+    }
+
+    .family_site{
+        width:200px;
+        height:30px;
+        border:1px solid #eee;
+        position:absolute;
+        right:20px;
+        top:14px
+    }
+    .family_site h3{
+        font-size:14px;
+        font-weight:normal;
+        padding:5px 10px;
+        background:url(images/family_down.jpg) no-repeat 170px center
+    }
+    .family_site ul{
+        width:202px;
+        background:#626262;
+        position:absolute;
+        left:-1px;
+        overflow:hidden;
+        border:1px solid #eee;
+        box-sizing:border-box;
+        top:-142px;
+        /* top:-1px;
+        height:0;
+        display:none */
+    }
+    .family_site li{
+        line-height:35px;
+        padding:0 10px
+    }
+
+    .footer_bottom_wrap{
+        border-top:1px solid #eee
+    }
+    .footer_bottom{
+        width:1000px;
+        margin:auto;
+        padding:20px 0 30px 260px;
+        box-sizing:border-box
+    }
+    .footer_bottom_cont1{
+        overflow:hidden
+    }
+    .fbc_txt1{
+        float:left
+    }
+    .fbc_txt1:after{
+        content:"/";
+        margin:0 10px
+    }
+    .footer_bottom_cont1 p{
+        float:left
+    }
+    .footer_bottom_cont2{
+        overflow:hidden
+    }
+    .fbc_txt2:after{
+        content:"/";
+        margin:0 10px
+    }
+    .footer_bottom_cont2 p{
+        float:left
+    }
+    </style>
+    <script type="text/javascript" src="http://code.jquery.com/jquery-3.6.0.min.js"></script>
+    <script type="text/javascript">
+    $(function(){
+        var ckNum = 0;
+        $(".family_site h3").click(function(){
+            if(ckNum == 0){
+                $(".family_site ul").css({display:"block"});
+                $(".family_site ul").animate({height:142,top:-142});
+                ckNum = 1;
+            } else{
+                $(this).next().stop().animate({height:0, top:-1},
+                "fast", function(){
+                    $(this).css({display:"none"});
+                });
+                ckNum = 0;
+            };
+        });
+    });
+    </script>
+</head>
+<body>
+    <header id="header" class="header">
+        <h1 class="logo"><a href="#">한진</a></h1>
+
+        <nav class="gnb">
+            <h2 class="blind">주요메뉴</h2>
+            <ul>
+                <li class="menu1"><a href="#">한진소개</a>
+                    <!-- <ul>
+                        <li><a href="#">서브메뉴</a></li>
+                        <li><a href="#">서브메뉴</a></li>
+                        <li><a href="#">서브메뉴</a></li>
+                        <li><a href="#">서브메뉴</a></li>
+                    </ul> -->
+                </li>
+                <li class="menu2"><a href="#">홍보센터</a></li>
+                <li class="menu3"><a href="#">사업영역</a></li>
+                <li class="menu4"><a href="#">투자정보</a></li>
+                <li class="menu5"><a href="#">한진인</a></li>
+                <li class="menu6"><a href="#">고객지원</a></li>
+            </ul>
+        </nav>
+    
+        <div class="top_menu">
+            <h2 class="screen_out">사용자 메뉴</h2>
+            <ul>
+                <li class="site_map"><a href="#">SITE MAP</a></li>
+                <li><a href="#">ENGLISH</a></li>
+            </ul>
+        </div>
+    </header>
+
+    <main id="content" class="content">
+        <section class="main_image">
+            <h2 class="hide">주요 소식</h2>
+            <ul>
+                <li class="main_image1"><a href="#">내용 1</a></li>
+                <!-- <li class="main_image2"><a href="#">내용 2</a></li>
+                <li class="main_image3"><a href="#">내용 3</a></li> -->
+            </ul>
+        </section>
+            
+        <section class="glp">
+            <h2 class="glp_title">세계적 물류기업, 한진</h2>
+
+            <p class="glp_text1">땀과 희망을 전해왔습니다.<br>
+            전세계에 행복과 미래를 전달합니다.</p>
+
+            <p class="glp_text2"><span class="hide">주가정보</span> 25,250 <span class="glp_down">하락</span> 200(0.79%)</p>
+
+            <!-- <div>
+                <h3>한진택배</h3>
+                <p>차별화된 고품격 택배서비스를 제공합니다.</p>
+                <a href="#">더보기</a>
+            </div> -->
+
+            <dl class="glp_cont1">
+                <dt>한진택배</dt>
+                <dd>
+                    차별화된 고품격 택배서비스를 제공합니다.
+                    <a href="#">더보기</a>
+                </dd>
+            </dl>
+            
+            <dl class="glp_cont2">
+                <dt>한진렌터카</dt>
+                <dd>
+                    제주 렌터카, 장기 렌탈, 최상의 한진 렌터카 서비스를 만나보세요.
+                    <a href="#">더보기</a>
+                </dd>
+            </dl>
+            
+            <dl class="glp_cont3">
+                <dt>이하넥스</dt>
+                <dd>
+                    해외직구 상품구매에서 배송대행 서비스가지 편리하게 이용하세요.
+                    <a href="#">더보기</a>
+                </dd>
+            </dl>
+        </section>
+
+        <div class="biz_wrap">
+            <section class="biz">
+                <h2>사업 소개</h2>
+
+                <p>글로벌 종합물류기업으로서 최상의 물류서비스를 제공합니다.</p>
+
+                <dl class="biz_cont1">
+                    <dt>물류사업</dt>
+                    <dd>
+                        한진은 70여년간 쌓아온 전문 물류 노하우를 바탕으로 3PL, 육운사업, 항만물류사업, 해운사업, 중량물사업, 보관물류 사업 등을 수행하고 있습니다.
+                        <a href="#">자세히 보기</a>
+                    </dd>
+                </dl>
+                
+                <!--
+                <dl class="biz_cont2">
+                    <dt>물류사업</dt>
+                    <dd>
+                        한진은 70여년간 쌓아온 전문 물류 노하우를 바탕으로 3PL, 육운사업, 항만물류사업, 해운사업, 중량물사업, 보관물류 사업 등을 수행하고 있습니다.
+                        <a href="#">자세히 보기</a>
+                    </dd>
+                </dl>
+
+                <dl class="biz_cont3">
+                    <dt>물류사업</dt>
+                    <dd>
+                        한진은 70여년간 쌓아온 전문 물류 노하우를 바탕으로 3PL, 육운사업, 항만물류사업, 해운사업, 중량물사업, 보관물류 사업 등을 수행하고 있습니다.
+                        <a href="#">자세히 보기</a>
+                    </dd>
+                </dl>
+                -->
+
+                <a href="#" class="biz_prev">이전</a>
+                <a href="#" class="biz_next">다음</a>
+            </section>
+        </div>
+
+        <section class="news">
+            <h2>한진 뉴스</h2>
+
+            <p>한진의 새로운 소식들을 만나보실 수 있습니다.</p>
+
+            <dl class="news_cont1">
+                <dt>㈜한진, 택배기사에게 ‘크리스마스 기프트박스’ 선물</dt>
+                <dd>
+                    종합물류기업 한진이 코로나19로 증가한 택배물량으로 바쁘...
+                    <span>2020.12.21</span>
+                </dd>
+            </dl>
+            
+            <dl class="news_cont2">
+                <dt>㈜한진, 택배기사에게 ‘크리스마스 기프트박스’ 선물</dt>
+                <dd>
+                    종합물류기업 한진이 코로나19로 증가한 택배물량으로 바쁘...
+                    <span>2020.12.21</span>
+                </dd>
+            </dl>
+            
+            <dl class="news_cont3">
+                <dt>㈜한진, 택배기사에게 ‘크리스마스 기프트박스’ 선물</dt>
+                <dd>
+                    종합물류기업 한진이 코로나19로 증가한 택배물량으로 바쁘...
+                    <span>2020.12.21</span>
+                </dd>
+            </dl>
+
+            <a href="#">더보기</a>
+        </section>
+
+        <div class="ci_wrap">
+            <div class="ci">
+                <p>한진 CI 소개</p>
+                <a href="#">자세히보기</a>
+            </div>
+        </div>
+
+        <div class="cont_bottom">
+            <section class="video">
+                <h2>한진 영상</h2>
+                <p>영상보기</p>
+                <a href="#">더보기</a>
+            </section>
+
+            <section class="social">
+                <h2>사회 공헌</h2>
+                <p>국립현충원 봉사활동</p>
+                <a href="#">더보기</a>
+            </section>
+        </div>
+    
+    </main>
+
+    <footer id="footer" class="footer">
+        <div class="footer_top">
+            <h2>사이트 이용안내</h2>
+
+            <div class="term">
+                <h3 class="hide">약관 및 정책</h3>
+                <ul>
+                    <li><a href="#">사이트 이용약관</a></li>
+                    <li><a href="#">개인정보 처리방침</a></li>
+                    <li><a href="#">이메일 무단수집거부</a></li>
+                    <li><a href="#">Global Home</a></li>
+                </ul>
+            </div>
+
+            <div class="family_site">
+                <h3>그룹사 바로가기</h3>
+                <ul>
+                    <li><a href="#">그룹사 1</a></li>
+                    <li><a href="#">그룹사 2</a></li>
+                    <li><a href="#">그룹사 3</a></li>
+                    <li><a href="#">그룹사 4</a></li>
+                </ul>
+            </div>            
+        </div>
+
+        <div class="footer_bottom_wrap">
+            <div class="footer_bottom">
+                <div class="footer_bottom_cont1">
+                    <address class="fbc_txt1">주소 : 서울시 중구 남대문로 63 (주)한진</address>
+                    <p>대표번호 : 02-728-5114</p>
+                </div>
+                <div class="footer_bottom_cont2">
+                    <p class="fbc_txt2">대표이사 사장 : 서용원</p>
+                    <p>사업자등록번호 : 201-81-02823</p>
+                </div>
+                <p>Copyright HANJIN All right reserved</p>
+            </div>
+        </div>
+    </footer>
+</body>
+</html>
