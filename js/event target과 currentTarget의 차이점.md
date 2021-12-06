@@ -2,7 +2,7 @@ event.currentTarget == the element to which the event handler has been attached.
 
 > The currentTarget read-only property of the Event interface identifies the current target for the event, as the event traverses the DOM. It always refers to the element to which the event handler has been attached, as opposed to Event.target, which identifies the element on which the event occurred and which may be its descendant.
 
-핵심은 currentTarget은 이벤트 핸들러가 부착된 것을 가리킨다는 것 <br>
+핵심은 currentTarget은 이벤트 핸들러가 부착된 것을 가리킨다는 것이다. <br>
 즉, event.target은 부모로부터 이벤트가 위임되어 발생하는 자식의 위치, 내가 클릭한 자식 요소를 반환한다. 하지만 currentTarget은 이벤트가 부착된 부모의 위치를 반환한다.
 
 - 코드
