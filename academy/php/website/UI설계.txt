@@ -1,0 +1,113 @@
+** UI 설계 : 회원관리(+로그인) **
+
+=================================================================================
+* 디렉토리 구성
+- 전체 : website
+- 메인 페이지 : website/index.php
+- 회원관리 : website/members
+- 인클루드 : website/inc
+- 로그인 : website/login
+- 관리자 : website/admin
+- 관리자 > 회원관리 : website/admin/members
+
+=================================================================================
+* 페이지 구성 : website/members
+- 회원가입 / 처리 페이지 : join.php / insert.php
+- 정보확인(수정) / 처리 페이지 : edit.php / edit_ok.php
+- 회원탈퇴 처리 페이지 : edit.php -> delete.php
+- 아이디 중복확인 : search_id.php / result.php
+- 주소검색 : search_addr.php / result_addr.php
+
+=================================================================================
+* 페이지 구성 : website/inc
+- dbcon.php
+
+=================================================================================
+* 페이지 구성 : website/login
+- login.php
+- login_ok.php
+- logout.php
+
+=================================================================================
+* 페이지 구성 : website/admin
+- admin.php
+- login_ok.php
+- logout.php
+
+=================================================================================
+* 페이지 구성 : website/admin/members
+(- 회원가입 / 처리 페이지 : join.php / insert.php)
+- 정보확인(수정) / 처리 페이지 : edit.php / edit_ok.php
+- 회원탈퇴 처리 페이지 : delete.php
+(- 아이디 중복확인 : search_id.php / result.php)
+(- 주소검색 : search_addr.php / result_addr.php)
+- 회원 목록 : list.php
+
+=================================================================================
+
+* 회원가입 : join.php
+-------------------------------------------------
+폼 요소 name : join_form
+action : insert.php
+method : post
+-------------------------------------------------
+항목 | 요소 | type | name | id | class | 제약(규칙), 기능
+-------------------------------------------------
+이름 | input | text | u_name | u_name | u_name | 필수입력
+아이디 | input | text | u_id | u_id | u_id | 필수입력, 4~12글자
+아이디 중복확인 | button | button | o | o | btn | 팝업창 출력
+비밀번호 | input | password | pwd | pwd | pwd | 필수입력, 4~8글자
+비밀번호 확인 | input | password | repwd | repwd | repwd | 비번과 동일
+생년월일 | input | text | birth | birth | birth | o
+우편번호 | input | text | postalCode | postalCode | postal_code | o
+주소검색 | button | button | o | o | btn | 팝업창 출력
+기본주소 | input | text | addr1 | addr1 | addr1 | o
+상세주소 | input | text | addr2 | addr2 | addr2 | o
+이메일 아이디 | input | text | email_id | email_id | email_id | o
+이메일 도메인 | input | text | email_dns | email_dns | email_dns | o
+이메일 도메인 선택 | select | o | email_sel | email_sel | email_sel | 항목 선택시 도메인 필드에 값 출력
+전화번호 | input | text | mobile | mobile | mobile | 숫자만
+약관동의 | input | checkbox | agree | agree | agree | 필수 체크
+이전으로 | button | button | o | o | btn | 이전 페이지로 이동
+가입하기 | button | submit | o | o | btn | o
+
+=================================================================================
+* DB 설계
+-------------------------------------------------
+DB명 : front
+
+create database front
+default character set utf8
+default collate utf8_general_ci;
+
+=================================================================================
+* table 설계 : members
+-------------------------------------------------
+항목 | 필드명 | 자료형(길이값) | 제약
+-------------------------------------------------
+인덱스 | idx | int | AI, PK
+이름 | u_name | varchar(20) | NN
+아이디 | u_id | varchar(20) | NN
+비밀번호 | pwd | varchar(20) | NN
+생년월일 | birth | date | 
+우편번호 | postalCode | char(5) | 
+기본주소 | addr1 | varchar(100) | 
+상세주소 | addr2 | varchar(100) | 
+이메일 | email | varchar(50) | 
+전화번호 | mobile | varchar(15) | 
+가입일 | reg_date | date | 
+
+create table members(
+    idx int auto_increment Primary Key,
+    u_name varchar(20) not null,
+    u_id varchar(20) not null,
+    pwd varchar(20) not null,
+    birth date,
+    postalCode char(5),
+    addr1 varchar(100),
+    addr2 varchar(100),
+    email varchar(50),
+    mobile varchar(15),
+    reg_date date
+);
+
