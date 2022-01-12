@@ -15,8 +15,8 @@
             // alert("TEST");
 
             // 객체 생성
-            var uname = document.getElementById("uname");
-            var uid = document.getElementById("uid");
+            var uname = document.getElementById("u_name");
+            var uid = document.getElementById("u_id");
             var pwd = document.getElementById("pwd");
             var repwd = document.getElementById("repwd");
             var mobile = document.getElementById("mobile");
