@@ -1,0 +1,10 @@
+* 리디렉션
+<script type="text/javascript">
+var mobileKeyWords = new Array('iPhone', 'iPod', 'BlackBerry', 'Android', 'Windows CE', 'LG', 'MOT', 'SAMSUNG', 'SonyEricsson');
+for (var word in mobileKeyWords){
+    if (navigator.userAgent.match(mobileKeyWords[word]) != null){
+        location.href = "이동할 모바일 주소";
+        break;
+    }
+}
+</script>
