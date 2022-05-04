@@ -5,3 +5,5 @@
 - [git branch와 git merge](./merge.md)
 
 - [브랜치 생성과 체크아웃](https://mylko72.gitbooks.io/git/content/branch/checkout.html)
+
+- [Git 브랜치의 종류 및 사용법 (5가지)](https://gmlwjd9405.github.io/2018/05/11/types-of-git-branch.html)
