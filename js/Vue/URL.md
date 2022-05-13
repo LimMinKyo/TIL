@@ -9,3 +9,5 @@
 - [vue3 composition api 사용법](https://kyounghwan01.github.io/blog/Vue/vue3/composition-api/#composition-api%E1%84%80%E1%85%A1-%E1%84%82%E1%85%A1%E1%84%8B%E1%85%A9%E1%84%80%E1%85%A6-%E1%84%83%E1%85%AC%E1%86%AB-%E1%84%87%E1%85%A2%E1%84%80%E1%85%A7%E1%86%BC)
 
 - [vue 폼 입력 바인딩](https://kr.vuejs.org/v2/guide/forms.html)
+
+- [v-model 대신 v-on를 사용해야하는 경우 (v-model 한글입력)](https://hj-tilblog.tistory.com/87)
