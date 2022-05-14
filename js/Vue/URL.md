@@ -11,3 +11,5 @@
 - [vue 폼 입력 바인딩](https://kr.vuejs.org/v2/guide/forms.html)
 
 - [v-model 대신 v-on를 사용해야하는 경우 (v-model 한글입력)](https://hj-tilblog.tistory.com/87)
+
+- [vue 이벤트 전파 막는 방법](https://pinokio0702.tistory.com/289)
