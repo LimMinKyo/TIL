@@ -13,3 +13,7 @@
 - [v-model 대신 v-on를 사용해야하는 경우 (v-model 한글입력)](https://hj-tilblog.tistory.com/87)
 
 - [vue 이벤트 전파 막는 방법](https://pinokio0702.tistory.com/289)
+
+## 라이브러리
+
+- [vue3 App (5) - Toast UI Editor 붙이기](https://velog.io/@latte_h/Vue3-App-5-Toast-UI-Editor-%EB%B6%99%EC%9D%B4%EA%B8%B0)
