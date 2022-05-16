@@ -14,6 +14,8 @@
 
 - [vue 이벤트 전파 막는 방법](https://pinokio0702.tistory.com/289)
 
+- [vue.js 에서 환경변수 설정하기](https://velog.io/@dragoocho/Vue.js-%EC%97%90%EC%84%9C-%ED%99%98%EA%B2%BD%EB%B3%80%EC%88%98-%EC%84%A4%EC%A0%95%ED%95%98%EA%B8%B0)
+
 ## 라이브러리
 
 - [vue3 App (5) - Toast UI Editor 붙이기](https://velog.io/@latte_h/Vue3-App-5-Toast-UI-Editor-%EB%B6%99%EC%9D%B4%EA%B8%B0)
