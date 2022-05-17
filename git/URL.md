@@ -9,3 +9,5 @@
 - [Git 브랜치의 종류 및 사용법 (5가지)](https://gmlwjd9405.github.io/2018/05/11/types-of-git-branch.html)
 
 - [git 원격저장소 브랜치 삭제(delete remote branch)](https://www.lesstif.com/gitbook/git-delete-remote-branch-20776547.html)
+
+- [Git 부모 브랜치 확인하기](https://cosmosproject.tistory.com/141)
