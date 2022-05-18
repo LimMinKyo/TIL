@@ -11,3 +11,5 @@
 - [git 원격저장소 브랜치 삭제(delete remote branch)](https://www.lesstif.com/gitbook/git-delete-remote-branch-20776547.html)
 
 - [Git 부모 브랜치 확인하기](https://cosmosproject.tistory.com/141)
+
+- [git add 취소하기, git commit 취소하기, git push 취소하기](https://gmlwjd9405.github.io/2018/05/25/git-add-cancle.html)
