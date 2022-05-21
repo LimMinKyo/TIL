@@ -21,3 +21,5 @@
 ## 라이브러리
 
 - [vue3 App (5) - Toast UI Editor 붙이기](https://velog.io/@latte_h/Vue3-App-5-Toast-UI-Editor-%EB%B6%99%EC%9D%B4%EA%B8%B0)
+
+- [[Vue JS] toast ui editor 사용하기](https://velog.io/@unani92/Vue-toast-ui-editor-%EC%82%AC%EC%9A%A9%ED%95%98%EA%B8%B0)
