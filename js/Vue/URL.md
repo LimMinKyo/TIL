@@ -20,6 +20,8 @@
 
 - [Vue Js 뷰 파일업로드](https://www.bottlehs.com/vue/vue-js-%ED%8C%8C%EC%9D%BC%EC%97%85%EB%A1%9C%EB%93%9C/)
 
+- [[Vue.js] watch와 watchEffect의 차이](https://velog.io/@soulee__/Vue.js-watch%EC%99%80-watchEffect%EC%9D%98-%EC%B0%A8%EC%9D%B4)
+
 ## 라이브러리
 
 - [vue3 App (5) - Toast UI Editor 붙이기](https://velog.io/@latte_h/Vue3-App-5-Toast-UI-Editor-%EB%B6%99%EC%9D%B4%EA%B8%B0)
