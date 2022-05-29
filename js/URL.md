@@ -11,3 +11,5 @@
 - [day.js 사용 방법 - JavaScript 날짜 라이브러리](https://jsikim1.tistory.com/196)
 
 - [for in - 객체에서 사용하는 반복문](https://devjhs.tistory.com/121)
+
+- [Chrome으로 디버깅하기](https://ko.javascript.info/debugging-chrome)
