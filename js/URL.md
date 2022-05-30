@@ -12,4 +12,6 @@
 
 - [for in - 객체에서 사용하는 반복문](https://devjhs.tistory.com/121)
 
+- [객체에서 키 이름 변경](https://hjcode.tistory.com/91)
+
 - [Chrome으로 디버깅하기](https://ko.javascript.info/debugging-chrome)
