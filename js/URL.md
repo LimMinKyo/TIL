@@ -17,3 +17,5 @@
 - [Chrome으로 디버깅하기](https://ko.javascript.info/debugging-chrome)
 
 - [formData의 값을 console.log로 볼 수 없는 원인](https://velog.io/@josworks27/formData-console.log)
+
+- [객체에서 키 이름 변경](https://hjcode.tistory.com/91)
