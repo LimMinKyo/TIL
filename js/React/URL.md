@@ -5,3 +5,5 @@
 - [Redux vs Mobx vs Recoil](https://ykss.netlify.app/react/redux_mobx_recoil/)
 
 - [React Query vs SWR](https://goongoguma.github.io/2021/11/04/React-Query-vs-SWR/)
+
+- [REACT QUERY VS SWR](https://tech.madup.com/react-query-vs-swr/)
