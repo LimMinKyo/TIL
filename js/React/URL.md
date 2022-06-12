@@ -7,3 +7,5 @@
 - [React Query vs SWR](https://goongoguma.github.io/2021/11/04/React-Query-vs-SWR/)
 
 - [REACT QUERY VS SWR](https://tech.madup.com/react-query-vs-swr/)
+
+- [[번역] : React Query - 왜, 그리고 어떻게 사용할 수 있을까?](https://merrily-code.tistory.com/76)
