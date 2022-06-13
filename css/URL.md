@@ -21,3 +21,5 @@
 - [CSS 너비의 소수점 이하 자릿수가 존중됩니까?](https://stackoverflow.com/questions/4308989/are-the-decimal-places-in-a-css-width-respected)
 
 - [HTML + CSS 깊이 2단계인 메뉴 드롭다운 만들기](https://rgy0409.tistory.com/2962)
+
+- [Tailwind CSS 사용기](https://fe-developers.kakaoent.com/2022/220303-tailwind-tips/)
