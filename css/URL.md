@@ -23,3 +23,5 @@
 - [HTML + CSS 깊이 2단계인 메뉴 드롭다운 만들기](https://rgy0409.tistory.com/2962)
 
 - [Tailwind CSS 사용기](https://fe-developers.kakaoent.com/2022/220303-tailwind-tips/)
+
+- [flexbox로 만들 수 있는 10가지 레이아웃](https://wit.nts-corp.com/2018/07/27/5274)
