@@ -24,6 +24,8 @@
 
 - [[Vue.js] Vue.js 실무 프로젝트에 적용하면 좋은 내용 정리](https://jess2.xyz/vue/vue-tip/)
 
+- [Vue router navigation guards](https://router.vuejs.org/guide/advanced/navigation-guards.html)
+
 ## 라이브러리
 
 - [vue3 App (5) - Toast UI Editor 붙이기](https://velog.io/@latte_h/Vue3-App-5-Toast-UI-Editor-%EB%B6%99%EC%9D%B4%EA%B8%B0)
