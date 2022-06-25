@@ -11,3 +11,5 @@
 - [[번역] : React Query - 왜, 그리고 어떻게 사용할 수 있을까?](https://merrily-code.tistory.com/76)
 
 - [[React] API키 숨기기(dotenv 활용하기)](https://velog.io/@lifeisbeautiful/React-API%ED%82%A4-%EC%88%A8%EA%B8%B0%EA%B8%B0)
+
+- [react-router v6에 대해서 알아보자](https://www.jaeme.dev/react-router-v6/)
