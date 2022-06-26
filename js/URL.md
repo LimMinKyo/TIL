@@ -23,3 +23,5 @@
 - [JavaScript 클립보드로 복사하기](https://zetawiki.com/wiki/JavaScript_%ED%81%B4%EB%A6%BD%EB%B3%B4%EB%93%9C%EB%A1%9C_%EB%B3%B5%EC%82%AC%ED%95%98%EA%B8%B0)
 
 - [[Javascript] 숫자 3자리(천단위) 마다 콤마 찍는 2가지 방법](https://hianna.tistory.com/441)
+
+- [로그인 인증 4가지 방법](https://velog.io/@gusdnr814/%EB%A1%9C%EA%B7%B8%EC%9D%B8-%EC%9D%B8%EC%A6%9D-4%EA%B0%80%EC%A7%80-%EB%B0%A9%EB%B2%95)
