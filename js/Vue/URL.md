@@ -33,3 +33,5 @@
 - [[Vue JS] toast ui editor 사용하기](https://velog.io/@unani92/Vue-toast-ui-editor-%EC%82%AC%EC%9A%A9%ED%95%98%EA%B8%B0)
 
 - [Vue.js - Excel Download 바로 처리하기](https://jhhan009.tistory.com/73)
+
+- [[vue] 테이블 데이터 Excel Export 하기](https://berrrrr.github.io/programming/2020/11/15/vue-table-excel-export/)
