@@ -35,3 +35,7 @@
 - [Vue.js - Excel Download 바로 처리하기](https://jhhan009.tistory.com/73)
 
 - [[vue] 테이블 데이터 Excel Export 하기](https://berrrrr.github.io/programming/2020/11/15/vue-table-excel-export/)
+
+## Quasar
+
+- [[Solved] How to make a q-table with multiple headers?](https://forum.quasar-framework.org/topic/2818/solved-how-to-make-a-q-table-with-multiple-headers)
