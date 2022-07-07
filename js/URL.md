@@ -1,4 +1,4 @@
-# 링크 정리
+# Javascript
 
 - [이벤트 버블링, 이벤트 캡처 그리고 이벤트 위임까지](https://joshua1988.github.io/web-development/javascript/event-propagation-delegation/)
 
@@ -25,3 +25,7 @@
 - [[Javascript] 숫자 3자리(천단위) 마다 콤마 찍는 2가지 방법](https://hianna.tistory.com/441)
 
 - [로그인 인증 4가지 방법](https://velog.io/@gusdnr814/%EB%A1%9C%EA%B7%B8%EC%9D%B8-%EC%9D%B8%EC%A6%9D-4%EA%B0%80%EC%A7%80-%EB%B0%A9%EB%B2%95)
+
+## 라이브러리
+
+- [Chartjs Tooltip Line Breaks](https://stackoverflow.com/questions/29302392/chartjs-tooltip-line-breaks)
