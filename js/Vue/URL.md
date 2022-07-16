@@ -30,6 +30,8 @@
 
 - [vue 페이지 이동 시 스크롤 위치 상단 적용](https://a-low-fat-piggy.tistory.com/entry/vue-%ED%8E%98%EC%9D%B4%EC%A7%80-%EC%9D%B4%EB%8F%99-%EC%8B%9C-%EC%8A%A4%ED%81%AC%EB%A1%A4-%EC%9C%84%EC%B9%98-%EC%83%81%EB%8B%A8-%EC%A0%81%EC%9A%A9)
 
+- [Vue.js Bundle 최적화](https://velog.io/@kangsan/Vue.js-Bundle-%EC%B5%9C%EC%A0%81%ED%99%94)
+
 ## 라이브러리
 
 - [vue3 App (5) - Toast UI Editor 붙이기](https://velog.io/@latte_h/Vue3-App-5-Toast-UI-Editor-%EB%B6%99%EC%9D%B4%EA%B8%B0)
