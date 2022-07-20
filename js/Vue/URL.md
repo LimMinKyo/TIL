@@ -32,6 +32,10 @@
 
 - [Vue.js Bundle 최적화](https://velog.io/@kangsan/Vue.js-Bundle-%EC%B5%9C%EC%A0%81%ED%99%94)
 
+- [vue 리팩토링1](https://pozafly.github.io/tripllo/(8)vue-refactor1/)
+
+- [vue 리팩토링2](https://pozafly.github.io/tripllo/(9)vue-refactor2/)
+
 ## 라이브러리
 
 - [vue3 App (5) - Toast UI Editor 붙이기](https://velog.io/@latte_h/Vue3-App-5-Toast-UI-Editor-%EB%B6%99%EC%9D%B4%EA%B8%B0)
