@@ -13,3 +13,5 @@
 - [[React] API키 숨기기(dotenv 활용하기)](https://velog.io/@lifeisbeautiful/React-API%ED%82%A4-%EC%88%A8%EA%B8%B0%EA%B8%B0)
 
 - [react-router v6에 대해서 알아보자](https://www.jaeme.dev/react-router-v6/)
+
+- [useEffect scroll Event](https://codesandbox.io/s/useeffect-scroll-event-oolh6?from-embed=&file=/src/index.js:215-246)
