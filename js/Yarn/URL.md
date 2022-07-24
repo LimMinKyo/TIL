@@ -5,3 +5,5 @@
 - [Yarn Berry를 사용해보자](https://velog.io/@seokunee/Yarn-Berry%EB%A5%BC-%EC%82%AC%EC%9A%A9%ED%95%B4%EB%B3%B4%EC%9E%90)
 
 - [yarn2와 함께 PnP(Plug'n'Play)를 적용해보자. (feat. Typescript)](https://velog.io/@altmshfkgudtjr/yarn2%EC%99%80-%ED%95%A8%EA%BB%98-Plug-n-Play%EB%A5%BC-%EC%A0%81%EC%9A%A9%ED%95%B4%EB%B3%B4%EC%9E%90)
+
+- [yarn berry cannot find module 해결](https://jerrynim.dev/post/yarn-berry-typescript-cannot-find-module)
