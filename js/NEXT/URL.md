@@ -9,3 +9,5 @@
 - [Next.js Testing](https://nextjs.org/docs/testing)
 
 - [[Next.js] 테스트 환경셋팅](https://dev-yakuza.posstree.com/ko/react/nextjs/test/)
+
+- [Next Js에서 Do not use <img> 오류 해결 하는 2가지 방법](https://codemasterkimc.tistory.com/64)
