@@ -13,3 +13,5 @@
 - [Next Js에서 Do not use <img> 오류 해결 하는 2가지 방법](https://codemasterkimc.tistory.com/64)
 
 - [[Next.js] Absolute Imports and Module path aliases](https://nextjs.org/docs/advanced-features/module-path-aliases)
+
+- [[Next.js] Next.js + redux toolkit 기본 세팅](https://cotak.tistory.com/164)
