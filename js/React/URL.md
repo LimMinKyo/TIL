@@ -15,3 +15,5 @@
 - [react-router v6에 대해서 알아보자](https://www.jaeme.dev/react-router-v6/)
 
 - [useEffect scroll Event](https://codesandbox.io/s/useeffect-scroll-event-oolh6?from-embed=&file=/src/index.js:215-246)
+
+- [벨로퍼트와 함께하는 모던 리액트](https://react.vlpt.us/)
