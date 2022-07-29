@@ -17,3 +17,6 @@
 - [useEffect scroll Event](https://codesandbox.io/s/useeffect-scroll-event-oolh6?from-embed=&file=/src/index.js:215-246)
 
 - [벨로퍼트와 함께하는 모던 리액트](https://react.vlpt.us/)
+
+- [[React] Infinite Scroll 구현 (IntersectionObserver)](https://velog.io/@rkd028/React-Infinite-Scroll-%EA%B5%AC%ED%98%84-IntersectionObserver)
+
