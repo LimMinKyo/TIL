@@ -20,3 +20,5 @@
 
 - [[React] Infinite Scroll 구현 (IntersectionObserver)](https://velog.io/@rkd028/React-Infinite-Scroll-%EA%B5%AC%ED%98%84-IntersectionObserver)
 
+
+- [React Testing Library를 이용한 선언적이고 확장 가능한 테스트](https://ui.toast.com/weekly-pick/ko_20210630)
