@@ -15,3 +15,5 @@
 - [[Next.js] Absolute Imports and Module path aliases](https://nextjs.org/docs/advanced-features/module-path-aliases)
 
 - [[Next.js] Next.js + redux toolkit 기본 세팅](https://cotak.tistory.com/164)
+
+- [Next.js SEO 쉽게 적용하기](https://kyounghwan01.github.io/blog/React/next/next-seo/)
