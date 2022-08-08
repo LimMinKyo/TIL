@@ -27,3 +27,5 @@
 - [flexbox로 만들 수 있는 10가지 레이아웃](https://wit.nts-corp.com/2018/07/27/5274)
 
 - [Theming Bootstrap](https://getbootstrap.com/docs/4.0/getting-started/theming/)
+
+- [How to fix Unknown at rule `@tailwindcss(unknownAtRules)` in VS Code](https://flaviocopes.com/fix-unknown-at-rule-tailwind/)
