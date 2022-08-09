@@ -29,3 +29,5 @@
 - [Theming Bootstrap](https://getbootstrap.com/docs/4.0/getting-started/theming/)
 
 - [How to fix Unknown at rule `@tailwindcss(unknownAtRules)` in VS Code](https://flaviocopes.com/fix-unknown-at-rule-tailwind/)
+
+- [[css] 드래그(drag) 막기](https://fresh-mint.tistory.com/entry/css-%EB%93%9C%EB%9E%98%EA%B7%B8-%EB%B0%A9%EC%A7%80)
