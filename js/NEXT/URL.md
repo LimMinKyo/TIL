@@ -19,3 +19,5 @@
 - [Next.js SEO 쉽게 적용하기](https://kyounghwan01.github.io/blog/React/next/next-seo/)
 
 - [Next.js 환경변수](https://taenami.tistory.com/26)
+
+- [React와 Next.js의 Cors 에러 해결 (Proxy)](https://velog.io/@leehyunho2001/Next.js-Cors-%EC%97%90%EB%9F%AC-%ED%95%B4%EA%B2%B0-Proxy)
