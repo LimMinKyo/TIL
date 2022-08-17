@@ -27,3 +27,5 @@
 - [[React] input 입력 시 콘솔 에러](https://mik-a.com/62)
 
 - [My구독의 React Query 전환기](https://tech.kakao.com/2022/06/13/react-query/)
+
+- [[React-Hook-Form] Question about initial values](https://github.com/react-hook-form/react-hook-form/issues/721)
