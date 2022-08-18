@@ -23,3 +23,5 @@
 - [React와 Next.js의 Cors 에러 해결 (Proxy)](https://velog.io/@leehyunho2001/Next.js-Cors-%EC%97%90%EB%9F%AC-%ED%95%B4%EA%B2%B0-Proxy)
 
 - [How to Fix "localStorage is not defined" in Next.js](https://developer.school/snippets/react/localstorage-is-not-defined-nextjs)
+
+- [How I structure my Next JS Projects](https://blog.anurag.tech/how-i-structure-my-next-js-projects)
