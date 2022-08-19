@@ -25,3 +25,5 @@
 - [How to Fix "localStorage is not defined" in Next.js](https://developer.school/snippets/react/localstorage-is-not-defined-nextjs)
 
 - [How I structure my Next JS Projects](https://blog.anurag.tech/how-i-structure-my-next-js-projects)
+
+- [[React-Query]SSR & Next.js](https://react-query-v3.tanstack.com/guides/ssr)
