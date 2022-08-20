@@ -27,3 +27,5 @@
 - [How I structure my Next JS Projects](https://blog.anurag.tech/how-i-structure-my-next-js-projects)
 
 - [[React-Query]SSR & Next.js](https://react-query-v3.tanstack.com/guides/ssr)
+
+- [[Solved] React 18: Hydration failed because the initial UI does not match what was rendered on the server](https://ittutorialpoint.com/solved-react-18-hydration-failed-because-the-initial-ui-does-not-match-what-was-rendered-on-the-server/)
