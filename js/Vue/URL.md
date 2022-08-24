@@ -38,6 +38,8 @@
 
 - [[Vue] Vue Router - chunk load fail 로 인한 삽질기](https://blog.wanzargen.me/m/39)
 
+- [Can vue-router open a link in a new tab?](https://stackoverflow.com/questions/40015037/can-vue-router-open-a-link-in-a-new-tab)
+
 ## 라이브러리
 
 - [vue3 App (5) - Toast UI Editor 붙이기](https://velog.io/@latte_h/Vue3-App-5-Toast-UI-Editor-%EB%B6%99%EC%9D%B4%EA%B8%B0)
