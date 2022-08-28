@@ -31,3 +31,5 @@
 - [[Solved] React 18: Hydration failed because the initial UI does not match what was rendered on the server](https://ittutorialpoint.com/solved-react-18-hydration-failed-because-the-initial-ui-does-not-match-what-was-rendered-on-the-server/)
 
 - [Next.js - SSR이라고만 알고있었다.](https://watermelonlike.tistory.com/entry/Nextjs-%EB%82%98%EB%8A%94-%EA%B7%B8%EC%A0%80-SSR%EC%9D%B8%EC%A4%84%EB%A7%8C-%EC%95%8C%EA%B3%A0-%EC%9E%88%EC%97%88%EB%8B%A4)
+
+- [[Culture Place제작기-3-] Nextjs와 함께하는 React Query -1-](https://velog.io/@familyman80/Culture-Place%EC%A0%9C%EC%9E%91%EA%B8%B0-3-Nextjs%EC%99%80-%ED%95%A8%EA%BB%98%ED%95%98%EB%8A%94-React-Query-1-)
