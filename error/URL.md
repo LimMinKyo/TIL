@@ -7,3 +7,5 @@
 - [Input elements should have autocomplete attributes](https://stackoverflow.com/questions/54970352/input-elements-should-have-autocomplete-attributes)
 
 - [error with thread-loader](https://github.com/getsentry/sentry-webpack-plugin/issues/272)
+
+- [[nvm] clang: error: no such file or directory: 'CXX=c++'](https://velog.io/@nyanji00/nvm-clang-error)
