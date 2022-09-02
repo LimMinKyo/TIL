@@ -40,6 +40,8 @@
 
 - [Can vue-router open a link in a new tab?](https://stackoverflow.com/questions/40015037/can-vue-router-open-a-link-in-a-new-tab)
 
+- [Creating Custom Hooks with Vue 3 & Typescript](https://codesource.io/creating-custom-hooks-with-vue-3-typescript/)
+
 ## 라이브러리
 
 - [vue3 App (5) - Toast UI Editor 붙이기](https://velog.io/@latte_h/Vue3-App-5-Toast-UI-Editor-%EB%B6%99%EC%9D%B4%EA%B8%B0)
