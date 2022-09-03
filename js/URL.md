@@ -26,6 +26,8 @@
 
 - [[javascript] 여러 요소를 배열로 푸시](http://daplus.net/javascript-%EC%97%AC%EB%9F%AC-%EC%9A%94%EC%86%8C%EB%A5%BC-%EB%B0%B0%EC%97%B4%EB%A1%9C-%ED%91%B8%EC%8B%9C/)
 
+- [JSDoc를 사용해서 Javasript 문서화해보자!](https://okayoon.tistory.com/entry/JSDoc%EB%A5%BC-%EC%82%AC%EC%9A%A9%ED%95%B4%EC%84%9C-Javasript-%EB%AC%B8%EC%84%9C%ED%99%94%ED%95%B4%EB%B3%B4%EC%9E%90)
+
 ## 라이브러리
 
 - [Chartjs Tooltip Line Breaks](https://stackoverflow.com/questions/29302392/chartjs-tooltip-line-breaks)
