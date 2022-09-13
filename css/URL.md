@@ -31,3 +31,5 @@
 - [How to fix Unknown at rule `@tailwindcss(unknownAtRules)` in VS Code](https://flaviocopes.com/fix-unknown-at-rule-tailwind/)
 
 - [[css] 드래그(drag) 막기](https://fresh-mint.tistory.com/entry/css-%EB%93%9C%EB%9E%98%EA%B7%B8-%EB%B0%A9%EC%A7%80)
+
+- [CSS / word-break / 줄바꿈을 단어 기준으로 할 지 글자 기준으로 할 지 정하는 속성](https://www.codingfactory.net/10658)
