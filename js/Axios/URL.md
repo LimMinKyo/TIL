@@ -7,3 +7,5 @@
 - [Axios 인터셉터로 API 관리하기](https://velog.io/@skyepodium/axios-%EC%9D%B8%ED%84%B0%EC%85%89%ED%84%B0%EB%A1%9C-API-%EA%B4%80%EB%A6%AC%ED%95%98%EA%B8%B0)
 
 - [How to download exported excel from laravel using axios?](https://stackoverflow.com/questions/67881860/how-to-download-exported-excel-from-laravel-using-axios)
+
+- [Axios - delete 요청 시 body에 데이터 넣는 법](https://velog.io/@bigbrothershin/Axios-delete-%EC%9A%94%EC%B2%AD-%EC%8B%9C-body%EC%97%90-%EB%8D%B0%EC%9D%B4%ED%84%B0-%EB%84%A3%EB%8A%94-%EB%B2%95)
