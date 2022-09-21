@@ -13,6 +13,6 @@
 - [Git](./git/URL.md)
 - [Web](./Web/URL.md)
 - [FE](./FE/URL.md)
-- [FE](./test/URL.md)
+- [Test](./test/URL.md)
 - [Error](./error/URL.md)
 - [Memo](./memo/URL.md)
