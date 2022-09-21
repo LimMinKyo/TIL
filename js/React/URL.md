@@ -29,3 +29,5 @@
 - [My구독의 React Query 전환기](https://tech.kakao.com/2022/06/13/react-query/)
 
 - [[React-Hook-Form] Question about initial values](https://github.com/react-hook-form/react-hook-form/issues/721)
+
+- [만들어 가며 알아보는 React: React는 왜 성공했나](https://techblog.woowahan.com/8311/)
