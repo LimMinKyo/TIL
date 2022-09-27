@@ -23,3 +23,5 @@
 - [git the requested URL returend error : 403 해결방법](https://beagle-dev.tistory.com/244)
 
 - [[NCloud]Git 클라이언트 사용](https://guide.ncloud-docs.com/docs/ko/sourcecommit-use-client)
+
+- [Multiple remote 여러개의 원격 저장소를 사용해서 멀티프로젝트 관리](https://everyauto.tistory.com/4)
