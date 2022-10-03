@@ -25,3 +25,5 @@
 - [[NCloud]Git 클라이언트 사용](https://guide.ncloud-docs.com/docs/ko/sourcecommit-use-client)
 
 - [Multiple remote 여러개의 원격 저장소를 사용해서 멀티프로젝트 관리](https://everyauto.tistory.com/4)
+
+- [git 초보를 위한 풀리퀘스트(pull request) 방법](https://wayhome25.github.io/git/2017/07/08/git-first-pull-request-story/)
