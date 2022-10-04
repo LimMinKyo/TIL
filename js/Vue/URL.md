@@ -42,6 +42,8 @@
 
 - [Creating Custom Hooks with Vue 3 & Typescript](https://codesource.io/creating-custom-hooks-with-vue-3-typescript/)
 
+- [배민찬은 Vue를 어떻게 사용하나요?](https://techblog.woowahan.com/2577/)
+
 ## 라이브러리
 
 - [vue3 App (5) - Toast UI Editor 붙이기](https://velog.io/@latte_h/Vue3-App-5-Toast-UI-Editor-%EB%B6%99%EC%9D%B4%EA%B8%B0)
