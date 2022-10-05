@@ -17,3 +17,7 @@
 - [개발 실력을 위한 IT기업 기술 블로그 45곳 모음](https://brunch.co.kr/@sicle-official/35)
 
 - [소스 코드 분석하는 현명한 방법?](https://coderlife.tistory.com/137)
+
+## 기술블로그
+
+- [백엔드 개발자의 웹 프론트엔드 개발기](https://techblog.woowahan.com/2683/)
