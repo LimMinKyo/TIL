@@ -18,6 +18,8 @@
 
 - [소스 코드 분석하는 현명한 방법?](https://coderlife.tistory.com/137)
 
+- [스타트업 신입 개발일지(02 : 소스 코드 분석하기)](https://velog.io/@qksud14/jrdev-02)
+
 ## 기술블로그
 
 - [백엔드 개발자의 웹 프론트엔드 개발기](https://techblog.woowahan.com/2683/)
