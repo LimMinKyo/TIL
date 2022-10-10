@@ -13,3 +13,5 @@
 - [개발자를 위한 친절한 UI 컴포넌트 라이브러리 만들기](https://engineering.linecorp.com/ko/blog/ui-component-library-for-developers-with-typescript-storybook/?utm_source=newsletter_external&utm_medium=devrel)
 
 - [홀로 공부하는 프론트엔드 입문자를 위한 로드맵](https://github.com/self-taught-fe-dev/fe-roadmap)
+
+- [스토리북으로 인터랙션 테스트하기](https://ui.toast.com/weekly-pick/ko_20220111)
