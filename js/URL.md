@@ -32,6 +32,8 @@
 
 - [자바스크립트 스크롤 맨 위로/맨 아래로 올리기/내리기](https://webruden.tistory.com/917)
 
+- [JavaScript - 쿠키 가져오기](https://rjs5967.tistory.com/25)
+
 ## 라이브러리
 
 - [Chartjs Tooltip Line Breaks](https://stackoverflow.com/questions/29302392/chartjs-tooltip-line-breaks)
