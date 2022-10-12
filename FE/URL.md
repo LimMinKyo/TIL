@@ -15,3 +15,5 @@
 - [홀로 공부하는 프론트엔드 입문자를 위한 로드맵](https://github.com/self-taught-fe-dev/fe-roadmap)
 
 - [스토리북으로 인터랙션 테스트하기](https://ui.toast.com/weekly-pick/ko_20220111)
+
+- [Mocking으로 생산성까지 챙기는 FE 개발](https://tech.kakao.com/2021/09/29/mocking-fe/)
