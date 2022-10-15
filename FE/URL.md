@@ -17,3 +17,5 @@
 - [스토리북으로 인터랙션 테스트하기](https://ui.toast.com/weekly-pick/ko_20220111)
 
 - [Mocking으로 생산성까지 챙기는 FE 개발](https://tech.kakao.com/2021/09/29/mocking-fe/)
+
+- [컴포넌트 분리의 미학](https://vallista.kr/Component-%EB%B6%84%EB%A6%AC%EC%9D%98-%EB%AF%B8%ED%95%99/)
