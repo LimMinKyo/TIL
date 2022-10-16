@@ -34,6 +34,8 @@
 
 - [JavaScript - 쿠키 가져오기](https://rjs5967.tistory.com/25)
 
+- [[JavaScript] - Web Notification API와 알림 기능](https://untitledtblog.tistory.com/107)
+
 ## 라이브러리
 
 - [Chartjs Tooltip Line Breaks](https://stackoverflow.com/questions/29302392/chartjs-tooltip-line-breaks)
