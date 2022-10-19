@@ -36,6 +36,8 @@
 
 - [[JavaScript] - Web Notification API와 알림 기능](https://untitledtblog.tistory.com/107)
 
+- [[Javascript] 버튼에 강제 클릭 발생 시키기](https://hianna.tistory.com/m/481)
+
 ## 라이브러리
 
 - [Chartjs Tooltip Line Breaks](https://stackoverflow.com/questions/29302392/chartjs-tooltip-line-breaks)
