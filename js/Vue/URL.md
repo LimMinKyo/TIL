@@ -58,6 +58,8 @@
 
 - [[vue] 테이블 데이터 Excel Export 하기](https://berrrrr.github.io/programming/2020/11/15/vue-table-excel-export/)
 
+- [[Vue3] click-outside-vue3](https://www.npmjs.com/package/click-outside-vue3)
+
 ## Quasar
 
 - [[Solved] How to make a q-table with multiple headers?](https://forum.quasar-framework.org/topic/2818/solved-how-to-make-a-q-table-with-multiple-headers)
