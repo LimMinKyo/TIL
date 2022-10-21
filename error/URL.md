@@ -9,3 +9,7 @@
 - [error with thread-loader](https://github.com/getsentry/sentry-webpack-plugin/issues/272)
 
 - [[nvm] clang: error: no such file or directory: 'CXX=c++'](https://velog.io/@nyanji00/nvm-clang-error)
+
+## 크로스 브라우징 이슈
+
+- [TIL, 정규표현식 Invalid regular expression 현상](https://dantechblog.gatsbyjs.io/posts/til-regex/)
