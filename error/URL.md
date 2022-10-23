@@ -13,3 +13,5 @@
 ## 크로스 브라우징 이슈
 
 - [TIL, 정규표현식 Invalid regular expression 현상](https://dantechblog.gatsbyjs.io/posts/til-regex/)
+
+- [v-model in input and textarea forms doen't work correctly on several mobile devices](https://github.com/vuejs/core/issues/5580)
