@@ -7,3 +7,5 @@
 - [실용적인 프론트엔드 테스트 전략 (2)](https://meetup.toast.com/posts/178)
 
 - [실용적인 프론트엔드 테스트 전략 (3)](https://meetup.toast.com/posts/180)
+
+- [단위 테스트로 복잡한 도메인의 프론트 프로젝트 정복하기(feat. Jest)](https://techblog.woowahan.com/8942/)
