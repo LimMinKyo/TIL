@@ -38,7 +38,7 @@
 
 - [[Javascript] 버튼에 강제 클릭 발생 시키기](https://hianna.tistory.com/m/481)
 
-- [how to reset <input type = "file">](https://stackoverflow.com/questions/20549241/how-to-reset-input-type-file)
+- [how to reset \<input type = "file"\>](https://stackoverflow.com/questions/20549241/how-to-reset-input-type-file)
 
 ## 라이브러리
 
