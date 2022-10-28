@@ -40,6 +40,8 @@
 
 - [how to reset \<input type = "file"\>](https://stackoverflow.com/questions/20549241/how-to-reset-input-type-file)
 
+- [자바스크립트 object 2개 비교하기](https://slee2540.tistory.com/49)
+
 ## 라이브러리
 
 - [Chartjs Tooltip Line Breaks](https://stackoverflow.com/questions/29302392/chartjs-tooltip-line-breaks)
