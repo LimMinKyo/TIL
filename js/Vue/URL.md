@@ -60,6 +60,8 @@
 
 - [[Vue3] click-outside-vue3](https://www.npmjs.com/package/click-outside-vue3)
 
+- [Vue3 툴팁](https://valgeirb.github.io/vue3-popper/)
+
 ## Quasar
 
 - [[Solved] How to make a q-table with multiple headers?](https://forum.quasar-framework.org/topic/2818/solved-how-to-make-a-q-table-with-multiple-headers)
