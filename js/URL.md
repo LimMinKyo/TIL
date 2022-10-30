@@ -42,6 +42,8 @@
 
 - [자바스크립트 object 2개 비교하기](https://slee2540.tistory.com/49)
 
+- [How to save .xlsx data to file as a blob](https://stackoverflow.com/questions/34993292/how-to-save-xlsx-data-to-file-as-a-blob)
+
 ## 라이브러리
 
 - [Chartjs Tooltip Line Breaks](https://stackoverflow.com/questions/29302392/chartjs-tooltip-line-breaks)
