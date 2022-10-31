@@ -49,3 +49,6 @@
 - [Chartjs Tooltip Line Breaks](https://stackoverflow.com/questions/29302392/chartjs-tooltip-line-breaks)
 
 - [Chart.js y축 소수점 제거](https://yeon22.github.io/Chartjs-kr/docs/latest/axes/radial/linear.html)
+
+- [Chart.js 눈금 0부터 시작하도록 option 설정](https://www.chartjs.org/docs/latest/)
+
