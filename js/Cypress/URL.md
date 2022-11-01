@@ -5,3 +5,5 @@
 - [Cypress 무작정 따라하기](https://nukeguys.github.io/dev/cypress/)
 
 - [ESLint: 'cy' is not defined (Cypress)](https://stackoverflow.com/questions/58982852/eslint-cy-is-not-defined-cypress)
+
+- [Cypress ESLint Plugin](https://github.com/cypress-io/eslint-plugin-cypress)
