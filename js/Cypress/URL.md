@@ -7,3 +7,5 @@
 - [ESLint: 'cy' is not defined (Cypress)](https://stackoverflow.com/questions/58982852/eslint-cy-is-not-defined-cypress)
 
 - [Cypress ESLint Plugin](https://github.com/cypress-io/eslint-plugin-cypress)
+
+- [FE개발자의 성장 스토리 12 : Angular E2E 테스팅 경험기](https://tech.kakao.com/2022/02/25/angular-e2e-testing-2/)
