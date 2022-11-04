@@ -46,6 +46,8 @@
 
 - [Javascript 특정 위치로 이동시키기](https://tler.tistory.com/287)
 
+- [자바스크립트 파일 첨부시 용량 체크](https://nahosung.tistory.com/42)
+
 ## 라이브러리
 
 - [Chartjs Tooltip Line Breaks](https://stackoverflow.com/questions/29302392/chartjs-tooltip-line-breaks)
