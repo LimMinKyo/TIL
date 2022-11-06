@@ -48,6 +48,10 @@
 
 - [자바스크립트 파일 첨부시 용량 체크](https://nahosung.tistory.com/42)
 
+## 클린코드
+
+- [for, if 둘다 제거해 보세요.](https://youtu.be/Izg6mVJ1LAA)
+
 ## 라이브러리
 
 - [Chartjs Tooltip Line Breaks](https://stackoverflow.com/questions/29302392/chartjs-tooltip-line-breaks)
