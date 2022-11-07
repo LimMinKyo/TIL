@@ -7,3 +7,5 @@
 - [Console logs are generated from instrument.js file #794](https://github.com/getsentry/sentry-react-native/issues/794)
 
 - [Sentry Example](https://github.com/getsentry/examples/blob/master/react-native/App.js#L23)
+
+- [Enable Readable Stack Traces in Your Errors](https://docs.sentry.io/product/sentry-basics/integrate-frontend/upload-source-maps/)
