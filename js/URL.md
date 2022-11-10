@@ -50,6 +50,8 @@
 
 - [Webpack resolve.alias does not work with VS Code IntelliSense](https://stackoverflow.com/questions/48686203/webpack-resolve-alias-does-not-work-with-vs-code-intellisense)
 
+- [Remove Console logs from production builds](https://forum.vuejs.org/t/remove-console-logs-from-production-buils/39327)
+
 ## 클린코드
 
 - [for, if 둘다 제거해 보세요.](https://youtu.be/Izg6mVJ1LAA)
