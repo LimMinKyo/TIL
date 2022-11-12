@@ -9,3 +9,5 @@
 - [Sentry Example](https://github.com/getsentry/examples/blob/master/react-native/App.js#L23)
 
 - [Enable Readable Stack Traces in Your Errors](https://docs.sentry.io/product/sentry-basics/integrate-frontend/upload-source-maps/)
+
+- [Web: 버그 리포팅을 위한 Sentry 적용하기 (React, webpack)](https://medium.com/hcleedev/web-%EB%B2%84%EA%B7%B8-%EB%A6%AC%ED%8F%AC%ED%8C%85%EC%9D%84-%EC%9C%84%ED%95%9C-sentry-%EC%A0%81%EC%9A%A9%ED%95%98%EA%B8%B0-react-webpack-b9690b8f5b45)
