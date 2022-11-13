@@ -19,3 +19,5 @@
 - [Mocking으로 생산성까지 챙기는 FE 개발](https://tech.kakao.com/2021/09/29/mocking-fe/)
 
 - [컴포넌트 분리의 미학](https://vallista.kr/Component-%EB%B6%84%EB%A6%AC%EC%9D%98-%EB%AF%B8%ED%95%99/)
+
+- [우리는 오늘도 성장합니다 - 인프랩 프론트엔드 업무 프로세스 변천사 | 인프콘 2022](https://www.youtube.com/watch?v=e5NPC1y7ha4)
