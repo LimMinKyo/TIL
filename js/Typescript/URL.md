@@ -7,3 +7,5 @@
 - [type for useRef if used with setInterval, react-typescript](https://stackoverflow.com/questions/65638439/type-for-useref-if-used-with-setinterval-react-typescript)
 
 - [tsconfig.json 구성 파일에서 입력을 찾을 수 없습니다.](https://velog.io/@heony/tsconfig.json-input-error)
+
+- [TypeScript 타입 시스템 뜯어보기: 타입 호환성](https://toss.tech/article/typescript-type-compatibility)
