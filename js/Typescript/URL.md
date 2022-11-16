@@ -11,3 +11,5 @@
 - [TypeScript 타입 시스템 뜯어보기: 타입 호환성](https://toss.tech/article/typescript-type-compatibility)
 
 - [Template Literal Types로 타입 안전하게 코딩하기](https://toss.tech/article/template-literal-types)
+
+- [Property 'files' does not exist on type 'EventTarget' error in typescript](https://stackoverflow.com/questions/43176560/property-files-does-not-exist-on-type-eventtarget-error-in-typescript)
