@@ -1,5 +1,9 @@
 # Axios
 
+## 공부
+
+- [[AXIOS] 📚 axios 설치 & 특징 & 문법 💯 정리](https://inpa.tistory.com/entry/AXIOS-%F0%9F%93%9A-%EC%84%A4%EC%B9%98-%EC%82%AC%EC%9A%A9)
+
 - [Axios instance 생성하고 api 요청 함수 작성하는 방법](https://pinokio0702.tistory.com/373)
 
 - [Axios interceptor 적용하기](https://velog.io/@subanggu/axios-interceptor-%EC%A0%81%EC%9A%A9%ED%95%98%EA%B8%B0)
