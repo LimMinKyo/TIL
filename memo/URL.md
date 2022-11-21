@@ -10,8 +10,6 @@
 
 - [유용한 웹사이트 모음](./useful_website.md)
 
-- [vscode 단축키](./VSCode_shortcutKey.md)
-
 - [절대경로 & 상대경로](./%EC%A0%88%EB%8C%80%EA%B2%BD%EB%A1%9C%20%26%20%EC%83%81%EB%8C%80%EA%B2%BD%EB%A1%9C.md)
 
 - [개발 실력을 위한 IT기업 기술 블로그 45곳 모음](https://brunch.co.kr/@sicle-official/35)

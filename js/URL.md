@@ -1,5 +1,7 @@
 # Javascript
 
+## 공부
+
 - [이벤트 버블링, 이벤트 캡처 그리고 이벤트 위임까지](https://joshua1988.github.io/web-development/javascript/event-propagation-delegation/)
 
 - [concat() VS push()](https://jindev-t.tistory.com/77)
@@ -51,6 +53,8 @@
 - [Webpack resolve.alias does not work with VS Code IntelliSense](https://stackoverflow.com/questions/48686203/webpack-resolve-alias-does-not-work-with-vs-code-intellisense)
 
 - [Remove Console logs from production builds](https://forum.vuejs.org/t/remove-console-logs-from-production-buils/39327)
+
+- [1분 HTML - VSCODE에서 태그를 쉽게 감싸는 방법 (emmet)](https://youtube.com/shorts/-pAoHcqXTVQ?feature=share)
 
 ## 클린코드
 
