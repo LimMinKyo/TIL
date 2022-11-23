@@ -56,6 +56,8 @@
 
 - [1분 HTML - VSCODE에서 태그를 쉽게 감싸는 방법 (emmet)](https://youtube.com/shorts/-pAoHcqXTVQ?feature=share)
 
+- [How to set cookie secure flag using javascript](https://stackoverflow.com/questions/37234687/how-to-set-cookie-secure-flag-using-javascript)
+
 ## 클린코드
 
 - [for, if 둘다 제거해 보세요.](https://youtu.be/Izg6mVJ1LAA)
