@@ -21,3 +21,5 @@
 - [컴포넌트 분리의 미학](https://vallista.kr/Component-%EB%B6%84%EB%A6%AC%EC%9D%98-%EB%AF%B8%ED%95%99/)
 
 - [우리는 오늘도 성장합니다 - 인프랩 프론트엔드 업무 프로세스 변천사 | 인프콘 2022](https://www.youtube.com/watch?v=e5NPC1y7ha4)
+
+- [아토믹 디자인을 활용한 디자인 시스템 도입기](https://fe-developers.kakaoent.com/2022/220505-how-page-part-use-atomic-design-system/)
