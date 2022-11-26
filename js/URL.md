@@ -58,6 +58,8 @@
 
 - [How to set cookie secure flag using javascript](https://stackoverflow.com/questions/37234687/how-to-set-cookie-secure-flag-using-javascript)
 
+- [쿠키와 document.cookie](https://ko.javascript.info/cookie)
+
 ## 클린코드
 
 - [for, if 둘다 제거해 보세요.](https://youtu.be/Izg6mVJ1LAA)
