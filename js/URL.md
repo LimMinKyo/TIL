@@ -64,6 +64,8 @@
 
 - [for, if 둘다 제거해 보세요.](https://youtu.be/Izg6mVJ1LAA)
 
+- [코드리뷰에서 칭찬받는 코드의 비밀 😎](https://youtu.be/BfpTtsWTWEM)
+
 ## 라이브러리
 
 - [Chartjs Tooltip Line Breaks](https://stackoverflow.com/questions/29302392/chartjs-tooltip-line-breaks)
