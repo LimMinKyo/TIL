@@ -60,6 +60,8 @@
 
 - [쿠키와 document.cookie](https://ko.javascript.info/cookie)
 
+- [01. 시큐리티 - HTTP Only 와 Secure Cookie](https://theheydaze.tistory.com/550)
+
 ## 클린코드
 
 - [for, if 둘다 제거해 보세요.](https://youtu.be/Izg6mVJ1LAA)
