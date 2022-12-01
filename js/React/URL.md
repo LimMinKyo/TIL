@@ -37,3 +37,6 @@
 - [Store에서 비동기 통신 분리하기 (feat. React Query)](https://techblog.woowahan.com/6339/)
 
 - [효율적인 modal 관리 with React(1)](https://nakta.dev/how-to-manage-modals-1)
+
+- [[TIL][React] 상태관리 고민 (Context, Recoil)](https://velog.io/@dldngus5/TILReact-%EC%83%81%ED%83%9C%EA%B4%80%EB%A6%AC-%EA%B3%A0%EB%AF%BC-Context-Recoil)
+
