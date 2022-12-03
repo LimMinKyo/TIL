@@ -40,5 +40,7 @@
 
 - [[TIL][React] 상태관리 고민 (Context, Recoil)](https://velog.io/@dldngus5/TILReact-%EC%83%81%ED%83%9C%EA%B4%80%EB%A6%AC-%EA%B3%A0%EB%AF%BC-Context-Recoil)
 
+- [TIL 030 리액트에서의 상태관리 Context vs Recoil vs Redux](https://velog.io/@chosh/%EB%A6%AC%EC%95%A1%ED%8A%B8%EC%97%90%EC%84%9C%EC%9D%98-%EC%83%81%ED%83%9C%EA%B4%80%EB%A6%AC-Context-vs-Recoil-vs-Redux)
+
 - [[React] 전역 모달 구현하기 :: 마이구미](https://mygumi.tistory.com/406)
 
