@@ -37,3 +37,6 @@
 - [[Culture Place제작기-3-] Nextjs와 함께하는 React Query -1-](https://velog.io/@familyman80/Culture-Place%EC%A0%9C%EC%9E%91%EA%B8%B0-3-Nextjs%EC%99%80-%ED%95%A8%EA%BB%98%ED%95%98%EB%8A%94-React-Query-1-)
 
 - [Next.js 블로그 참고](https://miryang.dev/blog/build-blog-with-nextjs)
+
+- [SWC Failed to Load](https://nextjs.org/docs/messages/failed-loading-swc)
+
