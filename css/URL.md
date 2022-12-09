@@ -37,3 +37,5 @@
 - [CSS 속성 선언 순서](https://uxkm.io/publishing/css/03-cssMiddleclass/10-css_attr_rule#gsc.tab=0)
 
 - [input 자동완성 배경색 변경하기](https://maybe-b50.tistory.com/102)
+
+- [[TailwindCSS] Dark Mode](https://tailwindcss.com/docs/dark-mode)
