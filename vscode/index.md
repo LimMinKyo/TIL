@@ -9,3 +9,5 @@
 - [비쥬얼 스튜디오 코드 신규 기능 + 필수 익스텐션 추천](https://www.youtube.com/watch?v=XMfyfNZooi4)
 
 - [vscode - Sticky Scroll](https://www.youtube.com/shorts/AxB3_vkEsqQ)
+
+- [vscode - 태그 명 자동 변경](https://www.youtube.com/shorts/LFEqhbEnUKA)
