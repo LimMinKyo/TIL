@@ -62,6 +62,8 @@
 
 - [01. 시큐리티 - HTTP Only 와 Secure Cookie](https://theheydaze.tistory.com/550)
 
+- [[JavaScript] 프라미스(Promise) 패턴](https://geundung.dev/53)
+
 ## 클린코드
 
 - [for, if 둘다 제거해 보세요.](https://youtu.be/Izg6mVJ1LAA)
