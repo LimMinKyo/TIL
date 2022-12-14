@@ -70,3 +70,5 @@
   - [예제](https://jsfiddle.net/v09hbkwa/)
 
 - [[Quasar] Webpack Aliases](https://quasar.dev/quasar-cli-webpack/handling-webpack#webpack-aliases)
+
+- [Quasar: how to display an image when using q-file to pick the image?](https://stackoverflow.com/questions/67209444/quasar-how-to-display-an-image-when-using-q-file-to-pick-the-image)
