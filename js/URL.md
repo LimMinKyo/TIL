@@ -64,6 +64,8 @@
 
 - [[JavaScript] 프라미스(Promise) 패턴](https://geundung.dev/53)
 
+- [package-lock.json은 왜 필요할까?](https://hyunjun19.github.io/2018/03/23/package-lock-why-need/)
+
 ## 클린코드
 
 - [for, if 둘다 제거해 보세요.](https://youtu.be/Izg6mVJ1LAA)
