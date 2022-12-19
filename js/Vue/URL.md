@@ -32,9 +32,9 @@
 
 - [Vue.js Bundle 최적화](https://velog.io/@kangsan/Vue.js-Bundle-%EC%B5%9C%EC%A0%81%ED%99%94)
 
-- [vue 리팩토링1](https://pozafly.github.io/tripllo/(8)vue-refactor1/)
+- [vue 리팩토링1](<https://pozafly.github.io/tripllo/(8)vue-refactor1/>)
 
-- [vue 리팩토링2](https://pozafly.github.io/tripllo/(9)vue-refactor2/)
+- [vue 리팩토링2](<https://pozafly.github.io/tripllo/(9)vue-refactor2/>)
 
 - [[Vue] Vue Router - chunk load fail 로 인한 삽질기](https://blog.wanzargen.me/m/39)
 
@@ -49,6 +49,8 @@
 - [[Vue.js] 뷰 라우터 params 전달 feat. vue-router](https://goodmemory.tistory.com/m/152)
 
 - [Front End Service Layer with Axios](https://blog-english.vedovelli.com.br/frontend-service-layer-axios-ajax-interceptors-vuejs-vuex/)
+
+- [TIL. Vue.js[v-for와 배열/객체]](https://velog.io/@kihyeon8949/TIL.-%EA%B8%B0%EC%97%85%ED%98%91%EC%97%85-2%EC%9D%BC%EC%B0%A8-Vue.js2-4)
 
 ## 라이브러리
 
@@ -67,6 +69,7 @@
 ## Quasar
 
 - [[Solved] How to make a q-table with multiple headers?](https://forum.quasar-framework.org/topic/2818/solved-how-to-make-a-q-table-with-multiple-headers)
+
   - [예제](https://jsfiddle.net/v09hbkwa/)
 
 - [[Quasar] Webpack Aliases](https://quasar.dev/quasar-cli-webpack/handling-webpack#webpack-aliases)
