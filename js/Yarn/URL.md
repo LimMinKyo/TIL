@@ -9,3 +9,5 @@
 - [yarn berry cannot find module 해결](https://jerrynim.dev/post/yarn-berry-typescript-cannot-find-module)
 
 - [TIL - .gitignore 와 yarn.lock](https://velog.io/@haileyself/gitignore%EC%99%80-yarn.lock-%ED%8C%8C%EC%9D%BC-vek45kvrbk)
+
+- [[prettier] extension fails with yarn2](https://github.com/prettier/prettier-vscode/issues/1222)
