@@ -44,3 +44,6 @@
 
 - [[React] 전역 모달 구현하기 :: 마이구미](https://mygumi.tistory.com/406)
 
+## React-Hook-Form
+
+- [What type is register from react-hook-form?](https://stackoverflow.com/questions/70442081/what-type-is-register-from-react-hook-form)
