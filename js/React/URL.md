@@ -47,3 +47,5 @@
 ## React-Hook-Form
 
 - [What type is register from react-hook-form?](https://stackoverflow.com/questions/70442081/what-type-is-register-from-react-hook-form)
+
+- [Watch changes without rerender](https://github.com/react-hook-form/react-hook-form/issues/912)
