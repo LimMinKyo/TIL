@@ -53,3 +53,5 @@
 ## React-Table
 
 - [TanStack React Table v8 - 기본편](https://prod.velog.io/@kemezz/TanStack-React-Table-v8-%EA%B8%B0%EB%B3%B8%ED%8E%B8)
+
+- [TanStack React Table v8 - 정렬 (Sorting)](https://prod.velog.io/@kemezz/TanStack-React-Table-v8-%EC%A0%95%EB%A0%AC)
