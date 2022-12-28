@@ -66,6 +66,8 @@
 
 - [package-lock.json은 왜 필요할까?](https://hyunjun19.github.io/2018/03/23/package-lock-why-need/)
 
+- [[JS] 📚 웹페이지에 접속하는 기기(모바일 / 태블릿 / PC) 구분하기](https://inpa.tistory.com/entry/JS-%F0%9F%93%9A-%EC%9B%B9%ED%8E%98%EC%9D%B4%EC%A7%80%EC%97%90-%EC%A0%91%EC%86%8D%ED%95%98%EB%8A%94-%EA%B8%B0%EA%B8%B0%EB%AA%A8%EB%B0%94%EC%9D%BC%ED%83%9C%EB%B8%94%EB%A6%BFPC-%EA%B5%AC%EB%B6%84%ED%95%98%EA%B8%B0)
+
 ## 클린코드
 
 - [for, if 둘다 제거해 보세요.](https://youtu.be/Izg6mVJ1LAA)
@@ -79,4 +81,3 @@
 - [Chart.js y축 소수점 제거](https://yeon22.github.io/Chartjs-kr/docs/latest/axes/radial/linear.html)
 
 - [Chart.js 눈금 0부터 시작하도록 option 설정](https://www.chartjs.org/docs/latest/)
-
