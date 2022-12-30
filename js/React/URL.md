@@ -48,6 +48,8 @@
 
 - [react-query](https://velog.io/@jkl1545/React-Query)
 
+- [[react-query]Disabling/Pausing Queries](https://tanstack.com/query/v4/docs/react/guides/disabling-queries)
+
 ## React-Hook-Form
 
 - [What type is register from react-hook-form?](https://stackoverflow.com/questions/70442081/what-type-is-register-from-react-hook-form)
