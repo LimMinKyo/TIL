@@ -21,3 +21,5 @@
 - [[Typescript] Enum 왜 쓰지 말아야하죠?](https://velog.io/@sensecodevalue/Typescript-Enum-%EC%99%9C-%EC%93%B0%EC%A7%80-%EB%A7%90%EC%95%84%EC%95%BC%ED%95%98%EC%A3%A0)
 
 - [What is the syntax for Typescript arrow functions with generics?](https://stackoverflow.com/questions/32308370/what-is-the-syntax-for-typescript-arrow-functions-with-generics)
+
+- [21.12.23 [typescript] setState props로 넘길 때 Dispatch](https://jemerald.tistory.com/127)
