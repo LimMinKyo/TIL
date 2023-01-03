@@ -56,6 +56,8 @@
 
 - [Watch changes without rerender](https://github.com/react-hook-form/react-hook-form/issues/912)
 
+- [react-hook-form을 선택한 이유와 적용 과정](https://tech.inflab.com/202207-rallit-form-refactoring/react-hook-form/)
+
 ## React-Table
 
 - [TanStack React Table v8 - 기본편](https://prod.velog.io/@kemezz/TanStack-React-Table-v8-%EA%B8%B0%EB%B3%B8%ED%8E%B8)
