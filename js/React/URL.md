@@ -50,6 +50,8 @@
 
 - [[react-query]Disabling/Pausing Queries](https://tanstack.com/query/v4/docs/react/guides/disabling-queries)
 
+- [[React Query] Pagination과 Infinite Scroll](https://oyg0420.tistory.com/m/entry/React-Query-Pagination%EA%B3%BC-Infinite-Scroll)
+
 ## React-Hook-Form
 
 - [What type is register from react-hook-form?](https://stackoverflow.com/questions/70442081/what-type-is-register-from-react-hook-form)
