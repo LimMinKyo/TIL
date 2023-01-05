@@ -27,3 +27,5 @@
 - [Multiple remote 여러개의 원격 저장소를 사용해서 멀티프로젝트 관리](https://everyauto.tistory.com/4)
 
 - [git 초보를 위한 풀리퀘스트(pull request) 방법](https://wayhome25.github.io/git/2017/07/08/git-first-pull-request-story/)
+
+- [코드 리뷰 in 뱅크샐러드 개발 문화](https://blog.banksalad.com/tech/banksalad-code-review-culture/)
