@@ -40,3 +40,4 @@
 
 - [SWC Failed to Load](https://nextjs.org/docs/messages/failed-loading-swc)
 
+- [Error Nextjs Application error: a client-side exception has occurred (see the browser console for more information).](https://github.com/diegomura/react-pdf/issues/2053)
