@@ -39,3 +39,5 @@
 - [input 자동완성 배경색 변경하기](https://maybe-b50.tistory.com/102)
 
 - [[TailwindCSS] Dark Mode](https://tailwindcss.com/docs/dark-mode)
+
+- [Absolute Centering in CSS](https://medium.com/front-end-weekly/absolute-centering-in-css-ea3a9d0ad72e)
