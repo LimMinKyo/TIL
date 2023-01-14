@@ -44,6 +44,8 @@
 
 - [[React] 전역 모달 구현하기 :: 마이구미](https://mygumi.tistory.com/406)
 
+- [React toastify 라이브러리 style custom 하기 (with Styled-Components)](https://velog.io/@yejine2/react-toastify)
+
 ## React-Query
 
 - [react-query](https://velog.io/@jkl1545/React-Query)
