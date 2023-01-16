@@ -56,6 +56,8 @@
 
 - [[react] 진짜 진짜 마지막 로그인 정리](https://velog.io/@raverana96/react-진짜-진짜-마지막-로그인-정리)
 
+- [React Query Key 관리](https://www.zigae.com/react-query-key/)
+
 ## React-Hook-Form
 
 - [What type is register from react-hook-form?](https://stackoverflow.com/questions/70442081/what-type-is-register-from-react-hook-form)
