@@ -23,3 +23,5 @@
 - [What is the syntax for Typescript arrow functions with generics?](https://stackoverflow.com/questions/32308370/what-is-the-syntax-for-typescript-arrow-functions-with-generics)
 
 - [21.12.23 [typescript] setState props로 넘길 때 Dispatch](https://jemerald.tistory.com/127)
+
+- [타입스크립트 5분만에 이해하기 (트랜스파일, 컴파일, 폴리필)](https://www.youtube.com/watch?v=9K4EL1jeSmk)
