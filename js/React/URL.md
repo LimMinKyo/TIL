@@ -72,6 +72,8 @@
 
 - [TanStack React Table v8 - 정렬 (Sorting)](https://prod.velog.io/@kemezz/TanStack-React-Table-v8-%EC%A0%95%EB%A0%AC)
 
+- [React Table로 테이블 UI 구현하기](https://www.daleseo.com/react-table/)
+
 ## React-Datepicker
 
 - [[react-datepicker] SyntaxError: Unexpected token 'export'](https://velog.io/@e_juhee/Error-SyntaxError-Unexpected-token-export)
