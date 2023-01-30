@@ -27,3 +27,5 @@
 - [리액트 어플리케이션 구조 - 아토믹 디자인](https://ui.toast.com/weekly-pick/ko_20200213)
 
 - [Line Entry의 Atomic Design 적용기](https://www.youtube.com/watch?v=33yj-Q5v8mQ)
+
+- [아토믹 디자인(Atomic Design) 소개 및 실제 사용 경험](https://ghost4551.tistory.com/255)
