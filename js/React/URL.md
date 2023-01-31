@@ -46,6 +46,8 @@
 
 - [React toastify 라이브러리 style custom 하기 (with Styled-Components)](https://velog.io/@yejine2/react-toastify)
 
+- [ReactJS header that disappears on scroll down and appears on scroll up](https://www.codemzy.com/blog/react-sticky-header-disappear-scroll)
+
 ## React-Query
 
 - [react-query](https://velog.io/@jkl1545/React-Query)
