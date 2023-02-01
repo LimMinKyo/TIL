@@ -70,6 +70,8 @@
 
 - [1분 JS - 실시간으로 웹사이트 성능 측정하기](https://www.youtube.com/shorts/lHFDda3Vjo0)
 
+- [Sanitizer API로 안전하게 DOM 조작하기](https://ui.toast.com/weekly-pick/ko_2021124)
+
 ## 클린코드
 
 - [for, if 둘다 제거해 보세요.](https://youtu.be/Izg6mVJ1LAA)
