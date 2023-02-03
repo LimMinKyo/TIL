@@ -72,6 +72,8 @@
 
 - [Sanitizer API로 안전하게 DOM 조작하기](https://ui.toast.com/weekly-pick/ko_2021124)
 
+- [[DOMPurify] XSS 공격 방지 :: 마이구미](https://mygumi.tistory.com/415)
+
 ## 클린코드
 
 - [for, if 둘다 제거해 보세요.](https://youtu.be/Izg6mVJ1LAA)
