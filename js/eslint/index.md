@@ -11,3 +11,5 @@
 - [ESLint 조금 더 잘 활용하기](https://tech.kakao.com/2019/12/05/make-better-use-of-eslint/)
 
 - [ESLint(TSLint)와 Prettier 함께 사용하기(w/ VSCode)](https://pravusid.kr/javascript/2019/03/10/eslint-prettier.html)
+
+- [JS - console.count](https://www.youtube.com/shorts/6eglGT9FfnA)
