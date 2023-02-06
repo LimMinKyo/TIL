@@ -48,6 +48,8 @@
 
 - [ReactJS header that disappears on scroll down and appears on scroll up](https://www.codemzy.com/blog/react-sticky-header-disappear-scroll)
 
+- [iOS 디바이스에서 body의 scroll을 막는 방법 (How to prevent body scrolling on iOS?)](https://im-developer.tistory.com/201)
+
 ## React-Query
 
 - [react-query](https://velog.io/@jkl1545/React-Query)
