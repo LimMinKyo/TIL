@@ -43,3 +43,5 @@
 - [Absolute Centering in CSS](https://medium.com/front-end-weekly/absolute-centering-in-css-ea3a9d0ad72e)
 
 - [[CSS] 요소 좌우반전](https://gurtn.tistory.com/87)
+
+- [[css] background: none vs transparent의 차이](https://mong-blog.tistory.com/entry/css-background-none-vs-transparent%EC%9D%98-%EC%B0%A8%EC%9D%B4)
