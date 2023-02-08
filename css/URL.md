@@ -45,3 +45,5 @@
 - [[CSS] 요소 좌우반전](https://gurtn.tistory.com/87)
 
 - [[css] background: none vs transparent의 차이](https://mong-blog.tistory.com/entry/css-background-none-vs-transparent%EC%9D%98-%EC%B0%A8%EC%9D%B4)
+
+- [How do I auto-hide placeholder text upon focus using css or jquery?](https://stackoverflow.com/questions/9707021/how-do-i-auto-hide-placeholder-text-upon-focus-using-css-or-jquery)
