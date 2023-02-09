@@ -50,6 +50,8 @@
 
 - [iOS 디바이스에서 body의 scroll을 막는 방법 (How to prevent body scrolling on iOS?)](https://im-developer.tistory.com/201)
 
+- [[리액트 에러 React Error] Warning: validateDOMNesting(...): <div> cannot appear as a descendant of <p> 해결](https://anerim.tistory.com/211)
+
 ## React-Query
 
 - [react-query](https://velog.io/@jkl1545/React-Query)
