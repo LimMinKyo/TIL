@@ -52,6 +52,8 @@
 
 - [[리액트 에러 React Error] Warning: validateDOMNesting(...): <div> cannot appear as a descendant of <p> 해결](https://anerim.tistory.com/211)
 
+- [Create an Infinite Slider in React](https://betterprogramming.pub/how-to-create-react-infinite-slider-22b76cbd7a9)
+
 ## React-Query
 
 - [react-query](https://velog.io/@jkl1545/React-Query)
