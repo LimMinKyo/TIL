@@ -13,3 +13,5 @@
 - [ESLint(TSLint)와 Prettier 함께 사용하기(w/ VSCode)](https://pravusid.kr/javascript/2019/03/10/eslint-prettier.html)
 
 - [JS - console.count](https://www.youtube.com/shorts/6eglGT9FfnA)
+
+- [정적 분석](https://ui.toast.com/fe-guide/ko_STATIC-ANALYSIS)
