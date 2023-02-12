@@ -74,6 +74,8 @@
 
 - [[DOMPurify] XSS 공격 방지 :: 마이구미](https://mygumi.tistory.com/415)
 
+- [JS - console.count](https://www.youtube.com/shorts/6eglGT9FfnA)
+
 ## 클린코드
 
 - [for, if 둘다 제거해 보세요.](https://youtu.be/Izg6mVJ1LAA)
