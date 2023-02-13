@@ -1,5 +1,6 @@
 # TIL(Today I Learned)
 
+- [Study](./study/index.md)
 - [UI\/UX](./UIUX/index.md)
 - [HTML](./html/URL.md)
 - [CSS](./css/URL.md)
