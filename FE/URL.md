@@ -29,3 +29,5 @@
 - [Line Entry의 Atomic Design 적용기](https://www.youtube.com/watch?v=33yj-Q5v8mQ)
 
 - [아토믹 디자인(Atomic Design) 소개 및 실제 사용 경험](https://ghost4551.tistory.com/255)
+
+- [프론트 구현 시 기준 해상도 설정의 중요성](https://velog.io/@c-jeongyyun/%ED%94%84%EB%A1%A0%ED%8A%B8-%EA%B5%AC%ED%98%84-%EC%8B%9C-%EA%B8%B0%EC%A4%80-%ED%95%B4%EC%83%81%EB%8F%84-%EC%84%A4%EC%A0%95%EC%9D%98-%EC%A4%91%EC%9A%94%EC%84%B1)
