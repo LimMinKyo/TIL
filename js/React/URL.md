@@ -54,6 +54,8 @@
 
 - [Create an Infinite Slider in React](https://betterprogramming.pub/how-to-create-react-infinite-slider-22b76cbd7a9)
 
+- [리액트에서 조건부 스타일을 줄때 classNames 라이브러리를 활용해보자!](https://velog.io/@dooreplay/classNamesCSS-Modules)
+
 ## React-Query
 
 - [react-query](https://velog.io/@jkl1545/React-Query)
