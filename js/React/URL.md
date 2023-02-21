@@ -56,6 +56,8 @@
 
 - [리액트에서 조건부 스타일을 줄때 classNames 라이브러리를 활용해보자!](https://velog.io/@dooreplay/classNamesCSS-Modules)
 
+- [[React] 배열의 index를 key로 쓰면 안되는 이유](https://medium.com/sjk5766/react-%EB%B0%B0%EC%97%B4%EC%9D%98-index%EB%A5%BC-key%EB%A1%9C-%EC%93%B0%EB%A9%B4-%EC%95%88%EB%90%98%EB%8A%94-%EC%9D%B4%EC%9C%A0-3ce48b3a18fb)
+
 ## React-Query
 
 - [react-query](https://velog.io/@jkl1545/React-Query)
