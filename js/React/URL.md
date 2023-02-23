@@ -58,6 +58,8 @@
 
 - [[React] 배열의 index를 key로 쓰면 안되는 이유](https://medium.com/sjk5766/react-%EB%B0%B0%EC%97%B4%EC%9D%98-index%EB%A5%BC-key%EB%A1%9C-%EC%93%B0%EB%A9%B4-%EC%95%88%EB%90%98%EB%8A%94-%EC%9D%B4%EC%9C%A0-3ce48b3a18fb)
 
+- [[React] input 숫자에 콤마 찍어서 나타내는 법](https://velog.io/@quack777/React-input-%EC%88%AB%EC%9E%90%EC%97%90-%EC%BD%A4%EB%A7%88-%EC%B0%8D%EC%96%B4%EC%84%9C-%EB%82%98%ED%83%80%EB%82%B4%EB%8A%94-%EB%B2%95)
+
 ## React-Query
 
 - [react-query](https://velog.io/@jkl1545/React-Query)
