@@ -47,3 +47,5 @@
 - [[인프런]Next.js pm2 배포 관련 질문이 있습니다.](https://www.inflearn.com/questions/381350/next-js-pm2-%EB%B0%B0%ED%8F%AC-%EA%B4%80%EB%A0%A8-%EC%A7%88%EB%AC%B8%EC%9D%B4-%EC%9E%88%EC%8A%B5%EB%8B%88%EB%8B%A4)
 
 - [TailwindCSS 3.0과 Next.JS에서 Dark 모드 적용하기](https://cpro95.tistory.com/663)
+
+- [Next.JS 라우터 쿼리 undefined 이슈](https://velog.io/@wlgns2223/Next.JS-%EB%9D%BC%EC%9A%B0%ED%84%B0-%EC%BF%BC%EB%A6%AC-undefined-%EC%9D%B4%EC%8A%88)
