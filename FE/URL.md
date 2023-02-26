@@ -35,3 +35,5 @@
 - [지도 API 비교(구글, 네이버, 카카오)](https://epdev.tistory.com/8)
 
 - [[Toast UI] FE Guide](https://ui.toast.com/fe-guide/ko)
+
+- [서버리스 | 이젠 웹개발자가 꼭 알아야 하는 개념 🎩](https://www.youtube.com/watch?v=E4uhnFOwevA)
