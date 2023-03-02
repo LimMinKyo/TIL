@@ -13,3 +13,5 @@
 - [ESLint(TSLint)와 Prettier 함께 사용하기(w/ VSCode)](https://pravusid.kr/javascript/2019/03/10/eslint-prettier.html)
 
 - [정적 분석](https://ui.toast.com/fe-guide/ko_STATIC-ANALYSIS)
+
+- [ESLint not working in VS Code?](https://stackoverflow.com/questions/45093510/eslint-not-working-in-vs-code)
