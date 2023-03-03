@@ -78,6 +78,8 @@
 
 - [웹 개발자를 위한 크롬 개발자 도구](https://ui.toast.com/weekly-pick/ko_20160527#dom-breakpoints)
 
+- [정규식이 쉬워지는 마법을 부려보겠다 뾰롱](https://www.youtube.com/watch?v=2P0oSNguGXI)
+
 ## 클린코드
 
 - [for, if 둘다 제거해 보세요.](https://youtu.be/Izg6mVJ1LAA)
