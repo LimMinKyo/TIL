@@ -82,6 +82,8 @@
 
 - [react-hook-form 하위 제어 컴포넌트 값 전송하기 (antd datepicker 값 전송하기)](https://velog.io/@yukyung/react-hook-form-%ED%95%98%EC%9C%84-%EC%A0%9C%EC%96%B4-%EC%BB%B4%ED%8F%AC%EB%84%8C%ED%8A%B8-%EA%B0%92-%EC%A0%84%EC%86%A1%ED%95%98%EA%B8%B0-antd-datepicker-%EA%B0%92-%EC%A0%84%EC%86%A1%ED%95%98%EA%B8%B0)
 
+- [How to create reusable form components with React Hook Forms and Typescript](https://www.thisdot.co/blog/how-to-create-reusable-form-components-with-react-hook-forms-and-typescript)
+
 ## React-Table
 
 - [TanStack React Table v8 - 기본편](https://prod.velog.io/@kemezz/TanStack-React-Table-v8-%EA%B8%B0%EB%B3%B8%ED%8E%B8)
