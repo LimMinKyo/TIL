@@ -60,6 +60,8 @@
 
 - [[React] input 숫자에 콤마 찍어서 나타내는 법](https://velog.io/@quack777/React-input-%EC%88%AB%EC%9E%90%EC%97%90-%EC%BD%A4%EB%A7%88-%EC%B0%8D%EC%96%B4%EC%84%9C-%EB%82%98%ED%83%80%EB%82%B4%EB%8A%94-%EB%B2%95)
 
+- [How To Mock A React Component In Jest](https://www.chakshunyu.com/blog/how-to-mock-a-react-component-in-jest/)
+
 ## React-Query
 
 - [react-query](https://velog.io/@jkl1545/React-Query)
