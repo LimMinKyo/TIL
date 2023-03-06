@@ -27,3 +27,5 @@
 - [타입스크립트 5분만에 이해하기 (트랜스파일, 컴파일, 폴리필)](https://www.youtube.com/watch?v=9K4EL1jeSmk)
 
 - [Typescript로 setTimeout, setInterval 관리하기](https://www.zodaland.com/tip/11)
+
+- [[TypeScript]인덱스 시그니처(Index Signature) 사용 방법](https://developer-talk.tistory.com/297)
