@@ -51,3 +51,5 @@
 - [Next.JS 라우터 쿼리 undefined 이슈](https://velog.io/@wlgns2223/Next.JS-%EB%9D%BC%EC%9A%B0%ED%84%B0-%EC%BF%BC%EB%A6%AC-undefined-%EC%9D%B4%EC%8A%88)
 
 - [[Nextjs] link#disable-scrolling-to-the-top-of-the-page](https://nextjs.org/docs/api-reference/next/link#disable-scrolling-to-the-top-of-the-page)
+
+- [How to add a Favicon to a Next.js app](https://www.slingacademy.com/article/how-to-add-a-favicon-to-a-next-js-app/)
