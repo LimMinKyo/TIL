@@ -62,6 +62,8 @@
 
 - [How To Mock A React Component In Jest](https://www.chakshunyu.com/blog/how-to-mock-a-react-component-in-jest/)
 
+- [React에서 MVVM 패턴 알아보기](https://velog.io/@dlrmsghks7/whatismvvmpattern)
+
 ## React-Query
 
 - [react-query](https://velog.io/@jkl1545/React-Query)
