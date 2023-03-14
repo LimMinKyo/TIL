@@ -31,3 +31,5 @@
 - [코드 리뷰 in 뱅크샐러드 개발 문화](https://blog.banksalad.com/tech/banksalad-code-review-culture/)
 
 - [좋은 PR에 대한 단상🤔](https://medium.com/hayanmind-tech-blog-kr/%EC%A2%8B%EC%9D%80-pr%EC%97%90-%EB%8C%80%ED%95%9C-%EB%8B%A8%EC%83%81-6586c3f757ac)
+
+- [[Git 정리] 병합 취소하기](https://velog.io/@dev2820/Git-%EC%A0%95%EB%A6%AC-%EB%B3%91%ED%95%A9-%EC%B7%A8%EC%86%8C%ED%95%98%EA%B8%B0)
