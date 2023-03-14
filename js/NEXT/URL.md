@@ -53,3 +53,5 @@
 - [[Nextjs] link#disable-scrolling-to-the-top-of-the-page](https://nextjs.org/docs/api-reference/next/link#disable-scrolling-to-the-top-of-the-page)
 
 - [How to add a Favicon to a Next.js app](https://www.slingacademy.com/article/how-to-add-a-favicon-to-a-next-js-app/)
+
+- [[react, nextjs] \_app.js 에 useEffect 에서 2번씩 호출될때](https://lemontia.tistory.com/1070)
