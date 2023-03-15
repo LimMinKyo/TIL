@@ -76,6 +76,8 @@
 
 - [React Query Key 관리](https://www.zigae.com/react-query-key/)
 
+- [QueryClient의 Default Options 적용](https://velog.io/@alsghk9701/QueryClient%EC%9D%98-Default-Options-%EC%A0%81%EC%9A%A9)
+
 ## React-Hook-Form
 
 - [What type is register from react-hook-form?](https://stackoverflow.com/questions/70442081/what-type-is-register-from-react-hook-form)
