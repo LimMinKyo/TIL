@@ -64,6 +64,8 @@
 
 - [React에서 MVVM 패턴 알아보기](https://velog.io/@dlrmsghks7/whatismvvmpattern)
 
+- [React 오류 해결 You are running `create-react-app` 4.0.2, which is behind the latest release (4.0.3).](https://velog.io/@milkyway/React-%EC%98%A4%EB%A5%98-%ED%95%B4%EA%B2%B0-You-are-running-create-react-app-4.0.2-which-is-behind-the-latest-release-4.0.3)
+
 ## React-Query
 
 - [react-query](https://velog.io/@jkl1545/React-Query)
