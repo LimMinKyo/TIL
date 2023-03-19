@@ -80,6 +80,8 @@
 
 - [정규식이 쉬워지는 마법을 부려보겠다 뾰롱](https://www.youtube.com/watch?v=2P0oSNguGXI)
 
+- [모르면 손해? 엄청난 웹 API가 나타났다!](https://www.youtube.com/watch?v=ObT87Xu_CO0)
+
 ## 클린코드
 
 - [for, if 둘다 제거해 보세요.](https://youtu.be/Izg6mVJ1LAA)
