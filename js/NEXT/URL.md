@@ -57,3 +57,5 @@
 - [[react, nextjs] \_app.js 에 useEffect 에서 2번씩 호출될때](https://lemontia.tistory.com/1070)
 
 - [[HOC] HOC를 이용해서 로그인 여부 확인하기](https://velog.io/@e_juhee/HOC)
+
+- [Yarn Berry + inspect/debugger mode fails](https://github.com/vercel/next.js/issues/21270)
