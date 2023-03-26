@@ -66,6 +66,8 @@
 
 - [React 오류 해결 You are running `create-react-app` 4.0.2, which is behind the latest release (4.0.3).](https://velog.io/@milkyway/React-%EC%98%A4%EB%A5%98-%ED%95%B4%EA%B2%B0-You-are-running-create-react-app-4.0.2-which-is-behind-the-latest-release-4.0.3)
 
+- [리액트에서 데이터로 클래스 사용하기 (feat. enum)](https://www.youtube.com/watch?v=J3TrdIoEu9I)
+
 ## React-Query
 
 - [react-query](https://velog.io/@jkl1545/React-Query)
