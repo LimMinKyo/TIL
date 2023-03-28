@@ -59,3 +59,7 @@
 - [[HOC] HOC를 이용해서 로그인 여부 확인하기](https://velog.io/@e_juhee/HOC)
 
 - [Yarn Berry + inspect/debugger mode fails](https://github.com/vercel/next.js/issues/21270)
+
+## 에러 해결
+
+- [TypeError: Cannot read properties of undefined (reading 'filter') Tanstack table (React)](https://stackoverflow.com/questions/74836833/typeerror-cannot-read-properties-of-undefined-reading-filter-tanstack-table)
