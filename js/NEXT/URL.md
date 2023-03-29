@@ -60,6 +60,8 @@
 
 - [Yarn Berry + inspect/debugger mode fails](https://github.com/vercel/next.js/issues/21270)
 
+- [프론트엔드와 THE TWELVE-FACTOR APP](https://fe-developers.kakaoent.com/2021/211125-create-12factor-app-with-nextjs/)
+
 ## 에러 해결
 
 - [TypeError: Cannot read properties of undefined (reading 'filter') Tanstack table (React)](https://stackoverflow.com/questions/74836833/typeerror-cannot-read-properties-of-undefined-reading-filter-tanstack-table)
