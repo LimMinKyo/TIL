@@ -68,6 +68,8 @@
 
 - [리액트에서 데이터로 클래스 사용하기 (feat. enum)](https://www.youtube.com/watch?v=J3TrdIoEu9I)
 
+- [React 커스텀 훅 함수의 테스트 코드 작성](https://blog.rhostem.com/posts/2021-10-18T00:00:00.000Z)
+
 ## React-Query
 
 - [react-query](https://velog.io/@jkl1545/React-Query)
