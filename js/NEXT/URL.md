@@ -62,6 +62,8 @@
 
 - [프론트엔드와 THE TWELVE-FACTOR APP](https://fe-developers.kakaoent.com/2021/211125-create-12factor-app-with-nextjs/)
 
+- [(Next.js) Google Analytics 이식하기](https://velog.io/@yunsungyang-omc/Next.js-Google-Analystics-%EC%9D%B4%EC%8B%9D%ED%95%98%EA%B8%B0)
+
 ## 에러 해결
 
 - [TypeError: Cannot read properties of undefined (reading 'filter') Tanstack table (React)](https://stackoverflow.com/questions/74836833/typeerror-cannot-read-properties-of-undefined-reading-filter-tanstack-table)
