@@ -64,6 +64,8 @@
 
 - [(Next.js) Google Analytics 이식하기](https://velog.io/@yunsungyang-omc/Next.js-Google-Analystics-%EC%9D%B4%EC%8B%9D%ED%95%98%EA%B8%B0)
 
+- [[Next.js] Example app with analytics](https://github.com/vercel/next.js/tree/canary/examples/with-google-analytics)
+
 ## 에러 해결
 
 - [TypeError: Cannot read properties of undefined (reading 'filter') Tanstack table (React)](https://stackoverflow.com/questions/74836833/typeerror-cannot-read-properties-of-undefined-reading-filter-tanstack-table)
