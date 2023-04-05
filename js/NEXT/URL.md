@@ -68,6 +68,8 @@
 
 - [Next.js 13 프론트엔드 구성하기](https://velog.io/@gwak2837/Next.js-13-%ED%94%84%EB%A1%A0%ED%8A%B8%EC%97%94%EB%93%9C-%EA%B5%AC%EC%84%B1%ED%95%98%EA%B8%B0)
 
+- [@next/bundle-analyzer](https://velog.io/@leehyunho2001/nextbundle-analyze)
+
 ## 에러 해결
 
 - [TypeError: Cannot read properties of undefined (reading 'filter') Tanstack table (React)](https://stackoverflow.com/questions/74836833/typeerror-cannot-read-properties-of-undefined-reading-filter-tanstack-table)
