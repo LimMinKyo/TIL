@@ -70,6 +70,8 @@
 
 - [@next/bundle-analyzer](https://velog.io/@leehyunho2001/nextbundle-analyze)
 
+- [Sharp Missing In Production](https://nextjs.org/docs/messages/sharp-missing-in-production)
+
 ## 에러 해결
 
 - [TypeError: Cannot read properties of undefined (reading 'filter') Tanstack table (React)](https://stackoverflow.com/questions/74836833/typeerror-cannot-read-properties-of-undefined-reading-filter-tanstack-table)
