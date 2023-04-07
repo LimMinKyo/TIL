@@ -37,3 +37,5 @@
 - [[Toast UI] FE Guide](https://ui.toast.com/fe-guide/ko)
 
 - [서버리스 | 이젠 웹개발자가 꼭 알아야 하는 개념 🎩](https://www.youtube.com/watch?v=E4uhnFOwevA)
+
+- [Lighthouse 사용법](https://velog.io/@dell_mond/Lighthouse-%EC%82%AC%EC%9A%A9%EB%B2%95)
