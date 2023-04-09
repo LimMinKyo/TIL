@@ -70,6 +70,8 @@
 
 - [React 커스텀 훅 함수의 테스트 코드 작성](https://blog.rhostem.com/posts/2021-10-18T00:00:00.000Z)
 
+- [React Hooks Testing Library 사용법](https://www.daleseo.com/react-hooks-testing-library/)
+
 ## React-Query
 
 - [react-query](https://velog.io/@jkl1545/React-Query)
