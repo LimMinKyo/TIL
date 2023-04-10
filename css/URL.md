@@ -49,3 +49,5 @@
 - [How do I auto-hide placeholder text upon focus using css or jquery?](https://stackoverflow.com/questions/9707021/how-do-i-auto-hide-placeholder-text-upon-focus-using-css-or-jquery)
 
 - [Button inside a label](https://stackoverflow.com/questions/37504383/button-inside-a-label)
+
+- [요즘 CSS 미쳤습니다...! 2023 최신 기능 쌉정리](https://www.youtube.com/watch?v=HZIcTZABMuc)
