@@ -82,6 +82,8 @@
 
 - [모르면 손해? 엄청난 웹 API가 나타났다!](https://www.youtube.com/watch?v=ObT87Xu_CO0)
 
+- [[JS/Array] slice()와 splice()의 차이점](https://im-developer.tistory.com/103)
+
 ## 클린코드
 
 - [for, if 둘다 제거해 보세요.](https://youtu.be/Izg6mVJ1LAA)
