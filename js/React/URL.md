@@ -72,6 +72,8 @@
 
 - [React Hooks Testing Library 사용법](https://www.daleseo.com/react-hooks-testing-library/)
 
+- [React 컴포넌트와 추상화](https://fe-developers.kakaoent.com/2022/221020-component-abstraction/)
+
 ## React-Query
 
 - [react-query](https://velog.io/@jkl1545/React-Query)
