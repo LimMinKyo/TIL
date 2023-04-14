@@ -51,3 +51,5 @@
 - [Button inside a label](https://stackoverflow.com/questions/37504383/button-inside-a-label)
 
 - [요즘 CSS 미쳤습니다...! 2023 최신 기능 쌉정리](https://www.youtube.com/watch?v=HZIcTZABMuc)
+
+- [FE개발그룹에서는 Tailwind CSS를 왜 도입했고, 어떻게 사용했을까?](https://fe-developers.kakaoent.com/2022/221013-tailwind-and-design-system/)
