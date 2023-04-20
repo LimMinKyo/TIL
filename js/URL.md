@@ -84,6 +84,8 @@
 
 - [[JS/Array] slice()와 splice()의 차이점](https://im-developer.tistory.com/103)
 
+- [nodejs의 버퍼 이해하기](https://yceffort.kr/2021/10/understanding-of-nodejs-buffer)
+
 ## 클린코드
 
 - [for, if 둘다 제거해 보세요.](https://youtu.be/Izg6mVJ1LAA)
