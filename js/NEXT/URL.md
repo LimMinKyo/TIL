@@ -76,6 +76,8 @@
 
 - [[next js] Warning: Text content did not match.](https://velog.io/@otterji/next-js-Warning-Text-content-did-not-match.-Server-foo-Client-foo)
 
+- [(Next.js 0강) 요즘 프론트엔드만으로 먹고살기 힘든 이유](https://www.youtube.com/watch?v=jYJ3ygUfPrU)
+
 ## 에러 해결
 
 - [TypeError: Cannot read properties of undefined (reading 'filter') Tanstack table (React)](https://stackoverflow.com/questions/74836833/typeerror-cannot-read-properties-of-undefined-reading-filter-tanstack-table)
