@@ -76,6 +76,8 @@
 
 - [이제부터 이 컴포넌트는 제 겁니다](https://fe-developers.kakaoent.com/2022/221110-ioc-pattern/)
 
+- [React에서 TailwindCSS 사용 시 warning - Unknown at rule @tailwind css](https://velog.io/@jinsunkimdev/React%EC%97%90%EC%84%9C-TailwindCSS-%EC%82%AC%EC%9A%A9-%EC%8B%9C-warning-Unknown-at-rule-tailwind-css)
+
 ## React-Query
 
 - [react-query](https://velog.io/@jkl1545/React-Query)
