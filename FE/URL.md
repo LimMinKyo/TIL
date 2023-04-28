@@ -39,3 +39,5 @@
 - [서버리스 | 이젠 웹개발자가 꼭 알아야 하는 개념 🎩](https://www.youtube.com/watch?v=E4uhnFOwevA)
 
 - [Lighthouse 사용법](https://velog.io/@dell_mond/Lighthouse-%EC%82%AC%EC%9A%A9%EB%B2%95)
+
+- [카카오페이지는 BFF(Backend For Frontend)를 어떻게 적용했을까?](https://fe-developers.kakaoent.com/2022/220310-kakaopage-bff/)
