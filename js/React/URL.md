@@ -78,6 +78,8 @@
 
 - [React에서 TailwindCSS 사용 시 warning - Unknown at rule @tailwind css](https://velog.io/@jinsunkimdev/React%EC%97%90%EC%84%9C-TailwindCSS-%EC%82%AC%EC%9A%A9-%EC%8B%9C-warning-Unknown-at-rule-tailwind-css)
 
+- [[React] TOAST UI Viewer 적용 (+ Editor)](https://velog.io/@ayoung0073/React-%ED%9E%98%EB%93%A4%EA%B2%8C-%EC%A0%81%EC%9A%A9%ED%95%9C-TOAST-UI-Viewer-Editor)
+
 ## React-Query
 
 - [react-query](https://velog.io/@jkl1545/React-Query)
