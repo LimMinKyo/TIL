@@ -86,6 +86,8 @@
 
 - [nodejs의 버퍼 이해하기](https://yceffort.kr/2021/10/understanding-of-nodejs-buffer)
 
+- [yup - 유효성 검사 라이브러리](https://seongyeoni.tistory.com/182)
+
 ## 클린코드
 
 - [for, if 둘다 제거해 보세요.](https://youtu.be/Izg6mVJ1LAA)
