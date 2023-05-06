@@ -41,3 +41,5 @@
 - [Lighthouse 사용법](https://velog.io/@dell_mond/Lighthouse-%EC%82%AC%EC%9A%A9%EB%B2%95)
 
 - [카카오페이지는 BFF(Backend For Frontend)를 어떻게 적용했을까?](https://fe-developers.kakaoent.com/2022/220310-kakaopage-bff/)
+
+- [프론트엔드에서는 어떤 것을 테스트 해야 할까?](https://soojae.tistory.com/83)
