@@ -80,6 +80,8 @@
 
 - [[React] TOAST UI Viewer 적용 (+ Editor)](https://velog.io/@ayoung0073/React-%ED%9E%98%EB%93%A4%EA%B2%8C-%EC%A0%81%EC%9A%A9%ED%95%9C-TOAST-UI-Viewer-Editor)
 
+- [합성 컴포넌트로 재사용성 극대화하기](https://fe-developers.kakaoent.com/2022/220731-composition-component/)
+
 ## React-Query
 
 - [react-query](https://velog.io/@jkl1545/React-Query)
