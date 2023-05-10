@@ -50,7 +50,7 @@
 
 - [iOS 디바이스에서 body의 scroll을 막는 방법 (How to prevent body scrolling on iOS?)](https://im-developer.tistory.com/201)
 
-- [[리액트 에러 React Error] Warning: validateDOMNesting(...): <div> cannot appear as a descendant of <p> 해결](https://anerim.tistory.com/211)
+- [[리액트 에러 React Error] Warning: validateDOMNesting(...): cannot appear as a descendant of 해결](https://anerim.tistory.com/211)
 
 - [Create an Infinite Slider in React](https://betterprogramming.pub/how-to-create-react-infinite-slider-22b76cbd7a9)
 
