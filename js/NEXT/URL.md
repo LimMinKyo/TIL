@@ -81,3 +81,5 @@
 ## 에러 해결
 
 - [TypeError: Cannot read properties of undefined (reading 'filter') Tanstack table (React)](https://stackoverflow.com/questions/74836833/typeerror-cannot-read-properties-of-undefined-reading-filter-tanstack-table)
+
+- [[Next.js] ReferenceError: self is not defined (with @toast-ui/react-editor)](https://velog.io/@dngur9801/Next.js-ReferenceError-self-is-not-defined-with-toast-uireact-editor)
