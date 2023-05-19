@@ -121,3 +121,7 @@
 - [[react-datepicker] SyntaxError: Unexpected token 'export'](https://velog.io/@e_juhee/Error-SyntaxError-Unexpected-token-export)
 
 - [[React] React Datepicker 라이브러리 사용법](https://velog.io/@eunjin/React-React-Datepicker-%EB%9D%BC%EC%9D%B4%EB%B8%8C%EB%9F%AC%EB%A6%AC-%EC%82%AC%EC%9A%A9%EB%B2%95)
+
+## 에러 해결
+
+- [React에서 TailwindCSS 사용 시 warning - Unknown at rule @tailwind css](https://velog.io/@jinsunkimdev/React%EC%97%90%EC%84%9C-TailwindCSS-%EC%82%AC%EC%9A%A9-%EC%8B%9C-warning-Unknown-at-rule-tailwind-css)
