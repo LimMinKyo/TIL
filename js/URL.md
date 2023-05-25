@@ -88,6 +88,8 @@
 
 - [yup - 유효성 검사 라이브러리](https://seongyeoni.tistory.com/182)
 
+- [자바스크립트의 새로운 기능들](https://fe-developers.kakaoent.com/2022/220728-es2022/)
+
 ## 클린코드
 
 - [for, if 둘다 제거해 보세요.](https://youtu.be/Izg6mVJ1LAA)
