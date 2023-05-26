@@ -83,3 +83,5 @@
 - [TypeError: Cannot read properties of undefined (reading 'filter') Tanstack table (React)](https://stackoverflow.com/questions/74836833/typeerror-cannot-read-properties-of-undefined-reading-filter-tanstack-table)
 
 - [[Next.js] ReferenceError: self is not defined (with @toast-ui/react-editor)](https://velog.io/@dngur9801/Next.js-ReferenceError-self-is-not-defined-with-toast-uireact-editor)
+
+- [3. NextJS, Storybook에Tailwindcss를 추가하자.](https://velog.io/@jihyeonjeong11/2.-NextJS-프로젝트에-Storybook과-Tailwindcss를-추가하자)
