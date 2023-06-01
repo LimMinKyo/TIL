@@ -31,3 +31,5 @@
 - [[TypeScript]인덱스 시그니처(Index Signature) 사용 방법](https://developer-talk.tistory.com/297)
 
 - [타입스크립트 꿀팁](https://fe-developers.kakaoent.com/2021/211012-typescript-tip/)
+
+- [Typescript: How to extend two classes?](https://stackoverflow.com/questions/26948400/typescript-how-to-extend-two-classes)
