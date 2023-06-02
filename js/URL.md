@@ -90,6 +90,8 @@
 
 - [자바스크립트의 새로운 기능들](https://fe-developers.kakaoent.com/2022/220728-es2022/)
 
+- [🚀 자바스크립트에 sleep() & wait() 대기 함수 쓰기](https://inpa.tistory.com/entry/JS-📚-자바스크립트에-sleep-wait-대기-함수-쓰기)
+
 ## 클린코드
 
 - [for, if 둘다 제거해 보세요.](https://youtu.be/Izg6mVJ1LAA)
