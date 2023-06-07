@@ -7,3 +7,5 @@
 - [개발자를 위한 PPT 발표앱을 찾았다...!](https://www.youtube.com/watch?v=Q2PCO0mKEaU)
 
 - [개발자 99%는 틀리는 코딩 문제....!?](https://www.youtube.com/watch?v=qW1V-o2RwKw)
+
+- [드디어! 👀 모두가 기다리던 그 업데이트가 출시되었다...!](https://www.youtube.com/watch?v=eSj25owrmTM)
