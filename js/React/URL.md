@@ -82,6 +82,8 @@
 
 - [합성 컴포넌트로 재사용성 극대화하기](https://fe-developers.kakaoent.com/2022/220731-composition-component/)
 
+- [ErrorBoundary로 Toast, ErrorFallback 등 공통적인 에러를 처리해보자](https://happysisyphe.tistory.com/m/52)
+
 ## React-Query
 
 - [react-query](https://velog.io/@jkl1545/React-Query)
