@@ -17,3 +17,5 @@
 - [[Storybook] StoryBook을 이용한 컴포넌트 단위 개발 - 사용하면서 느낀 장단점들](https://velog.io/@younuk23/TILStoryBook%EC%9D%84-%EC%9D%B4%EC%9A%A9%ED%95%9C-%EC%BB%B4%ED%8F%AC%EB%84%8C%ED%8A%B8-%EB%8B%A8%EC%9C%84-%EA%B0%9C%EB%B0%9C)
 
 - [스토리북 작성을 통해 얻게 되는 리팩토링 효과](https://fe-developers.kakaoent.com/2022/220609-storybookwise-component-refactoring/)
+
+- [정말로 테스트 대역이 필요한가](https://gyuwon.github.io/blog/2020/05/10/do-you-really-need-test-doubles.html)
