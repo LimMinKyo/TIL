@@ -80,6 +80,8 @@
 
 - [Nextjs runtime 환경변수 설정](https://flowergeoji.me/react/nextjs-dynamic-env/)
 
+- [Using NextJS API Routes as a BFF](https://medium.com/codex/using-nextjs-api-routes-as-a-bff-4c5065d2dbae)
+
 ## 에러 해결
 
 - [TypeError: Cannot read properties of undefined (reading 'filter') Tanstack table (React)](https://stackoverflow.com/questions/74836833/typeerror-cannot-read-properties-of-undefined-reading-filter-tanstack-table)
