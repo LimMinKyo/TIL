@@ -82,6 +82,8 @@
 
 - [Using NextJS API Routes as a BFF](https://medium.com/codex/using-nextjs-api-routes-as-a-bff-4c5065d2dbae)
 
+- [BFF - Backend for Frontend Design Pattern with Next.js](https://dev.to/adelhamad/bff-backend-for-frontend-design-pattern-with-nextjs-3od0)
+
 ## 에러 해결
 
 - [TypeError: Cannot read properties of undefined (reading 'filter') Tanstack table (React)](https://stackoverflow.com/questions/74836833/typeerror-cannot-read-properties-of-undefined-reading-filter-tanstack-table)
