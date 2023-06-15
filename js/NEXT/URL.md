@@ -84,6 +84,8 @@
 
 - [BFF - Backend for Frontend Design Pattern with Next.js](https://dev.to/adelhamad/bff-backend-for-frontend-design-pattern-with-nextjs-3od0)
 
+- [기존 프론트엔드를 Next.js와 GraphQL로 대체한 이야기](https://m.blog.naver.com/jasonrewriter/222166352512)
+
 ## 에러 해결
 
 - [TypeError: Cannot read properties of undefined (reading 'filter') Tanstack table (React)](https://stackoverflow.com/questions/74836833/typeerror-cannot-read-properties-of-undefined-reading-filter-tanstack-table)
