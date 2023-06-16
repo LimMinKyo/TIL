@@ -9,3 +9,5 @@
 - [개발자 99%는 틀리는 코딩 문제....!?](https://www.youtube.com/watch?v=qW1V-o2RwKw)
 
 - [드디어! 👀 모두가 기다리던 그 업데이트가 출시되었다...!](https://www.youtube.com/watch?v=eSj25owrmTM)
+
+- [찐 파이썬 킬러?! 해외에서 난리난 언어 Mojo 🔥](https://www.youtube.com/watch?v=fYb2DkFo01U)
