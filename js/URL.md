@@ -96,6 +96,8 @@
 
 - [님들이 수강신청, 티켓팅 실패하는 이유 (자바스크립트 몰라서)](https://www.youtube.com/watch?v=oWSNOrBbOIU)
 
+- [[Javascript]Tilt(~) 연산자 사용법](https://oper0116.tistory.com/40)
+
 ## 클린코드
 
 - [for, if 둘다 제거해 보세요.](https://youtu.be/Izg6mVJ1LAA)
