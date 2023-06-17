@@ -94,6 +94,8 @@
 
 - [Higher-Order Function 이란 무엇인가](https://medium.com/@la.place/higher-order-function-%EC%9D%B4%EB%9E%80-%EB%AC%B4%EC%97%87%EC%9D%B8%EA%B0%80-1c61e0bea79)
 
+- [님들이 수강신청, 티켓팅 실패하는 이유 (자바스크립트 몰라서)](https://www.youtube.com/watch?v=oWSNOrBbOIU)
+
 ## 클린코드
 
 - [for, if 둘다 제거해 보세요.](https://youtu.be/Izg6mVJ1LAA)
