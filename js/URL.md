@@ -98,6 +98,8 @@
 
 - [[Javascript]Tilt(~) 연산자 사용법](https://oper0116.tistory.com/40)
 
+- [[setTimeout + async + await ] setTimeout은 프로미스를 반환하지 않아](https://footprint-of-nawin.tistory.com/97)
+
 ## 클린코드
 
 - [for, if 둘다 제거해 보세요.](https://youtu.be/Izg6mVJ1LAA)
