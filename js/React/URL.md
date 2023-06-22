@@ -127,3 +127,7 @@
 ## 에러 해결
 
 - [React에서 TailwindCSS 사용 시 warning - Unknown at rule @tailwind css](https://velog.io/@jinsunkimdev/React%EC%97%90%EC%84%9C-TailwindCSS-%EC%82%AC%EC%9A%A9-%EC%8B%9C-warning-Unknown-at-rule-tailwind-css)
+
+## 유용한 라이브러리 모음
+
+- [React Spring Bottom Sheet](https://react-spring.bottom-sheet.dev/)
