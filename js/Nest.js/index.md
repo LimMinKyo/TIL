@@ -11,3 +11,5 @@
 - [Yarn Berry 적용 1일 차에 느낀 점 (Nest.js, Fastify ⤴️ / TurboRepo ⤵️)](https://velog.io/@johnwi/wil-01-Yarn-Berry)
 
 - [testing-nestjs](https://github.com/jmcdo29/testing-nestjs)
+
+- [NestJS 회원가입 및 로그인(DB저장)](https://velog.io/@ehgks0000/NestJS-DB저장하기TypeORM#localstrategyts-생성)
