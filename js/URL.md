@@ -100,6 +100,8 @@
 
 - [[setTimeout + async + await ] setTimeout은 프로미스를 반환하지 않아](https://footprint-of-nawin.tistory.com/97)
 
+- [JS - console.count](https://www.youtube.com/shorts/6eglGT9FfnA)
+
 ## 클린코드
 
 - [for, if 둘다 제거해 보세요.](https://youtu.be/Izg6mVJ1LAA)
