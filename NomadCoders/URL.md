@@ -11,3 +11,5 @@
 - [드디어! 👀 모두가 기다리던 그 업데이트가 출시되었다...!](https://www.youtube.com/watch?v=eSj25owrmTM)
 
 - [찐 파이썬 킬러?! 해외에서 난리난 언어 Mojo 🔥](https://www.youtube.com/watch?v=fYb2DkFo01U)
+
+- [C가 주옥같은 개발자들 보세요. Rust 10분 정리!](https://www.youtube.com/watch?v=w1dlmOjDLX8)
