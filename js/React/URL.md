@@ -84,6 +84,8 @@
 
 - [ErrorBoundary로 Toast, ErrorFallback 등 공통적인 에러를 처리해보자](https://happysisyphe.tistory.com/m/52)
 
+- [[react-responsive, react-device-detect] 리액트 반응형 모듈 사용하기](https://raidho.tistory.com/108)
+
 ## React-Query
 
 - [react-query](https://velog.io/@jkl1545/React-Query)
@@ -130,4 +132,6 @@
 
 ## 유용한 라이브러리 모음
 
-- [React Spring Bottom Sheet](https://react-spring.bottom-sheet.dev/)
+- [react-spring-bottom-sheet](https://react-spring.bottom-sheet.dev/)
+
+- [react-device-detect](https://www.npmjs.com/package/react-device-detect)
