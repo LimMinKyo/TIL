@@ -35,3 +35,5 @@
 - [Typescript: How to extend two classes?](https://stackoverflow.com/questions/26948400/typescript-how-to-extend-two-classes)
 
 - [[TypeScript]타입스크립트 any, unknown 차이](https://developer-talk.tistory.com/198)
+
+- [Never 타입](https://radlohead.gitbook.io/typescript-deep-dive/type-system/never)
