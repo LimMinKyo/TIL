@@ -55,3 +55,5 @@
 - [FE개발그룹에서는 Tailwind CSS를 왜 도입했고, 어떻게 사용했을까?](https://fe-developers.kakaoent.com/2022/221013-tailwind-and-design-system/)
 
 - [2023 베스트 CSS 프레임워크 딱 골라드림 👑 10분컷.](https://www.youtube.com/watch?v=FRSUP2sbgTY)
+
+- [티스토리 테이블에 가로 스크롤 구현하기](https://hangyojung.tistory.com/93)
