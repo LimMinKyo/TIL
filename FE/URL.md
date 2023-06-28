@@ -45,3 +45,5 @@
 - [프론트엔드에서는 어떤 것을 테스트 해야 할까?](https://soojae.tistory.com/83)
 
 - [프론트엔드와 SOLID 원칙](https://fe-developers.kakaoent.com/2023/230330-frontend-solid/)
+
+- [GraphQL Mutation 설계하기](https://fe-developers.kakaoent.com/2022/220113-designing-graphql-mutation/)
