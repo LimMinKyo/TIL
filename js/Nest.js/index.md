@@ -13,3 +13,5 @@
 - [testing-nestjs](https://github.com/jmcdo29/testing-nestjs)
 
 - [NestJS 회원가입 및 로그인(DB저장)](https://velog.io/@ehgks0000/NestJS-DB저장하기TypeORM#localstrategyts-생성)
+
+- [Nest.js 위에서 GraphQL API를 위한 User 인증 JWT Token 생성하기](https://velog.io/@song22861/Nest.js-%EC%9C%84%EC%97%90%EC%84%9C-GraphQL-API%EB%A5%BC-%EC%9C%84%ED%95%9C-User-%EC%9D%B8%EC%A6%9D-JWT-Token-%EC%83%9D%EC%84%B1%ED%95%98%EA%B8%B0)
