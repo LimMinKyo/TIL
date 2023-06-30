@@ -47,3 +47,5 @@
 - [프론트엔드와 SOLID 원칙](https://fe-developers.kakaoent.com/2023/230330-frontend-solid/)
 
 - [GraphQL Mutation 설계하기](https://fe-developers.kakaoent.com/2022/220113-designing-graphql-mutation/)
+
+- [SEO 개선 초심자 가이드](https://fe-developers.kakaoent.com/2022/221208-basic-seo-guide/)
