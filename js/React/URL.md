@@ -86,6 +86,8 @@
 
 - [[react-responsive, react-device-detect] 리액트 반응형 모듈 사용하기](https://raidho.tistory.com/108)
 
+- [[리액트] 글로벌한 웹을 향하여 (react-i18next, 다국어지원)](https://all-dev-kang.tistory.com/entry/리액트-글로벌한-웹을-향하여-react-i18n-다국어지원)
+
 ## React-Query
 
 - [react-query](https://velog.io/@jkl1545/React-Query)
