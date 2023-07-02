@@ -102,6 +102,8 @@
 
 - [JS - console.count](https://www.youtube.com/shorts/6eglGT9FfnA)
 
+- [2023년. 새로운 자바스크립트가 왔다...!](https://www.youtube.com/watch?v=e6WV_DXGwSg)
+
 ## 클린코드
 
 - [for, if 둘다 제거해 보세요.](https://youtu.be/Izg6mVJ1LAA)
