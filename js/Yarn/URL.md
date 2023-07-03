@@ -15,3 +15,5 @@
 - [node_modules로부터 우리를 구원해 줄 Yarn Berry](https://toss.tech/article/node-modules-and-yarn-berry)
 
 - [Yarn Berry 적용 안되는 문제 해결](https://meoweundi.tistory.com/39)
+
+- [Yarn Berry 환경과 PnP 기능에서 Prisma 사용](https://velog.io/@pyo-sh/Yarn-Berry-%ED%99%98%EA%B2%BD%EA%B3%BC-PnP-%EA%B8%B0%EB%8A%A5%EC%97%90%EC%84%9C-Prisma-%EC%82%AC%EC%9A%A9)
