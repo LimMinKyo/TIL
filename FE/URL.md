@@ -49,3 +49,5 @@
 - [GraphQL Mutation 설계하기](https://fe-developers.kakaoent.com/2022/220113-designing-graphql-mutation/)
 
 - [SEO 개선 초심자 가이드](https://fe-developers.kakaoent.com/2022/221208-basic-seo-guide/)
+
+- [초보 웹 개발자를 위한 자바스크립트 빌드 툴과 SWC](https://fe-developers.kakaoent.com/2022/220217-learn-babel-terser-swc/)
