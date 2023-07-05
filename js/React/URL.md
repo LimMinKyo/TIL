@@ -88,6 +88,8 @@
 
 - [[리액트] 글로벌한 웹을 향하여 (react-i18next, 다국어지원)](https://all-dev-kang.tistory.com/entry/리액트-글로벌한-웹을-향하여-react-i18n-다국어지원)
 
+- [Suspense와 선언적으로 Data fetching처리](https://fe-developers.kakaoent.com/2021/211127-211209-suspense/)
+
 ## React-Query
 
 - [react-query](https://velog.io/@jkl1545/React-Query)
