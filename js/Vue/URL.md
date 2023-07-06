@@ -52,6 +52,8 @@
 
 - [TIL. Vue.js[v-for와 배열/객체]](https://velog.io/@kihyeon8949/TIL.-%EA%B8%B0%EC%97%85%ED%98%91%EC%97%85-2%EC%9D%BC%EC%B0%A8-Vue.js2-4)
 
+- [Vue3 - 프로젝트 구성, ESLint, Prettier 설정, Bootstrap 적용](https://velog.io/@corner3499/Vue3-프로젝트-구성-ESLint-Prettier-설정-Bootstrap-적용)
+
 ## 라이브러리
 
 - [vue3 App (5) - Toast UI Editor 붙이기](https://velog.io/@latte_h/Vue3-App-5-Toast-UI-Editor-%EB%B6%99%EC%9D%B4%EA%B8%B0)
