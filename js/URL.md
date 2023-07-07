@@ -104,6 +104,8 @@
 
 - [2023년. 새로운 자바스크립트가 왔다...!](https://www.youtube.com/watch?v=e6WV_DXGwSg)
 
+- [ES Modules Dynamic Import](https://dmitripavlutin.com/ecmascript-modules-dynamic-import/)
+
 ## 클린코드
 
 - [for, if 둘다 제거해 보세요.](https://youtu.be/Izg6mVJ1LAA)
