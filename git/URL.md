@@ -35,3 +35,5 @@
 - [[Git 정리] 병합 취소하기](https://velog.io/@dev2820/Git-%EC%A0%95%EB%A6%AC-%EB%B3%91%ED%95%A9-%EC%B7%A8%EC%86%8C%ED%95%98%EA%B8%B0)
 
 - [Git - 캐시(Cache) 삭제 방법 및 상세 설명](https://niceman.tistory.com/114)
+
+- [GitHub의 Merge, Squash and Merge, Rebase and Merge 정확히 이해하기](https://meetup.nhncloud.com/posts/122)
