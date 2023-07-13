@@ -90,6 +90,8 @@
 
 - [Suspense와 선언적으로 Data fetching처리](https://fe-developers.kakaoent.com/2021/211127-211209-suspense/)
 
+- [React Profiler를 사용하여 성능 측정하기](https://medium.com/wantedjobs/react-profiler를-사용하여-성능-측정하기-5981dfb3d934)
+
 ## React-Query
 
 - [react-query](https://velog.io/@jkl1545/React-Query)
