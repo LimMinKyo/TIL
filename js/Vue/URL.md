@@ -54,6 +54,8 @@
 
 - [Vue3 - 프로젝트 구성, ESLint, Prettier 설정, Bootstrap 적용](https://velog.io/@corner3499/Vue3-프로젝트-구성-ESLint-Prettier-설정-Bootstrap-적용)
 
+- [vue-router4 state객체로 페이지 사이 데이터 전달](https://velog.io/@yiwonjin/vue-router3-state객체로-페이지-사이-데이터-전달)
+
 ## 라이브러리
 
 - [vue3 App (5) - Toast UI Editor 붙이기](https://velog.io/@latte_h/Vue3-App-5-Toast-UI-Editor-%EB%B6%99%EC%9D%B4%EA%B8%B0)
