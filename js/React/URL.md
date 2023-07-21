@@ -92,6 +92,8 @@
 
 - [React Profiler를 사용하여 성능 측정하기](https://medium.com/wantedjobs/react-profiler를-사용하여-성능-측정하기-5981dfb3d934)
 
+- [[React] Toast-UI Editor 이미지 업로드/드래그 첨부 막기 방법](https://curryyou.tistory.com/473)
+
 ## React-Query
 
 - [react-query](https://velog.io/@jkl1545/React-Query)
