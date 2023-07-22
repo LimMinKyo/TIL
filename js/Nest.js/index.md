@@ -17,3 +17,5 @@
 - [Nest.js 위에서 GraphQL API를 위한 User 인증 JWT Token 생성하기](https://velog.io/@song22861/Nest.js-%EC%9C%84%EC%97%90%EC%84%9C-GraphQL-API%EB%A5%BC-%EC%9C%84%ED%95%9C-User-%EC%9D%B8%EC%A6%9D-JWT-Token-%EC%83%9D%EC%84%B1%ED%95%98%EA%B8%B0)
 
 - [NestJS@9.x.x & TypeORM@0.3.x에서 customRepository 쉽게 사용하기](https://velog.io/@wonjun1995/NestJS9.x.x-TypeORM0.3.x에서-customRepository-쉽게-사용하기)
+
+- [[NestJS] DTO를 class로 작성하는 이유](https://velog.io/@choiramsey8/NestJS-DTO를-class로-작성하는-이유)
