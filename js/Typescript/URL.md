@@ -39,3 +39,5 @@
 - [Never 타입](https://radlohead.gitbook.io/typescript-deep-dive/type-system/never)
 
 - [타입스크립트 type과 interface의 공통점과 차이점](https://yceffort.kr/2021/03/typescript-interface-vs-type)
+
+- [[Typescript] 제네릭의 타입 제한](https://joylee-developer.tistory.com/199)
