@@ -19,3 +19,5 @@
 - [NestJS@9.x.x & TypeORM@0.3.x에서 customRepository 쉽게 사용하기](https://velog.io/@wonjun1995/NestJS9.x.x-TypeORM0.3.x에서-customRepository-쉽게-사용하기)
 
 - [[NestJS] DTO를 class로 작성하는 이유](https://velog.io/@choiramsey8/NestJS-DTO를-class로-작성하는-이유)
+
+- [[Nest.js] Nest.js API 만들기 (12) - API 문서화(Swagger)](https://any-ting.tistory.com/122)
