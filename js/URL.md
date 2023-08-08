@@ -106,6 +106,8 @@
 
 - [ES Modules Dynamic Import](https://dmitripavlutin.com/ecmascript-modules-dynamic-import/)
 
+- [[JavaScript] 루트와 제곱 구하는 방법](https://velog.io/@chayezo/루트와-제곱-구하는-방법)
+
 ## 클린코드
 
 - [for, if 둘다 제거해 보세요.](https://youtu.be/Izg6mVJ1LAA)
