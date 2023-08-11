@@ -23,3 +23,5 @@
 - [[Nest.js] Nest.js API 만들기 (12) - API 문서화(Swagger)](https://any-ting.tistory.com/122)
 
 - [NestJS에서 Swagger를 사용하는 방법](https://jhyeok.com/nestjs-swagger/)
+
+- [this.$on("beforeExit") doesn't work anymore on 5.0.0](https://github.com/prisma/prisma/issues/20171)
