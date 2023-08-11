@@ -5,3 +5,5 @@
 - [PM2를 활용한 Node.js 무중단 서비스하기](https://engineering.linecorp.com/ko/blog/pm2-nodejs/)
 
 - [Node.js 크롤링 - 인프런 사이트 크롤링하기](https://www.youtube.com/watch?v=xbehh8lWy_A)
+
+- [이메일로 인증번호 받기 구현 | Nodemailer(with Gmail)](https://velog.io/@qhflrnfl4324/%EC%9D%B4%EB%A9%94%EC%9D%BC%EB%A1%9C-%EC%9D%B8%EC%A6%9D%EB%B2%88%ED%98%B8-%EB%B0%9B%EA%B8%B0-%EA%B5%AC%ED%98%84-Nodemailerwith-Gmail)
