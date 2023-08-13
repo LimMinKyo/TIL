@@ -9,3 +9,5 @@
 - [index가 뭔지 설명해보세요 (개발면접시간)](https://www.youtube.com/watch?v=iNvYsGKelYs)
 
 - [유저 천만명을 위한 최고의 서버 아키텍처는? 👀](https://www.youtube.com/watch?v=-03fvKbziPU)
+
+- [interface -abstract class - concrete class 패턴(인터페이스 구현 중복 해결 패턴)](https://effectiveprogramming.tistory.com/entry/interface-abstract-class-concrete-class-%ED%8C%A8%ED%84%B4)
