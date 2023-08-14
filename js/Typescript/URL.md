@@ -41,3 +41,5 @@
 - [타입스크립트 type과 interface의 공통점과 차이점](https://yceffort.kr/2021/03/typescript-interface-vs-type)
 
 - [[Typescript] 제네릭의 타입 제한](https://joylee-developer.tistory.com/199)
+
+- [[이펙티브 타입스크립트+2] 타입스크립트 설정 (noImplicitAny, strictNullChecks)](https://junghyunkim.tistory.com/entry/이펙티브-타입스크립트2-타입스크립트-설정-noImplicitAny-strictNullChecks)
