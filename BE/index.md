@@ -11,3 +11,5 @@
 - [유저 천만명을 위한 최고의 서버 아키텍처는? 👀](https://www.youtube.com/watch?v=-03fvKbziPU)
 
 - [interface -abstract class - concrete class 패턴(인터페이스 구현 중복 해결 패턴)](https://effectiveprogramming.tistory.com/entry/interface-abstract-class-concrete-class-%ED%8C%A8%ED%84%B4)
+
+- [UUID vs Auto Increment 중 PK 선택하기](https://stir.tistory.com/294)
