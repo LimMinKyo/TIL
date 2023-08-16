@@ -108,6 +108,8 @@
 
 - [[JavaScript] 루트와 제곱 구하는 방법](https://velog.io/@chayezo/루트와-제곱-구하는-방법)
 
+- [자바스크립트(Javascript) 진수변환 방법 (2진수, 8진수, 10진수, 16진수)](https://ithub.tistory.com/290)
+
 ## 클린코드
 
 - [for, if 둘다 제거해 보세요.](https://youtu.be/Izg6mVJ1LAA)
