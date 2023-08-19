@@ -25,3 +25,5 @@
 - [NestJS에서 Swagger를 사용하는 방법](https://jhyeok.com/nestjs-swagger/)
 
 - [this.$on("beforeExit") doesn't work anymore on 5.0.0](https://github.com/prisma/prisma/issues/20171)
+
+- [[ NestJS ] Interceptor와 AOP 패턴에 대해서 알아보자](https://tasddc.tistory.com/129)
