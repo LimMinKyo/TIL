@@ -27,3 +27,5 @@
 - [this.$on("beforeExit") doesn't work anymore on 5.0.0](https://github.com/prisma/prisma/issues/20171)
 
 - [[ NestJS ] Interceptor와 AOP 패턴에 대해서 알아보자](https://tasddc.tistory.com/129)
+
+- [NestJS 12 | Role-Based Authorization](https://velog.io/@hkja0111/NestJS-12-Role-Based-Authorization)
