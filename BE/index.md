@@ -15,3 +15,5 @@
 - [UUID vs Auto Increment 중 PK 선택하기](https://stir.tistory.com/294)
 
 - [이미지는 어디에 저장해야 할까](https://hs-archive.tistory.com/42)
+
+- [ERD 설계 기본개념 (with ERD Cloud)](https://blog.naver.com/PostView.naver?blogId=sssang97&logNo=222808912681)
