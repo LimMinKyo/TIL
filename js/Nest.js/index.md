@@ -29,3 +29,5 @@
 - [[ NestJS ] Interceptor와 AOP 패턴에 대해서 알아보자](https://tasddc.tistory.com/129)
 
 - [NestJS 12 | Role-Based Authorization](https://velog.io/@hkja0111/NestJS-12-Role-Based-Authorization)
+
+- [Prisma는 Type-Safety를 어떻게 보장하는가(Feat. VS TypeORM)](https://marades.tistory.com/26)
