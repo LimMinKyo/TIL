@@ -94,6 +94,8 @@
 
 - [[React] Toast-UI Editor 이미지 업로드/드래그 첨부 막기 방법](https://curryyou.tistory.com/473)
 
+- [리액트는 어떻게 작동할까 Diffing - 3주차 회고](https://velog.io/@naamoonoo/리액트는-어떻게-작동할까-Diffing-3주차-회고)
+
 ## React-Query
 
 - [react-query](https://velog.io/@jkl1545/React-Query)
