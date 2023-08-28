@@ -110,6 +110,8 @@
 
 - [자바스크립트(Javascript) 진수변환 방법 (2진수, 8진수, 10진수, 16진수)](https://ithub.tistory.com/290)
 
+- [ES Modules Dynamic Import](https://dmitripavlutin.com/ecmascript-modules-dynamic-import/)
+
 ## 클린코드
 
 - [for, if 둘다 제거해 보세요.](https://youtu.be/Izg6mVJ1LAA)
