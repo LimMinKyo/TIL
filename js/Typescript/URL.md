@@ -43,3 +43,5 @@
 - [[Typescript] 제네릭의 타입 제한](https://joylee-developer.tistory.com/199)
 
 - [[이펙티브 타입스크립트+2] 타입스크립트 설정 (noImplicitAny, strictNullChecks)](https://junghyunkim.tistory.com/entry/이펙티브-타입스크립트2-타입스크립트-설정-noImplicitAny-strictNullChecks)
+
+- [[에러 일지] TypeScript - Type Assertion으로 'Property does not exist...' - ts(2339) 오류 해결하기](https://velog.io/@nemo/typescript-type-assertion)
