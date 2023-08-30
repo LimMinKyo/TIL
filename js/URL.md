@@ -112,6 +112,8 @@
 
 - [ES Modules Dynamic Import](https://dmitripavlutin.com/ecmascript-modules-dynamic-import/)
 
+- [encodeURIComponent()와 encodeURI()의 차이](https://velog.io/@dongkyun/encodeURIComponent%EC%99%80-encodeURI%EC%9D%98-%EC%B0%A8%EC%9D%B4)
+
 ## 클린코드
 
 - [for, if 둘다 제거해 보세요.](https://youtu.be/Izg6mVJ1LAA)
