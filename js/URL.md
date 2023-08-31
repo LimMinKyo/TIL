@@ -116,6 +116,8 @@
 
 - [html2canvas does not render images located in the element #722](https://github.com/niklasvh/html2canvas/issues/722#issuecomment-166824752)
 
+- [canvas의 영역을 클립보드에 붙여넣는 과정 정리 + 코드](https://im-designloper.tistory.com/84)
+
 ## 클린코드
 
 - [for, if 둘다 제거해 보세요.](https://youtu.be/Izg6mVJ1LAA)
