@@ -118,6 +118,8 @@
 
 - [canvas의 영역을 클립보드에 붙여넣는 과정 정리 + 코드](https://im-designloper.tistory.com/84)
 
+- [Javascript - 화면 캡처 후 서버에 저장하기(html2canvas 사용법, 주의사항)](https://myhappyman.tistory.com/156)
+
 ## 클린코드
 
 - [for, if 둘다 제거해 보세요.](https://youtu.be/Izg6mVJ1LAA)
