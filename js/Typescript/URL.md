@@ -45,3 +45,5 @@
 - [[이펙티브 타입스크립트+2] 타입스크립트 설정 (noImplicitAny, strictNullChecks)](https://junghyunkim.tistory.com/entry/이펙티브-타입스크립트2-타입스크립트-설정-noImplicitAny-strictNullChecks)
 
 - [[에러 일지] TypeScript - Type Assertion으로 'Property does not exist...' - ts(2339) 오류 해결하기](https://velog.io/@nemo/typescript-type-assertion)
+
+- [ts-jenum 으로 응집력 있는 TS 코드 작성하기 (feat. EnumClass)](https://jojoldu.tistory.com/621)
