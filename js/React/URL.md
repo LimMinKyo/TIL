@@ -96,6 +96,8 @@
 
 - [리액트는 어떻게 작동할까 Diffing - 3주차 회고](https://velog.io/@naamoonoo/리액트는-어떻게-작동할까-Diffing-3주차-회고)
 
+- [[GraphQL Codegen] Guide: React and Vue](https://the-guild.dev/graphql/codegen/docs/guides/react-vue)
+
 ## React-Query
 
 - [react-query](https://velog.io/@jkl1545/React-Query)
