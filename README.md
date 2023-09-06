@@ -4,6 +4,7 @@
 - [UI\/UX](./UIUX/index.md)
 - [HTML](./html/URL.md)
 - [CSS](./css/URL.md)
+- [Java](./java/index.md)
 - [Javascript](./js/URL.md)
   - [React](./js/React/URL.md)
   - [Vue](./js/Vue/URL.md)
