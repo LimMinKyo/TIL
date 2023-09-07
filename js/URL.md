@@ -120,6 +120,8 @@
 
 - [Javascript - 화면 캡처 후 서버에 저장하기(html2canvas 사용법, 주의사항)](https://myhappyman.tistory.com/156)
 
+- [JS로 무한 스크롤 구현하기 (feat: Intersection Observer)](https://www.youtube.com/watch?v=iZhq7I42uaI)
+
 ## 클린코드
 
 - [for, if 둘다 제거해 보세요.](https://youtu.be/Izg6mVJ1LAA)
