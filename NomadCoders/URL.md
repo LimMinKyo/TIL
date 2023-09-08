@@ -13,3 +13,5 @@
 - [찐 파이썬 킬러?! 해외에서 난리난 언어 Mojo 🔥](https://www.youtube.com/watch?v=fYb2DkFo01U)
 
 - [C가 주옥같은 개발자들 보세요. Rust 10분 정리!](https://www.youtube.com/watch?v=w1dlmOjDLX8)
+
+- [개발자라면 "무조건" 디자인 패턴을 배워야한다?](https://www.youtube.com/watch?v=Pzy_MPfGixg)
