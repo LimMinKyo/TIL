@@ -15,3 +15,5 @@
 - [C가 주옥같은 개발자들 보세요. Rust 10분 정리!](https://www.youtube.com/watch?v=w1dlmOjDLX8)
 
 - [개발자라면 "무조건" 디자인 패턴을 배워야한다?](https://www.youtube.com/watch?v=Pzy_MPfGixg)
+
+- [천재들이 쓰는 노트앱? 옵시디언 활용법 200%!](https://www.youtube.com/watch?v=h6rxKbbgI28)
