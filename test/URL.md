@@ -19,3 +19,5 @@
 - [스토리북 작성을 통해 얻게 되는 리팩토링 효과](https://fe-developers.kakaoent.com/2022/220609-storybookwise-component-refactoring/)
 
 - [정말로 테스트 대역이 필요한가](https://gyuwon.github.io/blog/2020/05/10/do-you-really-need-test-doubles.html)
+
+- [Unit test의 AAA 패턴(Arrange/Act/Assert)](https://codechacha.com/ko/unittest-aaa-pattern/)
