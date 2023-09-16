@@ -10,6 +10,8 @@
 
 - [웹 기획에서 PC 화면 크기를 어떻게 잡아야 할까?](https://emmakwon.kr/ideal-screen-size-for-desktop/)
 
+- [웹 캐시(WEB Cache)란 무엇인가?(특징)](https://hahahoho5915.tistory.com/33)
+
 ## 보안
 
 - [[IT정보] 크로스 사이트 요청 위조(Cross Site Request Forgery, CSRF, XSRF) 개념](https://blog.naver.com/PostView.naver?blogId=seek316&logNo=222156548475)
