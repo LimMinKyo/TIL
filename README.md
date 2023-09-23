@@ -24,3 +24,4 @@
 - [Error](./error/URL.md)
 - [Memo](./memo/URL.md)
 - [VSCode](./vscode/index.md)
+- [AWS](./aws/index.md)
