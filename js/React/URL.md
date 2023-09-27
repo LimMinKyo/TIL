@@ -124,6 +124,8 @@
 
 - [How to create reusable form components with React Hook Forms and Typescript](https://www.thisdot.co/blog/how-to-create-reusable-form-components-with-react-hook-forms-and-typescript)
 
+- [react-hook-form usefieldarray nested arrays](https://codesandbox.io/s/react-hook-form-usefieldarray-nested-arrays-m8w6j)
+
 ## React-Table
 
 - [TanStack React Table v8 - 기본편](https://prod.velog.io/@kemezz/TanStack-React-Table-v8-%EA%B8%B0%EB%B3%B8%ED%8E%B8)
