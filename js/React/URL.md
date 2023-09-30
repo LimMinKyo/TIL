@@ -98,6 +98,8 @@
 
 - [[GraphQL Codegen] Guide: React and Vue](https://the-guild.dev/graphql/codegen/docs/guides/react-vue)
 
+- [React - Switch와 Route exact의 차이](https://phsun102.tistory.com/73)
+
 ## React-Query
 
 - [react-query](https://velog.io/@jkl1545/React-Query)
