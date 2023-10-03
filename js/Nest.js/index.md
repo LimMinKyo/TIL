@@ -35,3 +35,5 @@
 - [Spring 개발자의 NestJs 적응하기](https://medium.com/zigbang/spring-%EA%B0%9C%EB%B0%9C%EC%9E%90%EC%9D%98-nestjs-%EC%A0%81%EC%9D%91%ED%95%98%EA%B8%B0-a816fa0f38a9)
 
 - [Nest.js ConfigService를 주입받는 UseCase 테스트하기](https://juneyoung.io/development-nestjs-usecase-unit-test-with-di-220320)
+
+- [How to deploy your NestJS apps on Vercel](https://dev.to/leduc1901/how-to-deploy-your-nestjs-apps-on-vercel-3nh9)
