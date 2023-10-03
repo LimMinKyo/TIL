@@ -122,7 +122,7 @@
 
 - [JS로 무한 스크롤 구현하기 (feat: Intersection Observer)](https://www.youtube.com/watch?v=iZhq7I42uaI)
 
-- [es2015-re-export-module-and-override-single-export-function-of-the-re-exported-m](https://stackoverflow.com/questions/34745110/es2015-re-export-module-and-override-single-export-function-of-the-re-exported-m)
+- [es2015 re-export module and override single export function of the re-exported module](https://stackoverflow.com/questions/34745110/es2015-re-export-module-and-override-single-export-function-of-the-re-exported-m)
 
 ## 클린코드
 
