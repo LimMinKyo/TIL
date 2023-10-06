@@ -93,3 +93,5 @@
 - [[Next.js] ReferenceError: self is not defined (with @toast-ui/react-editor)](https://velog.io/@dngur9801/Next.js-ReferenceError-self-is-not-defined-with-toast-uireact-editor)
 
 - [3. NextJS, Storybook에Tailwindcss를 추가하자.](https://velog.io/@jihyeonjeong11/2.-NextJS-프로젝트에-Storybook과-Tailwindcss를-추가하자)
+
+- [`NextRouter` was not mounted](https://nextjs.org/docs/messages/next-router-not-mounted)

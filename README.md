@@ -8,7 +8,7 @@
 - [Javascript](./js/URL.md)
   - [React](./js/React/URL.md)
   - [Vue](./js/Vue/URL.md)
-  - [Next.js](./js/NEXT/URL.md)
+  - [Next.js](./js/Next.js/index.md)
   - [Yarn](./js/Yarn/URL.md)
   - [Typescript](./js/Typescript/URL.md)
   - [Axios](./js/Axios/URL.md)
