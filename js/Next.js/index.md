@@ -86,6 +86,8 @@
 
 - [기존 프론트엔드를 Next.js와 GraphQL로 대체한 이야기](https://m.blog.naver.com/jasonrewriter/222166352512)
 
+- [Next.js 13에서 React Query SSR 적용하는 방법](https://velog.io/@ckstn0777/Next.js-13에서-React-Query-SSR-적용하는-방법)
+
 ## 에러 해결
 
 - [TypeError: Cannot read properties of undefined (reading 'filter') Tanstack table (React)](https://stackoverflow.com/questions/74836833/typeerror-cannot-read-properties-of-undefined-reading-filter-tanstack-table)
