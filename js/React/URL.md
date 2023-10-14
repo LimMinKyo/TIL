@@ -100,6 +100,8 @@
 
 - [React - Switch와 Route exact의 차이](https://phsun102.tistory.com/73)
 
+- [[React/Typescript] html 태그의 기본 props를 사용해 컴포넌트를 만드는법](https://hackids.tistory.com/133)
+
 ## React-Query
 
 - [react-query](https://velog.io/@jkl1545/React-Query)
