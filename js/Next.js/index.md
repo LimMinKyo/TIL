@@ -97,3 +97,5 @@
 - [3. NextJS, Storybook에Tailwindcss를 추가하자.](https://velog.io/@jihyeonjeong11/2.-NextJS-프로젝트에-Storybook과-Tailwindcss를-추가하자)
 
 - [`NextRouter` was not mounted](https://nextjs.org/docs/messages/next-router-not-mounted)
+
+- [What causes NextJS Warning: "Extra attributes from the server: data-new-gr-c-s-check-loaded..."](https://stackoverflow.com/questions/75337953/what-causes-nextjs-warning-extra-attributes-from-the-server-data-new-gr-c-s-c)
