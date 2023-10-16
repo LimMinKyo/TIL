@@ -37,3 +37,5 @@
 - [Nest.js ConfigService를 주입받는 UseCase 테스트하기](https://juneyoung.io/development-nestjs-usecase-unit-test-with-di-220320)
 
 - [How to deploy your NestJS apps on Vercel](https://dev.to/leduc1901/how-to-deploy-your-nestjs-apps-on-vercel-3nh9)
+
+- [Nest.js에서 전역으로 에러 처리하기](https://velog.io/@yiyb0603/Nest.js에서-전역으로-에러-처리하기)
