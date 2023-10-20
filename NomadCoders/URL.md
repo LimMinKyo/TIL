@@ -17,3 +17,5 @@
 - [개발자라면 "무조건" 디자인 패턴을 배워야한다?](https://www.youtube.com/watch?v=Pzy_MPfGixg)
 
 - [천재들이 쓰는 노트앱? 옵시디언 활용법 200%!](https://www.youtube.com/watch?v=h6rxKbbgI28)
+
+- [결제연동 10분컷. 한방에 몽땅 설명해드림!](https://www.youtube.com/watch?v=JsiTJlLitMI&t=63s)
