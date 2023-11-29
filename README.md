@@ -14,6 +14,7 @@
   - [Axios](./js/Axios/URL.md)
   - [Node.js](./js/Node/URL.md)
   - [Nest.js](./js/Nest.js/index.md)
+  - [Prisma](./js/Prisma/index.md)
   - [EsLint](./js/eslint/index.md)
 - [Git](./git/URL.md)
 - [Docker](./docker/index.md)
