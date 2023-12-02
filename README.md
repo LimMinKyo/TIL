@@ -21,6 +21,7 @@
 - [Web](./Web/URL.md)
 - [FrontEnd](./FE/URL.md)
 - [BackEnd](./BE/index.md)
+- [SQL](./SQL/index.md)
 - [Test](./test/URL.md)
 - [Error](./error/URL.md)
 - [Memo](./memo/URL.md)
