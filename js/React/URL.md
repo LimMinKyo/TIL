@@ -153,3 +153,5 @@
 - [react-spring-bottom-sheet](https://react-spring.bottom-sheet.dev/)
 
 - [react-device-detect](https://www.npmjs.com/package/react-device-detect)
+
+- [react-paginate](https://www.npmjs.com/package/react-paginate)
