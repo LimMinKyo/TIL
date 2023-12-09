@@ -25,3 +25,5 @@
 - [전설의 프로그래머 형님들의 찐 공부 비법!](https://www.youtube.com/watch?v=NLGUkiMDIZg)
 
 - [파이어베이스 킬러? 요즘 대세는 수파베이스!](https://www.youtube.com/watch?v=tvX9f8FqMFI)
+
+- [아직도 '랭체인'을 모른다고 해서 5분 설명해드림](https://www.youtube.com/watch?v=aDN8hm4pfPE)
