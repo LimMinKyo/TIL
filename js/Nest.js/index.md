@@ -39,3 +39,5 @@
 - [How to deploy your NestJS apps on Vercel](https://dev.to/leduc1901/how-to-deploy-your-nestjs-apps-on-vercel-3nh9)
 
 - [Nest.js에서 전역으로 에러 처리하기](https://velog.io/@yiyb0603/Nest.js에서-전역으로-에러-처리하기)
+
+- [[NestJS] Prisma 환경 변수 문제 해결하기](https://velog.io/@yejin0528/NestJS-Prisma-%ED%99%98%EA%B2%BD-%EB%B3%80%EC%88%98-%EB%AC%B8%EC%A0%9C-%ED%95%B4%EA%B2%B0%ED%95%98%EA%B8%B0)
