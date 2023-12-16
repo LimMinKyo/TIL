@@ -6,4 +6,4 @@
 
 - [신입개발자에게 필요한 AWS 지식 총정리 프론트+백엔드](https://www.youtube.com/watch?v=xsErrQJWuwc)
 
-
+- [[AWS] 💰 프리티어 요금 폭탄 방지 💸 - 무료 사용량 정리](https://inpa.tistory.com/entry/AWS-%F0%9F%92%B0-%ED%94%84%EB%A6%AC%ED%8B%B0%EC%96%B4-%EC%9A%94%EA%B8%88-%ED%8F%AD%ED%83%84-%EB%B0%A9%EC%A7%80-%F0%9F%92%B8-%EB%AC%B4%EB%A3%8C-%EC%82%AC%EC%9A%A9%EB%9F%89-%EC%A0%95%EB%A6%AC)
