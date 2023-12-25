@@ -9,3 +9,5 @@
 - [[AWS] 💰 프리티어 요금 폭탄 방지 💸 - 무료 사용량 정리](https://inpa.tistory.com/entry/AWS-%F0%9F%92%B0-%ED%94%84%EB%A6%AC%ED%8B%B0%EC%96%B4-%EC%9A%94%EA%B8%88-%ED%8F%AD%ED%83%84-%EB%B0%A9%EC%A7%80-%F0%9F%92%B8-%EB%AC%B4%EB%A3%8C-%EC%82%AC%EC%9A%A9%EB%9F%89-%EC%A0%95%EB%A6%AC)
 
 - [[AWS] EC2 도메인 연결 및 HTTPS 적용하기](https://pgmjun.tistory.com/69)
+
+- [AWS- ec2 포트 포워딩(port forwarding)](https://velog.io/@jinseoit/ec2-port-forward)
