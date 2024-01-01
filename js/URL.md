@@ -128,6 +128,8 @@
 
 - [package.json 모듈(종속성) 최신 버전 업데이트](https://chanto11.tistory.com/46)
 
+- [[JS] Object Key 기준으로 정렬](https://velog.io/@sa02045/JS-Object-Key-기준으로-정렬)
+
 ## 클린코드
 
 - [for, if 둘다 제거해 보세요.](https://youtu.be/Izg6mVJ1LAA)
