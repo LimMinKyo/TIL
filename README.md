@@ -16,6 +16,7 @@
   - [Nest.js](./js/Nest.js/index.md)
   - [Prisma](./js/Prisma/index.md)
   - [EsLint](./js/eslint/index.md)
+- [Python](./python/index.md)
 - [Git](./git/URL.md)
 - [Docker](./docker/index.md)
 - [Web](./Web/URL.md)
