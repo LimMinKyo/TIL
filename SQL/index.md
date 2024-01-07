@@ -5,3 +5,5 @@
 - [도커로 mysql 띄워보자!](https://velog.io/@noyo0123/%EB%8F%84%EC%BB%A4%EB%A1%9C-mysql-%EB%9D%84%EC%9B%8C%EB%B3%B4%EC%9E%90)
 
 - [[SQL] USING, ON 조건절](https://moonpiechoi.tistory.com/119)
+
+- [[Oracle] 오라클 월별 합계 구하기 (월별 통계)](https://gent.tistory.com/595)
