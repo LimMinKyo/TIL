@@ -130,6 +130,8 @@
 
 - [[JS] Object Key 기준으로 정렬](https://velog.io/@sa02045/JS-Object-Key-기준으로-정렬)
 
+- [[JavaScript] eval() 과 new Function() 차이](https://velog.io/@ygs1363/JavaScripte.val-과-new-Function-차이)
+
 ## 클린코드
 
 - [for, if 둘다 제거해 보세요.](https://youtu.be/Izg6mVJ1LAA)
