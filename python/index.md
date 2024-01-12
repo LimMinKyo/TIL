@@ -6,6 +6,8 @@
 
 - [VSCODE에서 Black formatter사용하기](https://soypablo.tistory.com/55)
 
+- [VS Code 파이썬 자동완성 설정 방법](https://newstroyblog.tistory.com/283)
+
 ## 타입 힌팅, 타입 체크
 
 - [파이썬 타입 어노테이션/힌트](https://www.daleseo.com/python-type-annotations/)
