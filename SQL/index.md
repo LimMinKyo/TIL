@@ -9,3 +9,5 @@
 - [[Oracle] 오라클 월별 합계 구하기 (월별 통계)](https://gent.tistory.com/595)
 
 - [MySQL문자를 숫자로 숫자를 문자로 데이터 형 변환 (cast, convert)](https://gunu91.tistory.com/25)
+
+- [MySQL 문자열 자르기 SUBSTRING, SUBSTRING_INDEX](https://leeys.tistory.com/23)
