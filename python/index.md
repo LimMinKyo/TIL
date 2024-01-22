@@ -1,5 +1,7 @@
 # Python
 
+- [[python/string] 문자열 앞 f, r 의 의미 - formatter string과 raw string](https://armin.tistory.com/279)
+
 ## 세팅
 
 - [mac M1 python 을 VSCode 로 실행 오류노트](https://velog.io/@wjdrl3122/python-mac-M1-python-%EC%9D%84-VSCode-%EB%A1%9C-%EC%8B%A4%ED%96%89-%EC%98%A4%EB%A5%98%EB%85%B8%ED%8A%B8)
