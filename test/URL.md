@@ -21,3 +21,5 @@
 - [정말로 테스트 대역이 필요한가](https://gyuwon.github.io/blog/2020/05/10/do-you-really-need-test-doubles.html)
 
 - [Unit test의 AAA 패턴(Arrange/Act/Assert)](https://codechacha.com/ko/unittest-aaa-pattern/)
+
+- [테스트 코드를 왜 그리고 어떻게 작성해야 할까?](https://tech.inflab.com/20230404-test-code)
