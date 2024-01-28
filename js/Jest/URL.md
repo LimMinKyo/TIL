@@ -9,3 +9,5 @@
 ## 에러 해결
 
 - [Jest fails to load jest.config.ts in a ESM project using ts-node 10 #11453](https://github.com/jestjs/jest/issues/11453)
+
+- [Jest : Testing for type or null](https://stackoverflow.com/questions/51133367/jest-testing-for-type-or-null)
