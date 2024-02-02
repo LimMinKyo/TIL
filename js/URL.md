@@ -132,6 +132,8 @@
 
 - [[JavaScript] eval() 과 new Function() 차이](https://velog.io/@ygs1363/JavaScripte.val-과-new-Function-차이)
 
+- [객체 안에 조건문 넣기](https://velog.io/@mgk8609/%EA%B0%9D%EC%B2%B4-%EC%95%88%EC%97%90-%EC%A1%B0%EA%B1%B4%EB%AC%B8-%EB%84%A3%EA%B8%B0)
+
 ## 클린코드
 
 - [for, if 둘다 제거해 보세요.](https://youtu.be/Izg6mVJ1LAA)
