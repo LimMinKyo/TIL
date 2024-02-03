@@ -11,3 +11,5 @@
 - [MySQL문자를 숫자로 숫자를 문자로 데이터 형 변환 (cast, convert)](https://gunu91.tistory.com/25)
 
 - [MySQL 문자열 자르기 SUBSTRING, SUBSTRING_INDEX](https://leeys.tistory.com/23)
+
+- [[MSSQL] GROUP BY 없이 HAVING이 단독으로 오는 경우 ](https://ggmouse.tistory.com/447)
