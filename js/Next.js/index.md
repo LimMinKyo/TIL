@@ -101,3 +101,5 @@
 - [`NextRouter` was not mounted](https://nextjs.org/docs/messages/next-router-not-mounted)
 
 - [What causes NextJS Warning: "Extra attributes from the server: data-new-gr-c-s-check-loaded..."](https://stackoverflow.com/questions/75337953/what-causes-nextjs-warning-extra-attributes-from-the-server-data-new-gr-c-s-c)
+
+- [[react] window is not defined 에러 (apexchart)](https://lemontia.tistory.com/1066)
