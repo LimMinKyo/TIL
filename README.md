@@ -17,7 +17,7 @@
   - [Prisma](./js/Prisma/index.md)
   - [EsLint](./js/eslint/index.md)
 - [Python](./python/index.md)
-- [Git](./git/URL.md)
+- [Git](./Git/README.md)
 - [Docker](./docker/index.md)
 - [Web](./Web/URL.md)
 - [FrontEnd](./FE/URL.md)

@@ -39,3 +39,5 @@
 - [GitHub의 Merge, Squash and Merge, Rebase and Merge 정확히 이해하기](https://meetup.nhncloud.com/posts/122)
 
 - [[Git] npm package-lock.json conflict (충돌해결 및 존재이유)](https://habitual-history.tistory.com/entry/Git-npm-package-lockjson-conflict-%EC%B6%A9%EB%8F%8C%ED%95%B4%EA%B2%B0-%EB%B0%8F-%EC%A1%B4%EC%9E%AC%EC%9D%B4%EC%9C%A0)
+
+- [git 파일명 대소문자 변경했을 때 제대로 인식하지 못하는 문제](https://v3.leedo.me/devs/15)
