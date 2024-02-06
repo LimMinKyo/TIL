@@ -27,5 +27,5 @@
 - [Error](./error/URL.md)
 - [Memo](./memo/URL.md)
 - [VSCode](./vscode/index.md)
-- [AWS](./aws/index.md)
+- [AWS](./AWS/index.md)
 - [코딩 테스트](./coding-test/index.md)

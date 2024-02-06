@@ -11,3 +11,7 @@
 - [[AWS] EC2 도메인 연결 및 HTTPS 적용하기](https://pgmjun.tistory.com/69)
 
 - [AWS- ec2 포트 포워딩(port forwarding)](https://velog.io/@jinseoit/ec2-port-forward)
+
+## RDS
+
+- [no pg_hba.conf entry for host "<IP>", user "<user>", database "<name>", no encryption 오류 해결](https://velog.io/@mechauk418/DRF-no-pghba.conf-entry-for-host-IP-user-user-database-name-no-encryption-%EC%98%A4%EB%A5%98-%ED%95%B4%EA%B2%B0%EB%B2%95)
