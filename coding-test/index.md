@@ -8,6 +8,8 @@
 
 - [[자료구조] 힙(Heap)](https://codingmoon.io/posts/data-structure-algorithms/heap/)
 
+- [소수 구하기 (자바스크립트)](https://peach-milk.tistory.com/entry/소수-구하기-자바스크립트)
+
 ## 개발자로 취직하기님의 알고리즘 3분 요약
 
 - [그리디 탐욕 Greedy 알고리즘 설명 7분만에 이해하기](https://www.youtube.com/watch?v=_IZuE7NIeW4&list=PLlV7zJmoG4XJMkxuBRgkpdX89tL6aXl6q&index=6)
