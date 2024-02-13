@@ -90,6 +90,8 @@
 
 - [[Next.js] 쿼리파라미터 값 가져오기(Next.js 13)](https://velog.io/@kimbangul/Next.js-쿼리파라미터-값-가져오기Next.js-13)
 
+- [가비아+vercel 도메인 구매후 연결](https://rlaalsrb3559.tistory.com/71)
+
 ## 에러 해결
 
 - [TypeError: Cannot read properties of undefined (reading 'filter') Tanstack table (React)](https://stackoverflow.com/questions/74836833/typeerror-cannot-read-properties-of-undefined-reading-filter-tanstack-table)
