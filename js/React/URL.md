@@ -104,6 +104,8 @@
 
 - [실전 Infinite Scroll with React](https://tech.kakaoenterprise.com/149)
 
+- [상태관리 라이브러리 비교: Redux vs Recoil vs Zustand vs Jotai](https://velog.io/@iberis/%EC%83%81%ED%83%9C%EA%B4%80%EB%A6%AC-%EB%9D%BC%EC%9D%B4%EB%B8%8C%EB%9F%AC%EB%A6%AC-%EB%B9%84%EA%B5%90-Redux-vs-Recoil-vs-Zustand-vs-Jotai)
+
 ## React-Query
 
 - [react-query](https://velog.io/@jkl1545/React-Query)
