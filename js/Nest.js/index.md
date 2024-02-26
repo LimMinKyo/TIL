@@ -47,3 +47,5 @@
 - [NestJS aws-EC2 프리티어 micro 배포 에러 및 해결방법](https://mark340.tistory.com/50)
 
 - [[ NestJS ] Interceptor와 AOP 패턴에 대해서 알아보자](https://tasddc.tistory.com/129)
+
+- [Nest.js에서 TypeORM Configuration 하는 방법](https://whyhard.tistory.com/61)
