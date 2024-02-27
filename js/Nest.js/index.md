@@ -48,4 +48,6 @@
 
 - [[ NestJS ] Interceptor와 AOP 패턴에 대해서 알아보자](https://tasddc.tistory.com/129)
 
+- [TypeORM 0.3에서 migration 해보기](https://whyhard.tistory.com/59)
+
 - [Nest.js에서 TypeORM Configuration 하는 방법](https://whyhard.tistory.com/61)
