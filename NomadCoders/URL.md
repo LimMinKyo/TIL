@@ -35,3 +35,5 @@
 - [ChatGPT 를 200% 활용하는 방법! feat. 프롬프트 엔지니어링](https://www.youtube.com/watch?v=WRkig3VeRLY)
 
 - [당신이 이 디자인 패턴을 배워야하는 이유?! 😱](https://www.youtube.com/watch?v=bdcxCpB68Xs)
+
+- [인스타그램 백엔드가 20억 유저를 감당하는 방법!](https://www.youtube.com/watch?v=V27XkmVPqYQ)
