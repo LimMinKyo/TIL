@@ -31,3 +31,5 @@
 - [자바스크립트 코딩테스트 문제풀이 EP#7 | 나선형 매트릭스 (Spiral Matrix)](https://www.youtube.com/watch?v=M7ISg5Inl_4&list=PL3xNAKVIm80KhJzoz0N5VPROJq3IoLBIW)
 
 - [자바스크립트 코딩테스트 문제풀이 EP#8 | 두 객체 비교하기](https://www.youtube.com/watch?v=gID7jMRuA1w&list=PL3xNAKVIm80KhJzoz0N5VPROJq3IoLBIW&index=7)
+
+- [자바스크립트 코딩테스트 문제풀이 EP#10 가장 긴 공통 접두사 (LCP)](https://www.youtube.com/watch?v=OSZH66-zNzA&list=PL3xNAKVIm80KhJzoz0N5VPROJq3IoLBIW&index=11)
