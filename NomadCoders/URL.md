@@ -37,3 +37,5 @@
 - [당신이 이 디자인 패턴을 배워야하는 이유?! 😱](https://www.youtube.com/watch?v=bdcxCpB68Xs)
 
 - [인스타그램 백엔드가 20억 유저를 감당하는 방법!](https://www.youtube.com/watch?v=V27XkmVPqYQ)
+
+- [디스코드가 10조 메시지를 저장하는 방법?!](https://www.youtube.com/watch?v=oIaQuX7Nk7c)
