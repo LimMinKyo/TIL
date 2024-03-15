@@ -108,6 +108,8 @@
 
 - [아직도 React 폴더 구조로 고민하고 계신가요? FSD 한 번 써보세요[제로초뉴스]](https://www.youtube.com/watch?v=64Fx5Y1gEOA)
 
+- [대기업 개발자는 "Modal" 어떻게 관리할까? 🤔](https://www.youtube.com/watch?v=gMzYOE0TV0g)
+
 ## React-Query
 
 - [react-query](https://velog.io/@jkl1545/React-Query)
