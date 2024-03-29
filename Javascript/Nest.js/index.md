@@ -51,3 +51,5 @@
 - [TypeORM 0.3에서 migration 해보기](https://whyhard.tistory.com/59)
 
 - [Nest.js에서 TypeORM Configuration 하는 방법](https://whyhard.tistory.com/61)
+
+- [[NestJS] winston을 사용해서 logger middleware, filter로 로깅하기. 로그 관심사 분리](https://pypystory.tistory.com/80)
