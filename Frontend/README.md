@@ -51,3 +51,5 @@
 - [SEO 개선 초심자 가이드](https://fe-developers.kakaoent.com/2022/221208-basic-seo-guide/)
 
 - [초보 웹 개발자를 위한 자바스크립트 빌드 툴과 SWC](https://fe-developers.kakaoent.com/2022/220217-learn-babel-terser-swc/)
+
+- [플랫폼 팀 없는 오픈 소스 기반의 디자인 시스템 구축 회고](https://tech.inflab.com/20240224-design-system/)
