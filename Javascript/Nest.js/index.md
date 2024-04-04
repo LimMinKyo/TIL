@@ -53,3 +53,11 @@
 - [Nest.js에서 TypeORM Configuration 하는 방법](https://whyhard.tistory.com/61)
 
 - [[NestJS] winston을 사용해서 logger middleware, filter로 로깅하기. 로그 관심사 분리](https://pypystory.tistory.com/80)
+
+## Building a REST API with NestJS and Prisma
+
+1. [Building a REST API with NestJS and Prisma](https://www.prisma.io/blog/nestjs-prisma-rest-api-7D056s1BmOL0)
+2. [Building a REST API with NestJS and Prisma: Input Validation & Transformation](https://www.prisma.io/blog/nestjs-prisma-validation-7D056s1kOla1)
+3. [Building a REST API with NestJS and Prisma: Error Handling](https://www.prisma.io/blog/nestjs-prisma-error-handling-7D056s1kOop2)
+4. [Building a REST API with NestJS and Prisma: Handling Relational Data](https://www.prisma.io/blog/nestjs-prisma-relational-data-7D056s1kOabc)
+5. [Building a REST API with NestJS and Prisma: Authentication](https://www.prisma.io/blog/nestjs-prisma-authentication-7D056s1s0k3l)
