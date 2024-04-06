@@ -54,6 +54,8 @@
 
 - [[NestJS] winston을 사용해서 logger middleware, filter로 로깅하기. 로그 관심사 분리](https://pypystory.tistory.com/80)
 
+- [Nest.js : Jwt Refresh Token](https://soonyubi.github.io/jwt-refresh-token/)
+
 ## Building a REST API with NestJS and Prisma
 
 1. [Building a REST API with NestJS and Prisma](https://www.prisma.io/blog/nestjs-prisma-rest-api-7D056s1BmOL0)
