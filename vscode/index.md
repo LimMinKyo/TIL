@@ -11,3 +11,5 @@
 - [vscode - Sticky Scroll](https://www.youtube.com/shorts/AxB3_vkEsqQ)
 
 - [vscode - 태그 명 자동 변경](https://www.youtube.com/shorts/LFEqhbEnUKA)
+
+- [VSCode에서 발생하는 Delete `␍` eslint (prettier/prettier) 해결방법](https://noogoonaa.tistory.com/62)
