@@ -5,3 +5,5 @@
 - [Public / Private 인터페이스](https://jojoldu.tistory.com/588)
 
 - [좋은 예외(Exception) 처리](https://jojoldu.tistory.com/734)
+
+- [운영 로그와 디버그 로그 분리하기](https://jojoldu.tistory.com/773)
