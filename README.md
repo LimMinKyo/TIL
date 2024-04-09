@@ -23,7 +23,7 @@
 - [Web](./Web/URL.md)
 - [Frontend](./Frontend/README.md)
 - [Backend](./Backend/README.md)
-- [SQL](./SQL/index.md)
+- [Database](./Database/README.md)
 - [Test](./Test/README.md)
 - [Error](./error/URL.md)
 - [AWS](./AWS/index.md)
