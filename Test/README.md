@@ -23,3 +23,5 @@
 - [Unit test의 AAA 패턴(Arrange/Act/Assert)](https://codechacha.com/ko/unittest-aaa-pattern/)
 
 - [테스트 코드를 왜 그리고 어떻게 작성해야 할까?](https://tech.inflab.com/20230404-test-code)
+
+- [테스트 코드로 커뮤니케이션하기](https://kscodebase.tistory.com/646)
