@@ -8,4 +8,6 @@
 
 - [좋은 예외(Exception) 처리](https://jojoldu.tistory.com/734)
 
+- [[리팩토링] 코드 배치와 변수 줄이기](https://jojoldu.tistory.com/745)
+
 - [운영 로그와 디버그 로그 분리하기](https://jojoldu.tistory.com/773)
