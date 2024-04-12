@@ -49,3 +49,5 @@
 - [ts-jenum 으로 응집력 있는 TS 코드 작성하기 (feat. EnumClass)](https://jojoldu.tistory.com/621)
 
 - [타입스크립트 덕 타이핑과 구조적 타이핑](https://sambalim.tistory.com/158)
+
+- [신선도(Freshness)](https://radlohead.gitbook.io/typescript-deep-dive/type-system/freshness)
