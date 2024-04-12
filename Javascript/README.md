@@ -62,8 +62,6 @@
 
 - [01. 시큐리티 - HTTP Only 와 Secure Cookie](https://theheydaze.tistory.com/550)
 
-- [[JavaScript] 프라미스(Promise) 패턴](https://geundung.dev/53)
-
 - [package-lock.json은 왜 필요할까?](https://hyunjun19.github.io/2018/03/23/package-lock-why-need/)
 
 - [[JS] 📚 웹페이지에 접속하는 기기(모바일 / 태블릿 / PC) 구분하기](https://inpa.tistory.com/entry/JS-%F0%9F%93%9A-%EC%9B%B9%ED%8E%98%EC%9D%B4%EC%A7%80%EC%97%90-%EC%A0%91%EC%86%8D%ED%95%98%EB%8A%94-%EA%B8%B0%EA%B8%B0%EB%AA%A8%EB%B0%94%EC%9D%BC%ED%83%9C%EB%B8%94%EB%A6%BFPC-%EA%B5%AC%EB%B6%84%ED%95%98%EA%B8%B0)
@@ -97,8 +95,6 @@
 - [님들이 수강신청, 티켓팅 실패하는 이유 (자바스크립트 몰라서)](https://www.youtube.com/watch?v=oWSNOrBbOIU)
 
 - [[Javascript]Tilt(~) 연산자 사용법](https://oper0116.tistory.com/40)
-
-- [[setTimeout + async + await ] setTimeout은 프로미스를 반환하지 않아](https://footprint-of-nawin.tistory.com/97)
 
 - [JS - console.count](https://www.youtube.com/shorts/6eglGT9FfnA)
 
@@ -136,7 +132,15 @@
 
 - [Yarn 대신 pnpm으로 넘어간 3가지 이유](https://hiddenest.dev/yarn-pnpm-3)
 
+## Promise
+
 - [📚 Promise.allSettled 와 Promise.all 비교 정리](https://inpa.tistory.com/entry/JS-📚-더이상-Promiseall-쓰지말고-PromiseallSettled-사용하자)
+
+- [[JavaScript] 프라미스(Promise) 패턴](https://geundung.dev/53)
+
+- [[setTimeout + async + await ] setTimeout은 프로미스를 반환하지 않아](https://footprint-of-nawin.tistory.com/97)
+
+- [Promise Pool로 성능 개선하기 (feat. Promise.all)](https://jojoldu.tistory.com/714)
 
 ## 클린코드
 
