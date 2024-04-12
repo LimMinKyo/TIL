@@ -7,7 +7,7 @@
   - [Vue](./Javascript/Vue/URL.md)
   - [Next.js](./Javascript/Next.js/index.md)
   - [Yarn](./Javascript/Yarn/URL.md)
-  - [Typescript](./Javascript/Typescript/URL.md)
+  - [Typescript](./Javascript/Typescript/README.md)
   - [Axios](./Javascript/Axios/URL.md)
   - [Node.js](./Javascript/Node/URL.md)
   - [Nest.js](./Javascript/Nest.js/index.md)
