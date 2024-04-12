@@ -142,6 +142,8 @@
 
 - [Promise Pool로 성능 개선하기 (feat. Promise.all)](https://jojoldu.tistory.com/714)
 
+- [no-return-await 는 항상 정답일까](https://jojoldu.tistory.com/699)
+
 ## 클린코드
 
 - [for, if 둘다 제거해 보세요.](https://youtu.be/Izg6mVJ1LAA)
