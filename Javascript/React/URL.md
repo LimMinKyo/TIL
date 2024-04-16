@@ -165,4 +165,7 @@
 - [react-paginate](https://www.npmjs.com/package/react-paginate)
 
 - [react-number-formats](https://www.npmjs.com/package/react-number-format)
+
   - [[React/JS] 숫자 쉼표 찍기, 소수 포함 라이브러리 추천](https://samsic.tistory.com/entry/ReactJS-%EC%88%AB%EC%9E%90-%EC%89%BC%ED%91%9C-%EC%B0%8D%EA%B8%B0-%EC%86%8C%EC%88%98-%ED%8F%AC%ED%95%A8-%EB%9D%BC%EC%9D%B4%EB%B8%8C%EB%9F%AC%EB%A6%AC-%EC%B6%94%EC%B2%9C)
+
+- [Mantine](https://mantine.dev/)
