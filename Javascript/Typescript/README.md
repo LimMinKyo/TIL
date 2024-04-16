@@ -51,3 +51,5 @@
 - [타입스크립트 덕 타이핑과 구조적 타이핑](https://sambalim.tistory.com/158)
 
 - [신선도(Freshness)](https://radlohead.gitbook.io/typescript-deep-dive/type-system/freshness)
+
+- [(번역) 타입스크립트에서 'As Const' 이해하기](https://soobing.github.io/typescript/typescript-as-const/)
