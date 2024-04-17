@@ -92,6 +92,8 @@
 
 - [가비아+vercel 도메인 구매후 연결](https://rlaalsrb3559.tistory.com/71)
 
+- [[Next.js] 프로젝트 기초 세팅하기 - ESLint, Prettier 는 필수!](https://velog.io/@mayinjanuary/Next.js-%EC%84%B8%ED%8C%85%ED%95%98%EA%B8%B0-ESLint-Prettier-%EC%84%A4%EC%A0%95)
+
 ## 에러 해결
 
 - [TypeError: Cannot read properties of undefined (reading 'filter') Tanstack table (React)](https://stackoverflow.com/questions/74836833/typeerror-cannot-read-properties-of-undefined-reading-filter-tanstack-table)
