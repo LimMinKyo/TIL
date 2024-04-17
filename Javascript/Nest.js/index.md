@@ -56,6 +56,8 @@
 
 - [Nest.js : Jwt Refresh Token](https://soonyubi.github.io/jwt-refresh-token/)
 
+- [NestJS에서의 Redis 적용](https://kscodebase.tistory.com/686)
+
 ## Building a REST API with NestJS and Prisma
 
 1. [Building a REST API with NestJS and Prisma](https://www.prisma.io/blog/nestjs-prisma-rest-api-7D056s1BmOL0)
