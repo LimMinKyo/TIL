@@ -28,7 +28,7 @@
 - [Error](./error/URL.md)
 - [AWS](./AWS/index.md)
 - [Memo](./memo/URL.md)
-- [VSCode](./vscode/index.md)
+- [IDE](./IDE/README.md)
 - [UI\/UX](./UIUX/index.md)
 - [HTML](./html/URL.md)
 - [CSS](./css/URL.md)
