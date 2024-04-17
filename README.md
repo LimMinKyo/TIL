@@ -28,7 +28,6 @@
 - [Backend](./Backend/README.md)
 - [Database](./Database/README.md)
 - [Test](./Test/README.md)
-- [Error](./error/URL.md)
 - [Memo](./memo/URL.md)
 - [IDE](./IDE/README.md)
 - [UI\/UX](./UIUX/index.md)

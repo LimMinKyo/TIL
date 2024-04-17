@@ -1,4 +1,4 @@
-# 링크 정리
+# HTML
 
 - [HTML video 태그](https://m.blog.naver.com/xodbd0507/222569677895)
 
@@ -7,3 +7,7 @@
 - [HTML URL 인코딩 참조](https://www.w3schools.com/tags/ref_urlencode.ASP)
 
 - [파일 첨부 시 특정 파일 확장자만 선택하게 하기](https://blog.munilive.com/posts/input-file-type-accept-attribute.html)
+
+## 에러 해결
+
+- [Input elements should have autocomplete attributes](https://stackoverflow.com/questions/54970352/input-elements-should-have-autocomplete-attributes)

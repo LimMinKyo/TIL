@@ -159,3 +159,9 @@
 - [Chart.js 눈금 0부터 시작하도록 option 설정](https://www.chartjs.org/docs/latest/)
 
 - [JavasScript's New Keyword: "using"!](https://www.youtube.com/watch?v=-NmwyJ5S-IY)
+
+## 에러 해결
+
+- [Error: EACCES: permission denied 문제 해결 방법](https://brtech.tistory.com/124)
+
+- [[nvm] clang: error: no such file or directory: 'CXX=c++'](https://velog.io/@nyanji00/nvm-clang-error)

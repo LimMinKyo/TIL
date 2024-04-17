@@ -83,3 +83,9 @@
 - [Quasar: how to display an image when using q-file to pick the image?](https://stackoverflow.com/questions/67209444/quasar-how-to-display-an-image-when-using-q-file-to-pick-the-image)
 
 - [Testing & Auditing](https://quasar.dev/quasar-cli-vite/testing-and-auditing)
+
+## 에러해결
+
+- ["Cannot read property 'upgrade' of undefined" when starting vue application](https://stackoverflow.com/questions/55348996/cannot-read-property-upgrade-of-undefined-when-starting-vue-application)
+
+- [v-model in input and textarea forms doen't work correctly on several mobile devices](https://github.com/vuejs/core/issues/5580)
