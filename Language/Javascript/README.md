@@ -132,6 +132,8 @@
 
 - [Yarn 대신 pnpm으로 넘어간 3가지 이유](https://hiddenest.dev/yarn-pnpm-3)
 
+- [[번역] 재미와 이익을 위한 자바스크립트 최적화](https://velog.io/@surim014/optimizing-javascript-for-fun-and-for-profit?utm_source=substack&utm_medium=email#8-%EC%8B%A0%EC%A4%91%ED%95%98%EA%B2%8C-%EB%AC%B8%EC%9E%90%EC%97%B4-%EC%82%AC%EC%9A%A9%ED%95%98%EA%B8%B0)
+
 ## Promise
 
 - [📚 Promise.allSettled 와 Promise.all 비교 정리](https://inpa.tistory.com/entry/JS-📚-더이상-Promiseall-쓰지말고-PromiseallSettled-사용하자)
