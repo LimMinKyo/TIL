@@ -25,3 +25,5 @@
 - [테스트 코드를 왜 그리고 어떻게 작성해야 할까?](https://tech.inflab.com/20230404-test-code)
 
 - [테스트 코드로 커뮤니케이션하기](https://kscodebase.tistory.com/646)
+
+- [Localstack 을 활용한 AWS 인프라 통합테스트](https://tech.inflab.com/202202-integration-test-with-localstack/)
