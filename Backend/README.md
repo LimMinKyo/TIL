@@ -19,3 +19,5 @@
 - [ERD 설계 기본개념 (with ERD Cloud)](https://blog.naver.com/PostView.naver?blogId=sssang97&logNo=222808912681)
 
 - [SQL injection 공격](https://www.youtube.com/watch?v=FoZ2cucLiDs)
+
+- [TypeScript와 typedi로 의존성 주입 이해하기](https://medium.com/@HoseungJang/typescript와-typedi로-의존성-주입-이해하기-5d83ef1977f9)
