@@ -13,3 +13,5 @@
 - [GROUP BY 없이 HAVING이 단독으로 오는 경우](https://ggmouse.tistory.com/447)
 
 - [[SQL] SELECT의 alias는 GROUP BY, HAVING, ORDER BY에서만 사용가능](https://it-sunny-333.tistory.com/153)
+
+- [HeidiSQL을 활용한 데이터베이스 이관](https://marumaru.tistory.com/5)
