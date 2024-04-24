@@ -1,5 +1,7 @@
 # SQL
 
+- [SQL 자료형](SQL%20자료형.md)
+
 - [[SQL] USING, ON 조건절](https://moonpiechoi.tistory.com/119)
 
 - [월별 합계 구하기 (월별 통계)](https://gent.tistory.com/595)
@@ -11,11 +13,3 @@
 - [GROUP BY 없이 HAVING이 단독으로 오는 경우](https://ggmouse.tistory.com/447)
 
 - [[SQL] SELECT의 alias는 GROUP BY, HAVING, ORDER BY에서만 사용가능](https://it-sunny-333.tistory.com/153)
-
-## MySQL
-
-- [MySQL문자를 숫자로 숫자를 문자로 데이터 형 변환 (cast, convert)](https://gunu91.tistory.com/25)
-
-- [MySQL 문자열 자르기 SUBSTRING, SUBSTRING_INDEX](https://leeys.tistory.com/23)
-
-- [MySQL IN절을 통한 성능 개선 방법](https://jojoldu.tistory.com/565)

@@ -14,6 +14,8 @@
 
 - [[AWS] EC2 - FileZilla 연결](https://velog.io/@rong5026/AWS-EC2-FileZilla-연결)
 
+- [NestJS aws-EC2 프리티어 micro 배포 에러 및 해결방법](https://mark340.tistory.com/50)
+
 - [[해결] AWS 퍼블릭 IPv4 유료화: 프리티어인데 과금되었다면](https://shortcuts.tistory.com/53)
 
 - [스타트업 엔지니어의 AWS 비용 최적화 경험기](https://tech.inflab.com/20240227-finops-for-startup/)

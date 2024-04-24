@@ -44,8 +44,6 @@
 
 - [변화에 유연한 HTTP 클라이언트 만들기](https://tech.inflab.com/20230723-pure-http-client/)
 
-- [NestJS aws-EC2 프리티어 micro 배포 에러 및 해결방법](https://mark340.tistory.com/50)
-
 - [[ NestJS ] Interceptor와 AOP 패턴에 대해서 알아보자](https://tasddc.tistory.com/129)
 
 - [TypeORM 0.3에서 migration 해보기](https://whyhard.tistory.com/59)
