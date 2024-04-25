@@ -15,3 +15,5 @@
 - [[SQL] SELECT의 alias는 GROUP BY, HAVING, ORDER BY에서만 사용가능](https://it-sunny-333.tistory.com/153)
 
 - [HeidiSQL을 활용한 데이터베이스 이관](https://marumaru.tistory.com/5)
+
+- [MySQL limit으로 페이징하기](https://velog.io/@no-int/MySQL-limit-%EC%84%B1%EB%8A%A5)
