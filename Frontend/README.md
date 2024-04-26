@@ -58,6 +58,8 @@
 
 - [더 가치 있는 공통 컴포넌트 만들기](https://fe-developers.kakaoent.com/2024/240116-common-component/)
 
+- [마법소녀 이세계 아이돌 웹툰 런칭! BFF 장애 대응기](https://fe-developers.kakaoent.com/2023/230925-bff-trouble-shooting/)
+
 ## Korean FE Article
 
 - [(번역) 프런트엔드의 미래 탐색하기](https://ykss.netlify.app/translation/navigating_the_future_of_frontend/?utm_source=substack&utm_medium=email)
