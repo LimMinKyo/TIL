@@ -56,6 +56,8 @@
 
 - [🍪 프론트에서 안전하게 로그인 처리하기 (ft. React)](https://velog.io/@yaytomato/%ED%94%84%EB%A1%A0%ED%8A%B8%EC%97%90%EC%84%9C-%EC%95%88%EC%A0%84%ED%95%98%EA%B2%8C-%EB%A1%9C%EA%B7%B8%EC%9D%B8-%EC%B2%98%EB%A6%AC%ED%95%98%EA%B8%B0)
 
+- [더 가치 있는 공통 컴포넌트 만들기](https://fe-developers.kakaoent.com/2024/240116-common-component/)
+
 ## Korean FE Article
 
 - [(번역) 프런트엔드의 미래 탐색하기](https://ykss.netlify.app/translation/navigating_the_future_of_frontend/?utm_source=substack&utm_medium=email)
