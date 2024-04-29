@@ -10,6 +10,8 @@
 
 - [[Jest] Prisma mocking](https://velog.io/@ninthsun91/Jest-Prisma-mocking)
 
+- [TypeScript Jest 를 통한 테스트 실행 속도 개선기](https://kyungyeon.dev/posts/102)
+
 ## 에러 해결
 
 - [Jest fails to load jest.config.ts in a ESM project using ts-node 10 #11453](https://github.com/jestjs/jest/issues/11453)
