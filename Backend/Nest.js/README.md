@@ -56,6 +56,8 @@
 
 - [NestJS에서의 Redis 적용](https://kscodebase.tistory.com/686)
 
+- [[NestJS] 테스트 피라미드를 위한 에러 처리 방법 (feat. 3 layer architecture)](https://charming-kyu.tistory.com/48)
+
 ## Building a REST API with NestJS and Prisma
 
 1. [Building a REST API with NestJS and Prisma](https://www.prisma.io/blog/nestjs-prisma-rest-api-7D056s1BmOL0)
