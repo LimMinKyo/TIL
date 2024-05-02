@@ -5,3 +5,5 @@
 - [[MAC] 사용중인 포트 찾아서, Kill 하기](https://88240.tistory.com/475)
 
 - [Mac의 Termianl에서 "ssh 접속명"으로 ssh 접속하기](https://engineer-mole.tistory.com/348)
+
+- [[Linux] 리눅스 tail 명령어 사용법 (실시간 로그 보기)](https://coding-factory.tistory.com/801#google_vignette)
