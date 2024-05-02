@@ -182,6 +182,10 @@
 
 - [ESLint not working in VS Code?](https://stackoverflow.com/questions/45093510/eslint-not-working-in-vs-code)
 
+## Webpack
+
+- [웹팩5로 청크 관리 및 코드 스플리팅 하기](https://www.zerocho.com/category/Webpack/post/58ad4c9d1136440018ba44e7)
+
 ## 클린코드
 
 - [for, if 둘다 제거해 보세요.](https://youtu.be/Izg6mVJ1LAA)
