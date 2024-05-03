@@ -45,6 +45,7 @@
 - [UI\/UX](./UIUX/README.md)
 - [AI](./AI/README.md)
 - [공부법](./Study/README.md)
-- [커리어](./Career/README.md)
+- [커리어](./Career)
+  - [이력서](./Career/Resume/README.md)
 - [Etc](./Etc/README.md)
   - [유용한 웹사이트 모음집](./Etc/UsefulWebsiteCollection/README.md)
