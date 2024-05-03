@@ -39,7 +39,7 @@
   - [Sentry](./Logging/Sentry/README.md)
 - [Git](./Git/README.md)
 - [Linux](./Linux/README.md)
-- [Security](./Security/README.md)
+- [보안](./Security/README.md)
 - [IDE](./IDE/README.md)
 - [코딩 테스트](./CodingTest/README.md)
 - [UI\/UX](./UIUX/README.md)

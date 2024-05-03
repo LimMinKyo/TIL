@@ -7,3 +7,5 @@
 - [경력 백엔드 개발자 이력서 작성](https://joomn11.tistory.com/130)
 
 - [이동욱님 이력서](https://jojoldu.github.io/)
+
+- [Wonny | 데이터로 일하는 개발자 (Public)](https://wonny.oopy.io/)
