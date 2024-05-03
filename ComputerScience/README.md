@@ -9,3 +9,7 @@
 - [로그인 인증 4가지 방법](https://velog.io/@gusdnr814/%EB%A1%9C%EA%B7%B8%EC%9D%B8-%EC%9D%B8%EC%A6%9D-4%EA%B0%80%EC%A7%80-%EB%B0%A9%EB%B2%95)
 
 - [웹 캐시(WEB Cache)란 무엇인가?(특징)](https://hahahoho5915.tistory.com/33)
+
+- [런타임 에러와 컴파일 에러](https://blog.naver.com/jhonbeetbox/222417186823)
+
+- [절대경로 & 상대경로](./%EC%A0%88%EB%8C%80%EA%B2%BD%EB%A1%9C%20%26%20%EC%83%81%EB%8C%80%EA%B2%BD%EB%A1%9C.md)

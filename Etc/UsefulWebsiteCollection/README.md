@@ -22,6 +22,8 @@
 
 - [CODEPEN](https://codepen.io/)
 
+- [Material Design](https://material.io/design)
+
 ## HTML
 
 - [HTML 유니코드](https://ascii.cl/htmlcodes.htm)
@@ -69,6 +71,10 @@
 - [ECMAScript 호환성 표](https://kangax.github.io/compat-table/es6/)
 
 - [MSDN](https://docs.microsoft.com/ko-kr/)
+
+## 기술 블로그
+
+- [개발 실력을 위한 IT기업 기술 블로그 45곳 모음](https://brunch.co.kr/@sicle-official/35)
 
 ## JSON
 

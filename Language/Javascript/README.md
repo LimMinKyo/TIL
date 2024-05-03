@@ -134,6 +134,14 @@
 
 - [[번역] 재미와 이익을 위한 자바스크립트 최적화](https://velog.io/@surim014/optimizing-javascript-for-fun-and-for-profit?utm_source=substack&utm_medium=email#8-%EC%8B%A0%EC%A4%91%ED%95%98%EA%B2%8C-%EB%AC%B8%EC%9E%90%EC%97%B4-%EC%82%AC%EC%9A%A9%ED%95%98%EA%B8%B0)
 
+- [개발자 99%는 틀리는 코딩 문제....!?](https://www.youtube.com/watch?v=qW1V-o2RwKw)
+
+- [JS console.log 정리](https://www.youtube.com/watch?v=KxsVV5jbJe4)
+
+- [NVM Quick Start](https://gist.github.com/falsy/8aa42ae311a9adb50e2ca7d8702c9af1)
+
+- [iOS 에서 🔔 웹 푸시 알림 보내기!](https://www.youtube.com/watch?v=eSj25owrmTM)
+
 ## Promise
 
 - [📚 Promise.allSettled 와 Promise.all 비교 정리](https://inpa.tistory.com/entry/JS-📚-더이상-Promiseall-쓰지말고-PromiseallSettled-사용하자)
