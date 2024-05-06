@@ -16,6 +16,8 @@
 
 - [디스코드가 10조 메시지를 저장하는 방법?!](https://www.youtube.com/watch?v=oIaQuX7Nk7c)
 
+- [도서관으로 보는 싱글톤, IoC, DI에 대하여](https://velog.io/@yukina1418/OOP%EC%97%90%EC%84%9C-IoC%EC%99%80-DI%EA%B0%80-%EC%A4%91%EC%9A%94%ED%95%9C-%EC%9D%B4%EC%9C%A0%EC%97%90-%EB%8C%80%ED%95%98%EC%97%AC-%EC%9E%91%EC%84%B1%EC%A4%91)
+
 ## 디자인 패턴
 
 - [개발자라면 "무조건" 디자인 패턴을 배워야한다?](https://www.youtube.com/watch?v=Pzy_MPfGixg)
