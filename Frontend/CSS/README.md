@@ -57,3 +57,5 @@
 - [2023 베스트 CSS 프레임워크 딱 골라드림 👑 10분컷.](https://www.youtube.com/watch?v=FRSUP2sbgTY)
 
 - [티스토리 테이블에 가로 스크롤 구현하기](https://hangyojung.tistory.com/93)
+
+- [(번역) Campfire의 모던 CSS 패턴](https://velog.io/@superlipbalm/modern-css-patterns-and-techniques-in-campfire?utm_source=substack&utm_medium=email)
