@@ -65,3 +65,5 @@
 ## Korean FE Article
 
 - [(번역) 프런트엔드의 미래 탐색하기](https://ykss.netlify.app/translation/navigating_the_future_of_frontend/?utm_source=substack&utm_medium=email)
+
+- [(번역) HTML 속성 vs DOM 프로퍼티](https://emewjin.github.io/html-attribute-dom-property/)
