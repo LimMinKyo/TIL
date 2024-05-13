@@ -33,3 +33,5 @@
 - [k6 vs JMeter, 어느 성능 테스트 도구를 써야 할까?](https://velog.io/@yongtae923/k6-vs-JMeter)
 
 - [REST Client - VS Code 에서 경험하는 가벼운 REST API 문서화와 테스트](https://hudi.blog/vscode-rest-client/)
+
+- [[VSCode] 💽 Thunder Client (포스트맨 대신 이거 쓰자)](https://inpa.tistory.com/entry/VS-Code-%F0%9F%92%BD-Thunder-Client-Postman-%EB%8C%80%EC%8B%A0-%EC%9D%B4%EA%B1%B0-%EC%93%B0%EC%9E%90)
