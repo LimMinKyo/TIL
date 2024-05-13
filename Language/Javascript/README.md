@@ -200,6 +200,10 @@
 
 - [코드리뷰에서 칭찬받는 코드의 비밀 😎](https://youtu.be/BfpTtsWTWEM)
 
+## 디버깅
+
+- [Chrome으로 디버깅하기](https://ko.javascript.info/debugging-chrome)
+
 ## 라이브러리
 
 - [Chartjs Tooltip Line Breaks](https://stackoverflow.com/questions/29302392/chartjs-tooltip-line-breaks)
