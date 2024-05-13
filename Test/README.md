@@ -31,3 +31,5 @@
 - [TPS 지표 이해하기](https://www.whatap.io/ko/blog/14/)
 
 - [k6 vs JMeter, 어느 성능 테스트 도구를 써야 할까?](https://velog.io/@yongtae923/k6-vs-JMeter)
+
+- [REST Client - VS Code 에서 경험하는 가벼운 REST API 문서화와 테스트](https://hudi.blog/vscode-rest-client/)
