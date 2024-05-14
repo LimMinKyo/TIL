@@ -53,3 +53,7 @@
 - [신선도(Freshness)](https://radlohead.gitbook.io/typescript-deep-dive/type-system/freshness)
 
 - [(번역) 타입스크립트에서 'As Const' 이해하기](https://soobing.github.io/typescript/typescript-as-const/)
+
+- [Typescript as 대신 satisfies 사용하기](https://ko-de-dev-green.tistory.com/110)
+
+- [satisfies: 안전한 업캐스팅을 통해 더 안전한 코드작성을 도와주는 새로운 키워드(TypeScript 4.9)](https://engineering.ab180.co/stories/satisfies-safe-upcasting)
