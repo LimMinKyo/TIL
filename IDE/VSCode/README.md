@@ -1,6 +1,4 @@
-# IDE
-
-## VSCode
+# VSCode
 
 - [vscode 단축키](./VSCode_shortcutKey.md)
 
@@ -13,7 +11,3 @@
 - [vscode - 태그 명 자동 변경](https://www.youtube.com/shorts/LFEqhbEnUKA)
 
 - [VSCode에서 발생하는 Delete `␍` eslint (prettier/prettier) 해결방법](https://noogoonaa.tistory.com/62)
-
-## Vim
-
-- [윈도우 vscode vim 개발환경 세팅기](https://velog.io/@jungbin97/%EC%9C%88%EB%8F%84%EC%9A%B0-vscode-neovim-%ED%94%8C%EB%9F%AC%EA%B7%B8%EC%9D%B8-%EC%84%A4%EC%B9%98%EA%B8%B0)
