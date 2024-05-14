@@ -69,3 +69,5 @@
 - [(번역) HTML 속성 vs DOM 프로퍼티](https://emewjin.github.io/html-attribute-dom-property)
 
 - [(번역) 배경 이미지가 CLS를 유발할 수 있습니다.](https://velog.io/@tap_kim/Your-background-images-might-be-causing-CLS)
+
+- [(번역) 자바스크립트를 이용한 재시도 로직 구현하기](https://velog.io/@tap_kim/implement-retry-logic-using-javascript)
