@@ -11,3 +11,5 @@
 - [Nodejs 백엔드 개발 환경 재정비하기](https://medium.com/zigbang/nodejs-%EB%B0%B1%EC%97%94%EB%93%9C-%EA%B0%9C%EB%B0%9C-%ED%99%98%EA%B2%BD-%EC%9E%AC%EC%A0%95%EB%B9%84%ED%95%98%EA%B8%B0-4082eec0e107)
 
 - [[Typescript] 1. TypeORM에서 페이징 API 만들기 - 기본페이징 기능](https://jojoldu.tistory.com/579)
+
+- [Node.js의 fs 모듈로 파일 입출력 처리하기](https://www.daleseo.com/js-node-fs/)
