@@ -13,3 +13,5 @@
 - [[Typescript] 1. TypeORM에서 페이징 API 만들기 - 기본페이징 기능](https://jojoldu.tistory.com/579)
 
 - [Node.js의 fs 모듈로 파일 입출력 처리하기](https://www.daleseo.com/js-node-fs/)
+
+- [[NodeJS] Path.join()와 Path.resolve() 차이](https://velog.io/@thyoondev/Path.join%EC%99%80-Path.resolve-%EC%B0%A8%EC%9D%B4)
