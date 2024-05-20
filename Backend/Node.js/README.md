@@ -15,3 +15,5 @@
 - [Node.js의 fs 모듈로 파일 입출력 처리하기](https://www.daleseo.com/js-node-fs/)
 
 - [[NodeJS] Path.join()와 Path.resolve() 차이](https://velog.io/@thyoondev/Path.join%EC%99%80-Path.resolve-%EC%B0%A8%EC%9D%B4)
+
+- [[Node.js] NodeJS 웹서버에서 클라이언트에게 파일 응답하기](https://dololak.tistory.com/131)
