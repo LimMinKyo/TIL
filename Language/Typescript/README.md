@@ -57,3 +57,5 @@
 - [Typescript as 대신 satisfies 사용하기](https://ko-de-dev-green.tistory.com/110)
 
 - [satisfies: 안전한 업캐스팅을 통해 더 안전한 코드작성을 도와주는 새로운 키워드(TypeScript 4.9)](https://engineering.ab180.co/stories/satisfies-safe-upcasting)
+
+- [What is the best way to write utilities in TypeScript?](https://olegvaraksin.medium.com/what-is-the-best-way-to-write-utilities-in-typescript-e3cae916fe30)
