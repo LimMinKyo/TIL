@@ -110,6 +110,8 @@
 
 - [대기업 개발자는 "Modal" 어떻게 관리할까? 🤔](https://www.youtube.com/watch?v=gMzYOE0TV0g)
 
+- [zod를 이용해 회원가입 폼을 만들어보기](https://xionwcfm.tistory.com/347)
+
 ## React-Query
 
 - [react-query](https://velog.io/@jkl1545/React-Query)
