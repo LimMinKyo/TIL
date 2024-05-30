@@ -1,4 +1,4 @@
-# Etc
+# 기타
 
 - [개발자를 위한 PPT 발표앱을 찾았다...!](https://www.youtube.com/watch?v=Q2PCO0mKEaU)
 

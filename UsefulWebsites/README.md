@@ -1,4 +1,4 @@
-# 개발에 도움되는 사이트들
+# 유용한 웹사이트 모음
 
 ## 디자인
 
@@ -23,10 +23,6 @@
 - [CODEPEN](https://codepen.io/)
 
 - [Material Design](https://material.io/design)
-
-- [React Icons](https://react-icons.github.io/react-icons/)
-
-- [Hero Icons](https://heroicons.com/)
 
 ## HTML
 

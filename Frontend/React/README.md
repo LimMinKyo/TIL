@@ -157,17 +157,3 @@
 ## 에러 해결
 
 - [React에서 TailwindCSS 사용 시 warning - Unknown at rule @tailwind css](https://velog.io/@jinsunkimdev/React%EC%97%90%EC%84%9C-TailwindCSS-%EC%82%AC%EC%9A%A9-%EC%8B%9C-warning-Unknown-at-rule-tailwind-css)
-
-## 유용한 라이브러리 모음
-
-- [react-spring-bottom-sheet](https://react-spring.bottom-sheet.dev/)
-
-- [react-device-detect](https://www.npmjs.com/package/react-device-detect)
-
-- [react-paginate](https://www.npmjs.com/package/react-paginate)
-
-- [react-number-formats](https://www.npmjs.com/package/react-number-format)
-
-  - [[React/JS] 숫자 쉼표 찍기, 소수 포함 라이브러리 추천](https://samsic.tistory.com/entry/ReactJS-%EC%88%AB%EC%9E%90-%EC%89%BC%ED%91%9C-%EC%B0%8D%EA%B8%B0-%EC%86%8C%EC%88%98-%ED%8F%AC%ED%95%A8-%EB%9D%BC%EC%9D%B4%EB%B8%8C%EB%9F%AC%EB%A6%AC-%EC%B6%94%EC%B2%9C)
-
-- [Mantine](https://mantine.dev/)

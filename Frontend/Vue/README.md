@@ -58,8 +58,6 @@
 
 - [deep selector이란?](https://engineer-mole.tistory.com/332)
 
-## 라이브러리
-
 - [vue3 App (5) - Toast UI Editor 붙이기](https://velog.io/@latte_h/Vue3-App-5-Toast-UI-Editor-%EB%B6%99%EC%9D%B4%EA%B8%B0)
 
 - [[Vue JS] toast ui editor 사용하기](https://velog.io/@unani92/Vue-toast-ui-editor-%EC%82%AC%EC%9A%A9%ED%95%98%EA%B8%B0)
@@ -67,10 +65,6 @@
 - [Vue.js - Excel Download 바로 처리하기](https://jhhan009.tistory.com/73)
 
 - [[vue] 테이블 데이터 Excel Export 하기](https://berrrrr.github.io/programming/2020/11/15/vue-table-excel-export/)
-
-- [[Vue3] click-outside-vue3](https://www.npmjs.com/package/click-outside-vue3)
-
-- [Vue3 툴팁](https://valgeirb.github.io/vue3-popper/)
 
 ## Quasar
 
