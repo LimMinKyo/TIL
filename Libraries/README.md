@@ -4,8 +4,6 @@
 
 - [TailwindCSS](https://tailwindcss.com/)
 
-- [classnames](https://www.npmjs.com/package/classnames)
-
 - [Hero Icons](https://heroicons.com/)
 
 ## Javascript
@@ -25,6 +23,8 @@
 - [dayjs](https://day.js.org/)
 
 - [libphonenumber](https://github.com/google/libphonenumber)
+
+- [classnames](https://www.npmjs.com/package/classnames)
 
 ## React
 
