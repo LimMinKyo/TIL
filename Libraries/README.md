@@ -40,6 +40,8 @@
 
 - [React Icons](https://react-icons.github.io/react-icons/)
 
+- [React Hook Form](https://react-hook-form.com/)
+
 ## Vue
 
 - [click-outside-vue3](https://www.npmjs.com/package/click-outside-vue3)
