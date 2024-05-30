@@ -24,6 +24,8 @@
 
 - [dayjs](https://day.js.org/)
 
+- [libphonenumber](https://github.com/google/libphonenumber)
+
 ## React
 
 - [react-spring-bottom-sheet](https://react-spring.bottom-sheet.dev/)
