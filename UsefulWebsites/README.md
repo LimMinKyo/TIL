@@ -24,6 +24,10 @@
 
 - [Material Design](https://material.io/design)
 
+## 아이콘
+
+- [Simple Icons](https://simpleicons.org/)
+
 ## HTML
 
 - [HTML 유니코드](https://ascii.cl/htmlcodes.htm)
