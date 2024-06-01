@@ -18,6 +18,7 @@
   - [Nginx](./Backend/Nginx/README.md)
 - [Database](./Database)
   - [MySQL](./Database/MySQL/README.md)
+  - [SQLite](./Database/SQLite/README.md)
 - [DevOps](./DevOps)
   - [AWS](./DevOps/AWS/README.md)
   - [NCP](./DevOps/NCP/README.md)

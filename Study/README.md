@@ -13,3 +13,7 @@
 - [전설의 프로그래머 형님들의 찐 공부 비법!](https://www.youtube.com/watch?v=NLGUkiMDIZg)
 
 - [개발을 시작한 당신에게 해주고 싶은 이야기](https://www.youtube.com/watch?v=FVRXlaC1oZg)
+
+- [인공지능이 3분만에 서버를 만드는데, 개발자는 무엇을 해야 할까요?](https://www.youtube.com/watch?v=gNSmdUxIZLE)
+
+- [인공지능 시대 개발자의 전망 영상에 달린, 좋은 댓글 같이 읽기](https://www.youtube.com/watch?v=HUyt-aKplXw)
