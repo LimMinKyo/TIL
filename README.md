@@ -24,6 +24,7 @@
   - [NCP](./DevOps/NCP/README.md)
   - [GitHub Actions](./DevOps/GitHub%20Actions/README.md)
   - [Docker](./DevOps/Docker/README.md)
+  - [Kubernetes](./DevOps/Kubernetes/README.md)
 - [Test](./Test)
   - [Jest](./Test/Jest/README.md)
   - [Playwright](./Test/Playwright/README.md)
