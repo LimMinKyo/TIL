@@ -19,3 +19,7 @@
 - [[Node.js] NodeJS 웹서버에서 클라이언트에게 파일 응답하기](https://dololak.tistory.com/131)
 
 - [Node.js 자식 프로세스(Child Process): 알아야 할 모든 것](https://www.freecodecamp.org/korean/news/node-js-child-processes-everything-you-need-to-know-e69498fe970a/)
+
+## nvm
+
+- [원활한 협업을 위한 .nvmrc](https://univdev.page/posts/nvmrc/)
