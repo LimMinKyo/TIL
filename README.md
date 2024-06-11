@@ -32,6 +32,7 @@
   - [MSW](./Test/MSW/README.md)
 - [Language](./Language)
   - [Javascript](./Language/Javascript/README.md)
+    - [RxJS](./Language/Javascript/RxJS/README.md)
   - [Typescript](./Language/Typescript/README.md)
   - [Python](./Language/Python/README.md)
   - [Java](./Language/Java/README.md)
