@@ -6,8 +6,6 @@
 
 - [concat() VS push()](https://jindev-t.tistory.com/77)
 
-- [axios 개념 정리](https://kyun2da.dev/%EB%9D%BC%EC%9D%B4%EB%B8%8C%EB%9F%AC%EB%A6%AC/axios-%EA%B0%9C%EB%85%90-%EC%A0%95%EB%A6%AC/)
-
 - [Bearer Auth (JWT) 방식으로 로그인 구현 예제](https://ocblog.tistory.com/56)
 
 - [day.js 사용 방법 - JavaScript 날짜 라이브러리](https://jsikim1.tistory.com/196)
@@ -142,6 +140,14 @@
 
 - [iOS 에서 🔔 웹 푸시 알림 보내기!](https://www.youtube.com/watch?v=eSj25owrmTM)
 
+- [자바스크립트 자식 요소의 개수 구하기, ChildElementCount](https://webisfree.com/2019-01-30/%EC%9E%90%EB%B0%94%EC%8A%A4%ED%81%AC%EB%A6%BD%ED%8A%B8-%EC%9E%90%EC%8B%9D-%EC%9A%94%EC%86%8C%EC%9D%98-%EA%B0%9C%EC%88%98-%EA%B5%AC%ED%95%98%EA%B8%B0-childelementcount)
+
+- [JavaScript | event target과 currentTarget의 차이점](https://velog.io/@edie_ko/JavaScript-event-target%EA%B3%BC-currentTarget%EC%9D%98-%EC%B0%A8%EC%9D%B4%EC%A0%90)
+
+- [[JavaScript] append vs appendChild 차이점](https://wrkbr.tistory.com/563)
+
+- [[자바스크립트] setInterval/clearInterval 반복 중단, 재시작(재개) 방법](https://curryyou.tistory.com/328)
+
 ## Promise
 
 - [📚 Promise.allSettled 와 Promise.all 비교 정리](https://inpa.tistory.com/entry/JS-📚-더이상-Promiseall-쓰지말고-PromiseallSettled-사용하자)
@@ -153,46 +159,6 @@
 - [Promise Pool로 성능 개선하기 (feat. Promise.all)](https://jojoldu.tistory.com/714)
 
 - [no-return-await 는 항상 정답일까](https://jojoldu.tistory.com/699)
-
-## Yarn
-
-- [Yarn 설치 및 사용법](https://heropy.blog/2017/11/25/yarn/)
-
-- [Yarn Berry를 사용해보자](https://velog.io/@seokunee/Yarn-Berry%EB%A5%BC-%EC%82%AC%EC%9A%A9%ED%95%B4%EB%B3%B4%EC%9E%90)
-
-- [yarn2와 함께 PnP(Plug'n'Play)를 적용해보자. (feat. Typescript)](https://velog.io/@altmshfkgudtjr/yarn2%EC%99%80-%ED%95%A8%EA%BB%98-Plug-n-Play%EB%A5%BC-%EC%A0%81%EC%9A%A9%ED%95%B4%EB%B3%B4%EC%9E%90)
-
-- [yarn berry cannot find module 해결](https://jerrynim.dev/post/yarn-berry-typescript-cannot-find-module)
-
-- [TIL - .gitignore 와 yarn.lock](https://velog.io/@haileyself/gitignore%EC%99%80-yarn.lock-%ED%8C%8C%EC%9D%BC-vek45kvrbk)
-
-- [[prettier] extension fails with yarn2](https://github.com/prettier/prettier-vscode/issues/1222)
-
-- [node_modules로부터 우리를 구원해 줄 Yarn Berry](https://toss.tech/article/node-modules-and-yarn-berry)
-
-- [Yarn Berry 적용 안되는 문제 해결](https://meoweundi.tistory.com/39)
-
-- [Yarn Berry 환경과 PnP 기능에서 Prisma 사용](https://velog.io/@pyo-sh/Yarn-Berry-%ED%99%98%EA%B2%BD%EA%B3%BC-PnP-%EA%B8%B0%EB%8A%A5%EC%97%90%EC%84%9C-Prisma-%EC%82%AC%EC%9A%A9)
-
-## ESLint
-
-- [ESLint 상세 설정 가이드](https://www.daleseo.com/eslint-config/)
-
-- [eslint, prettier, editorconfig 로 코드 컨벤션을 맞춘 후기](https://yceffort.kr/2020/11/retrospect-eslint-prettier)
-
-- [ESLint + Prettier + EditorConfig + TypeScript 설정하기](https://velog.io/@hong7511059/ESLint-Prettier-EditorConfig-TypeScript-%EC%84%A4%EC%A0%95%ED%95%98%EA%B8%B0)
-
-- [ESLint 조금 더 잘 활용하기](https://tech.kakao.com/2019/12/05/make-better-use-of-eslint/)
-
-- [ESLint(TSLint)와 Prettier 함께 사용하기(w/ VSCode)](https://pravusid.kr/javascript/2019/03/10/eslint-prettier.html)
-
-- [정적 분석](https://ui.toast.com/fe-guide/ko_STATIC-ANALYSIS)
-
-- [ESLint not working in VS Code?](https://stackoverflow.com/questions/45093510/eslint-not-working-in-vs-code)
-
-## Webpack
-
-- [웹팩5로 청크 관리 및 코드 스플리팅 하기](https://www.zerocho.com/category/Webpack/post/58ad4c9d1136440018ba44e7)
 
 ## 클린코드
 
