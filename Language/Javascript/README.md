@@ -160,6 +160,10 @@
 
 - [no-return-await 는 항상 정답일까](https://jojoldu.tistory.com/699)
 
+## Base64 / Blob / ArrayBuffer / File
+
+- [📁 Base64 / Blob / ArrayBuffer / File 다루기 총정리](https://inpa.tistory.com/entry/JS-%F0%9F%93%9A-Base64-Blob-ArrayBuffer-File-%EB%8B%A4%EB%A3%A8%EA%B8%B0-%EC%A0%95%EB%A7%90-%EC%9D%B4%ED%95%B4%ED%95%98%EA%B8%B0-%EC%89%BD%EA%B2%8C-%EC%84%A4%EB%AA%85)
+
 ## 클린코드
 
 - [for, if 둘다 제거해 보세요.](https://youtu.be/Izg6mVJ1LAA)
