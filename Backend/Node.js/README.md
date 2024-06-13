@@ -20,6 +20,8 @@
 
 - [Node.js 자식 프로세스(Child Process): 알아야 할 모든 것](https://www.freecodecamp.org/korean/news/node-js-child-processes-everything-you-need-to-know-e69498fe970a/)
 
+- [[NODE] 📚 버퍼 / 스트림 / 파이프 문법 💯 정리](https://inpa.tistory.com/entry/NODE-%F0%9F%93%9A-%EB%B2%84%ED%8D%BC-%EC%8A%A4%ED%8A%B8%EB%A6%BC-%ED%8C%8C%EC%9D%B4%ED%94%84-%EC%A0%95%EB%A6%AC)
+
 ## nvm
 
 - [원활한 협업을 위한 .nvmrc](https://univdev.page/posts/nvmrc/)
