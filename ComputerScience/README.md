@@ -12,4 +12,6 @@
 
 - [런타임 에러와 컴파일 에러](https://blog.naver.com/jhonbeetbox/222417186823)
 
-- [절대경로 & 상대경로](./%EC%A0%88%EB%8C%80%EA%B2%BD%EB%A1%9C%20%26%20%EC%83%81%EB%8C%80%EA%B2%BD%EB%A1%9C.md)
+- [html css 경로 지정 절대경로 와 상대경로!](https://m.blog.naver.com/angeljusts2/221310398804)
+
+- [localhost 의 동작 원리](https://velog.io/@480/localhost-%EC%9D%98-%EB%8F%99%EC%9E%91-%EC%9B%90%EB%A6%AC)
