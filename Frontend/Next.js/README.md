@@ -98,6 +98,8 @@
 
 - [Next.js 버그 픽스로 기여한 후기](https://velog.io/@baby_dev/Next.js-%EB%B2%84%EA%B7%B8-%ED%94%BD%EC%8A%A4%EB%A1%9C-%EA%B8%B0%EC%97%AC%ED%95%9C-%ED%9B%84%EA%B8%B0)
 
+- [NextJS Middleware와 CDN으로 이런것도 가능해요.](https://velog.io/@endmoseung/NextJS-Middleware%EC%99%80-CDN%EC%9C%BC%EB%A1%9C-%EC%9D%B4%EB%9F%B0%EA%B2%83%EB%8F%84-%EA%B0%80%EB%8A%A5%ED%95%B4%EC%9A%94)
+
 ## 에러 해결
 
 - [TypeError: Cannot read properties of undefined (reading 'filter') Tanstack table (React)](https://stackoverflow.com/questions/74836833/typeerror-cannot-read-properties-of-undefined-reading-filter-tanstack-table)
