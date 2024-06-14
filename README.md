@@ -59,4 +59,5 @@
 - [유용한 라이브러리 모음](./Libraries/README.md)
 - [유용한 툴 모음](./Tools/README.md)
 - [유용한 웹사이트 모음](./UsefulWebsites/README.md)
+- [참고할만 한 사이드 프로젝트 모음](./SideProjects/README.md)
 - [기타](./Etc/README.md)
