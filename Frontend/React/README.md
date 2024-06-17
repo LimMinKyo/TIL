@@ -112,6 +112,8 @@
 
 - [zod를 이용해 회원가입 폼을 만들어보기](https://xionwcfm.tistory.com/347)
 
+- [(번역) SOLID 원칙으로 리액트 훅 작성하기](https://ykss.netlify.app/translation/write_solid_react_hooks)
+
 ## React-Query
 
 - [react-query](https://velog.io/@jkl1545/React-Query)
