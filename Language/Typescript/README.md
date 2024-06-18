@@ -63,3 +63,5 @@
 - [📘 타입스크립트 모듈 & 네임스페이스 시스템 이해하기](https://inpa.tistory.com/entry/TS-%F0%9F%93%98-%ED%83%80%EC%9E%85%EC%8A%A4%ED%81%AC%EB%A6%BD%ED%8A%B8-%EB%AA%A8%EB%93%88-%EB%84%A4%EC%9E%84%EC%8A%A4%ED%8E%98%EC%9D%B4%EC%8A%A4-%EC%8B%9C%EC%8A%A4%ED%85%9C-%EC%9D%B4%ED%95%B4%ED%95%98%EA%B8%B0)
 
 - [[타입스크립트] 인터페이스 속성 재정의하기 - Omit](https://cheeseb.github.io/typescript/typescript-utility-omit/)
+
+- ['타입스크립트 enum 을 사용하지 않는 방법' 을 사용하지 않는게 좋은 이유](https://velog.io/@vraimentres/typescript-enum)
