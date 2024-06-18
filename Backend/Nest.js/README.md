@@ -60,6 +60,8 @@
 
 - [NestJS에서의 Redis 적용](https://kscodebase.tistory.com/686)
 
+- [[Project] 프로젝트 삽질기33 (feat 정적 팩토리 메서드)](https://overcome-the-limits.tistory.com/714#%EC%A0%95%EC%A0%81-%ED%8C%A9%ED%86%A0%EB%A6%AC-%EB%A9%94%EC%84%9C%EB%93%9C)
+
 ## Building a REST API with NestJS and Prisma
 
 1. [Building a REST API with NestJS and Prisma](https://www.prisma.io/blog/nestjs-prisma-rest-api-7D056s1BmOL0)
