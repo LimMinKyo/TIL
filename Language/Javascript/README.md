@@ -148,6 +148,10 @@
 
 - [[자바스크립트] setInterval/clearInterval 반복 중단, 재시작(재개) 방법](https://curryyou.tistory.com/328)
 
+## Date
+
+- [왜 내가 작성한 JavaScript Date 코드가 서버에서는 다르게 보이는 거죠?](https://wormwlrm.github.io/2022/09/08/JavaScript-Date.html)
+
 ## Promise
 
 - [📚 Promise.allSettled 와 Promise.all 비교 정리](https://inpa.tistory.com/entry/JS-📚-더이상-Promiseall-쓰지말고-PromiseallSettled-사용하자)
