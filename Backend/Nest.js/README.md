@@ -66,6 +66,8 @@
 
 - [js-joda 로 TypeORM Date 타입 대체하기 (with NestJS)](https://jojoldu.tistory.com/600)
 
+- [내 코드에 관한 고민 그리고 앞으로 해야 할 것들 (#NestJS Code Review)](https://coding-groot.tistory.com/183)
+
 ## Building a REST API with NestJS and Prisma
 
 1. [Building a REST API with NestJS and Prisma](https://www.prisma.io/blog/nestjs-prisma-rest-api-7D056s1BmOL0)
