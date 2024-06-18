@@ -64,6 +64,8 @@
 
 - [NestJS에서 응답/요청 객체 직렬화 (Serialization) 하기](https://jojoldu.tistory.com/610)
 
+- [js-joda 로 TypeORM Date 타입 대체하기 (with NestJS)](https://jojoldu.tistory.com/600)
+
 ## Building a REST API with NestJS and Prisma
 
 1. [Building a REST API with NestJS and Prisma](https://www.prisma.io/blog/nestjs-prisma-rest-api-7D056s1BmOL0)
