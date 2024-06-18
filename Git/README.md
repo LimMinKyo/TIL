@@ -39,3 +39,5 @@
 - [git 파일명 대소문자 변경했을 때 제대로 인식하지 못하는 문제](https://v3.leedo.me/devs/15)
 
 - [[Github] personal access token을 이용해 private repository git clone 하는 법](https://earth-95.tistory.com/192)
+
+- [⚡️ Gitmoji 사용법 정리 (+ 깃모지 툴 소개)](https://inpa.tistory.com/entry/GIT-%E2%9A%A1%EF%B8%8F-Gitmoji-%EC%82%AC%EC%9A%A9%EB%B2%95-Gitmoji-cli)
