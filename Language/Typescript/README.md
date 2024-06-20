@@ -65,3 +65,5 @@
 - [[타입스크립트] 인터페이스 속성 재정의하기 - Omit](https://cheeseb.github.io/typescript/typescript-utility-omit/)
 
 - ['타입스크립트 enum 을 사용하지 않는 방법' 을 사용하지 않는게 좋은 이유](https://velog.io/@vraimentres/typescript-enum)
+
+- ['extends' and 'implements' difference? (TypeScript)](https://stackoverflow.com/questions/38834625/extends-and-implements-difference-typescript)
