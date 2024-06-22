@@ -7,3 +7,5 @@
 - [ChatGPT 플러스 결제를 중단하는 이유?](https://www.youtube.com/watch?v=_HuQNooKRXQ)
 
 - [ChatGPT 를 200% 활용하는 방법! feat. 프롬프트 엔지니어링](https://www.youtube.com/watch?v=WRkig3VeRLY)
+
+- [아빠가 된 개발자는 AI 에이전트를 어떻게 활용할까?](https://youtu.be/-59bKxwir5Q?si=0OHVNpvKo4JBOV-p)
