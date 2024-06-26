@@ -62,6 +62,8 @@
 
 - [백엔드 개발자의 웹 프론트엔드 개발기](https://techblog.woowahan.com/2683/)
 
+- [디자인 시스템을 직접 구축하기 vs 오픈소스 랩핑하기](https://www.linkedin.com/posts/%EB%8F%99%EC%9A%B1-%EC%9D%B4-575160177_%EB%94%94%EC%9E%90%EC%9D%B8%EC%8B%9C%EC%8A%A4%ED%85%9C-%EB%9E%98%ED%95%91-%ED%9B%84-1%EB%85%84-%EB%92%A4-activity-7211581439333556226-5ytF)
+
 - [디자인시스템 래핑 후 1년 뒤..](https://velog.io/@pandati0710/%EC%8A%A4%ED%83%80%ED%8A%B8%EC%97%85%EC%9D%98-%ED%98%84%EC%8B%A4%EC%A0%81%EC%9D%B8-%EB%94%94%EC%9E%90%EC%9D%B8%EC%8B%9C%EC%8A%A4%ED%85%9C-%EC%A0%9C%EC%9E%91-%ED%9B%84-1%EB%85%84-%EB%92%A4)
 
 ## Korean FE Article
