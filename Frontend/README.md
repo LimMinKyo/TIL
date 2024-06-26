@@ -62,6 +62,8 @@
 
 - [백엔드 개발자의 웹 프론트엔드 개발기](https://techblog.woowahan.com/2683/)
 
+- [디자인시스템 래핑 후 1년 뒤..](https://velog.io/@pandati0710/%EC%8A%A4%ED%83%80%ED%8A%B8%EC%97%85%EC%9D%98-%ED%98%84%EC%8B%A4%EC%A0%81%EC%9D%B8-%EB%94%94%EC%9E%90%EC%9D%B8%EC%8B%9C%EC%8A%A4%ED%85%9C-%EC%A0%9C%EC%9E%91-%ED%9B%84-1%EB%85%84-%EB%92%A4)
+
 ## Korean FE Article
 
 - [(번역) 프런트엔드의 미래 탐색하기](https://ykss.netlify.app/translation/navigating_the_future_of_frontend)
