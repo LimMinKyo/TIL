@@ -130,6 +130,8 @@
 
 - [QueryClient의 Default Options 적용](https://velog.io/@alsghk9701/QueryClient%EC%9D%98-Default-Options-%EC%A0%81%EC%9A%A9)
 
+- [React Query - Authentication](https://velog.io/@pjh1011409/React-Query-)
+
 ## React-Hook-Form
 
 - [What type is register from react-hook-form?](https://stackoverflow.com/questions/70442081/what-type-is-register-from-react-hook-form)
