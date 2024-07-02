@@ -14,6 +14,8 @@
 
 - [Jest를 이용한 클래스 모킹과 테스팅](https://www.daleseo.com/jest-class-mocks/)
 
+- [How to test if a void async function was successful with jest?](https://stackoverflow.com/questions/55232833/how-to-test-if-a-void-async-function-was-successful-with-jest)
+
 ## 에러 해결
 
 - [Jest fails to load jest.config.ts in a ESM project using ts-node 10 #11453](https://github.com/jestjs/jest/issues/11453)
