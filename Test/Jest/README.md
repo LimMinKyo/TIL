@@ -12,6 +12,8 @@
 
 - [TypeScript Jest 를 통한 테스트 실행 속도 개선기](https://kyungyeon.dev/posts/102)
 
+- [Jest를 이용한 클래스 모킹과 테스팅](https://www.daleseo.com/jest-class-mocks/)
+
 ## 에러 해결
 
 - [Jest fails to load jest.config.ts in a ESM project using ts-node 10 #11453](https://github.com/jestjs/jest/issues/11453)
