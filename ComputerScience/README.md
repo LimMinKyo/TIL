@@ -19,3 +19,5 @@
 - [localhost 를 외부에서 접속하기](https://velog.io/@480/localhost-%EB%A5%BC-%EC%99%B8%EB%B6%80%EC%97%90%EC%84%9C-%EC%A0%91%EC%86%8D%ED%95%98%EA%B8%B0)
 
 - [🍪 CORS 쿠키 전송하기 (withCredentials 옵션)](https://inpa.tistory.com/entry/AXIOS-%F0%9F%93%9A-CORS-%EC%BF%A0%ED%82%A4-%EC%A0%84%EC%86%A1withCredentials-%EC%98%B5%EC%85%98)
+
+- [프록시 서버(Proxy Server)와 DMZ 서버](https://juran-devblog.tistory.com/228)
