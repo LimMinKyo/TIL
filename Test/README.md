@@ -38,6 +38,8 @@
 
 - [NodeJS에서 데이터베이스 통합 테스트 성능 개선하기 (TypeORM, Jest, PostgreSQL)](https://jojoldu.tistory.com/689)
 
+- [(번역) 좋은 코드, 테스트 용이한 코드](https://ykss.netlify.app/translation/good_code_testable_code/)
+
 ## ts-mockito
 
 - [jest.mock 보다 ts-mockito 사용하기 (feat. Node.js)](https://jojoldu.tistory.com/638)
