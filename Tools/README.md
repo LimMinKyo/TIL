@@ -5,3 +5,5 @@
 ## Jira
 
 - [Jira 지라 사용법](https://11001.tistory.com/120)
+
+- [Jira 보드에서 완료된 이슈 지우기(Clear) 관련](https://velog.io/@ino5/Jira-%EB%B3%B4%EB%93%9C%EC%97%90%EC%84%9C-%EC%99%84%EB%A3%8C%EB%90%9C-%EC%9D%B4%EC%8A%88-%EC%A7%80%EC%9A%B0%EA%B8%B0Clear-%EA%B4%80%EB%A0%A8)
