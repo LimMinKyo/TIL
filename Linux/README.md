@@ -13,3 +13,5 @@
 - [리눅스에서 txt파일 합치기](https://m.blog.naver.com/whdals0/110170098585)
 
 - [리눅스 여러 파일 내용 하나로 합치기](https://do-study.tistory.com/75)
+
+- [[Linux] 쉘 스크립트(Shell script) 기초](https://engineer-mole.tistory.com/200)
