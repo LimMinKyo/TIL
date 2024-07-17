@@ -20,6 +20,8 @@
 
 - [Public API의 CDN 캐시](https://jojoldu.tistory.com/779)
 
+- [게슈탈트 법칙으로 이해하는 클린코드: 가독성의 비밀](https://velog.io/@teo/cleancode)
+
 ## 디자인 패턴
 
 - [개발자라면 "무조건" 디자인 패턴을 배워야한다?](https://www.youtube.com/watch?v=Pzy_MPfGixg)
