@@ -41,3 +41,5 @@
 - [[Github] personal access token을 이용해 private repository git clone 하는 법](https://earth-95.tistory.com/192)
 
 - [⚡️ Gitmoji 사용법 정리 (+ 깃모지 툴 소개)](https://inpa.tistory.com/entry/GIT-%E2%9A%A1%EF%B8%8F-Gitmoji-%EC%82%AC%EC%9A%A9%EB%B2%95-Gitmoji-cli)
+
+- [[Git] 앗 커밋 메시지 실수했다](https://velog.io/@s33h/Git-%EC%95%97-%EC%BB%A4%EB%B0%8B-%EB%A9%94%EC%8B%9C%EC%A7%80-%EC%8B%A4%EC%88%98%ED%96%88%EB%8B%A4)
