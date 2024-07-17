@@ -15,3 +15,5 @@
 - [요즘 개발자가 개발을 더 잘해야하는 이유](https://www.youtube.com/watch?v=xPvwThLNZGE)
 
 - [진짜 개발자](https://jojoldu.tistory.com/787)
+
+- [웹 개발 인턴을 마치며,,, (2024 상반기 회고)](https://velog.io/@osohyun0224/%EC%9B%B9-%EA%B0%9C%EB%B0%9C-%EC%9D%B8%ED%84%B4%EC%9D%84-%EB%A7%88%EC%B9%98%EB%A9%B0-feat.-2024-%EC%83%81%EB%B0%98%EA%B8%B0-%EA%B0%9C%EB%B0%9C-%ED%9A%8C%EA%B3%A0)
