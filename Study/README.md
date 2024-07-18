@@ -17,3 +17,5 @@
 - [인공지능이 3분만에 서버를 만드는데, 개발자는 무엇을 해야 할까요?](https://www.youtube.com/watch?v=gNSmdUxIZLE)
 
 - [인공지능 시대 개발자의 전망 영상에 달린, 좋은 댓글 같이 읽기](https://www.youtube.com/watch?v=HUyt-aKplXw)
+
+- [내가 더이상 코파일럿을 쓰지않는 이유](https://www.youtube.com/watch?v=rMg-0sBEloA)
