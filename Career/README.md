@@ -21,3 +21,5 @@
 - [비전공자 백엔드 취업 성공! 준비기간 1년 6개월! 과정부터 결과까지 싹 다 공개!](https://velog.io/@wjsdj2009/%EB%B9%84%EC%A0%84%EA%B3%B5%EC%9E%90-%EB%B0%B1%EC%97%94%EB%93%9C-%EC%B7%A8%EC%97%85-%EC%84%B1%EA%B3%B5-%EC%A4%80%EB%B9%84%EA%B8%B0%EA%B0%84-1%EB%85%84-6%EA%B0%9C%EC%9B%94-%EA%B3%BC%EC%A0%95%EB%B6%80%ED%84%B0-%EA%B2%B0%EA%B3%BC%EA%B9%8C%EC%A7%80-%EC%8B%B9-%EB%8B%A4-%EA%B3%B5%EA%B0%9C#%EC%9D%B4%EB%A0%A5%EC%84%9C%ED%8F%AC%ED%8F%B4-%EC%A4%80%EB%B9%84---%EC%9D%B8%ED%94%84%EB%9F%B0-%EB%A9%98%ED%86%A0%EB%A7%81-%EA%B0%9C%EB%B0%9C%EB%B0%94%EB%8B%A5-2%EC%82%AC%EB%A1%9C)
 
 - [포트폴리오 새로할까? 바꿀까?](https://www.youtube.com/watch?v=137EAQsNUFo)
+
+- [3년차 프론트엔드 개발자 회고... 일 중독? 자기혐오?](https://www.youtube.com/watch?v=OvccUhwAcuI)
