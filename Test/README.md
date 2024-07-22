@@ -50,6 +50,30 @@
 
 - [Stub 을 이용한 Service 계층 단위 테스트 하기](https://jojoldu.tistory.com/637)
 
+- [조건부 (if~else) 로직 테스트코드에서 사용하지 않기](https://jojoldu.tistory.com/642)
+
+- [테스트코드에서 Optional chaining(?.) 쓰지않기](https://jojoldu.tistory.com/643)
+
+- [Jest로 Error 검증시 catch 보다는 expect](https://jojoldu.tistory.com/656)
+
+- [단언문 (expect/assert) 안에서 비교하지 않기](https://jojoldu.tistory.com/663)
+
+- [expect에서 false와 falsy 구분하기](https://jojoldu.tistory.com/664)
+
+- [1. 테스트하기 좋은 코드 - 테스트하기 어려운 코드](https://jojoldu.tistory.com/674)
+
+- [2. 테스트하기 좋은 코드 - 제어할 수 없는 코드 개선](https://jojoldu.tistory.com/676)
+
+- [3. 테스트하기 좋은 코드 - 외부에 의존하는 코드 개선](https://jojoldu.tistory.com/680)
+
+- [4. 테스트하기 좋은 코드 - 검증이 필요한 비공개 함수](https://jojoldu.tistory.com/681)
+
+- [5. 테스트하기 좋은 코드 - SQL](https://jojoldu.tistory.com/683)
+
+- [테스트 메소드 (함수) 이름은 비즈니스 내용을 사용하기](https://jojoldu.tistory.com/732)
+
+- [[번역]마틴파울러의 테스트 피라미드](https://blog.voidmainvoid.net/451)
+
 ## ts-mockito
 
 - [jest.mock 보다 ts-mockito 사용하기 (feat. Node.js)](https://jojoldu.tistory.com/638)
