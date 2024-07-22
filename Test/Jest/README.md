@@ -16,6 +16,8 @@
 
 - [How to test if a void async function was successful with jest?](https://stackoverflow.com/questions/55232833/how-to-test-if-a-void-async-function-was-successful-with-jest)
 
+- [Jest로 파라미터화 테스트하기: test.each(), describe.each()](https://www.daleseo.com/jest-each/)
+
 ## 에러 해결
 
 - [Jest fails to load jest.config.ts in a ESM project using ts-node 10 #11453](https://github.com/jestjs/jest/issues/11453)

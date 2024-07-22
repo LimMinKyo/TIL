@@ -148,6 +148,8 @@
 
 - [[자바스크립트] setInterval/clearInterval 반복 중단, 재시작(재개) 방법](https://curryyou.tistory.com/328)
 
+- [[번역] 자바스크립트에서 프로미스를 취소하는 방법](https://velog.io/@eunbinn/cancel-promises-javascript)
+
 ## Date
 
 - [왜 내가 작성한 JavaScript Date 코드가 서버에서는 다르게 보이는 거죠?](https://wormwlrm.github.io/2022/09/08/JavaScript-Date.html)

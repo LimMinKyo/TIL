@@ -40,6 +40,16 @@
 
 - [(번역) 좋은 코드, 테스트 용이한 코드](https://ykss.netlify.app/translation/good_code_testable_code/)
 
+- [테스트 픽스처 올바르게 사용하기](https://jojoldu.tistory.com/611)
+
+- [테스트 코드에서 내부 구현 검증 피하기](https://jojoldu.tistory.com/614)
+
+- [검증부 (assert / expect)는 하드코딩한다](https://jojoldu.tistory.com/615)
+
+- [메일 내용 단위 테스트 하기](https://jojoldu.tistory.com/619)
+
+- [Stub 을 이용한 Service 계층 단위 테스트 하기](https://jojoldu.tistory.com/637)
+
 ## ts-mockito
 
 - [jest.mock 보다 ts-mockito 사용하기 (feat. Node.js)](https://jojoldu.tistory.com/638)
