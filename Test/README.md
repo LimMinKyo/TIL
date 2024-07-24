@@ -72,6 +72,8 @@
 
 - [테스트 메소드 (함수) 이름은 비즈니스 내용을 사용하기](https://jojoldu.tistory.com/732)
 
+- [테스트 데이터 초기화에 @Transactional 사용하는 것에 대한 생각](https://jojoldu.tistory.com/761)
+
 - [[번역]마틴파울러의 테스트 피라미드](https://blog.voidmainvoid.net/451)
 
 ## ts-mockito
