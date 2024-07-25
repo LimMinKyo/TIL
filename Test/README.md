@@ -76,6 +76,8 @@
 
 - [[번역]마틴파울러의 테스트 피라미드](https://blog.voidmainvoid.net/451)
 
+- [테스트 코드는 多多益善 입니다. (w. jacoco)](https://velog.io/@komment/test-jacoco-codecov)
+
 ## ts-mockito
 
 - [jest.mock 보다 ts-mockito 사용하기 (feat. Node.js)](https://jojoldu.tistory.com/638)
