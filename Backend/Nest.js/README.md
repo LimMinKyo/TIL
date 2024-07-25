@@ -68,6 +68,8 @@
 
 - [내 코드에 관한 고민 그리고 앞으로 해야 할 것들 (#NestJS Code Review)](https://coding-groot.tistory.com/183)
 
+- [1. NestJS & TypeORM 환경에서 Monorepo 구성하기 - 기본 환경 구성 및 명령어](https://jojoldu.tistory.com/594)
+
 ## Building a REST API with NestJS and Prisma
 
 1. [Building a REST API with NestJS and Prisma](https://www.prisma.io/blog/nestjs-prisma-rest-api-7D056s1BmOL0)
