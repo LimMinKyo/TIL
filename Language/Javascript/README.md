@@ -150,6 +150,8 @@
 
 - [[번역] 자바스크립트에서 프로미스를 취소하는 방법](https://velog.io/@eunbinn/cancel-promises-javascript)
 
+- [Lerna와 yarn-workspace를 활용한 Mono Repo (Typescript & Jest) 환경 구성하기](https://jojoldu.tistory.com/585)
+
 ## Date
 
 - [왜 내가 작성한 JavaScript Date 코드가 서버에서는 다르게 보이는 거죠?](https://wormwlrm.github.io/2022/09/08/JavaScript-Date.html)
