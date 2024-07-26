@@ -25,3 +25,5 @@
 - [2022년 1월 100% 할인 이벤트 장애 부검](https://tech.inflab.com/202201-event-postmortem/)
 
 - [람보르기니와 지프랭글러](https://jojoldu.tistory.com/677)
+
+- [[ORM] Active Record Vs. Data Mapper pattern](https://velog.io/@nittre/ORM-Active-Record-Vs.-Data-Mapper-pattern)
