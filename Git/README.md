@@ -43,3 +43,5 @@
 - [⚡️ Gitmoji 사용법 정리 (+ 깃모지 툴 소개)](https://inpa.tistory.com/entry/GIT-%E2%9A%A1%EF%B8%8F-Gitmoji-%EC%82%AC%EC%9A%A9%EB%B2%95-Gitmoji-cli)
 
 - [[Git] 앗 커밋 메시지 실수했다](https://velog.io/@s33h/Git-%EC%95%97-%EC%BB%A4%EB%B0%8B-%EB%A9%94%EC%8B%9C%EC%A7%80-%EC%8B%A4%EC%88%98%ED%96%88%EB%8B%A4)
+
+- [시간을 엄청 아껴줄 Git으로 코드 에러 위치 찾는 방법(git bisect, git rev-parse HEAD)](https://www.youtube.com/watch?v=U-CLzjXcDGA)
