@@ -68,6 +68,8 @@
 
 - [내 코드에 관한 고민 그리고 앞으로 해야 할 것들 (#NestJS Code Review)](https://coding-groot.tistory.com/183)
 
+- [NestJS (with Mono Repo) WebStorm으로 디버깅 하기](https://jojoldu.tistory.com/607)
+
 - [1. NestJS & TypeORM 환경에서 Monorepo 구성하기 - 기본 환경 구성 및 명령어](https://jojoldu.tistory.com/594)
 
 - [2. NestJS & TypeORM 환경에서 Monorepo 구성하기 - TypeORM 추가하기](https://jojoldu.tistory.com/597)
