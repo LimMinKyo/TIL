@@ -78,6 +78,8 @@
 
 - [테스트 코드는 多多益善 입니다. (w. jacoco)](https://velog.io/@komment/test-jacoco-codecov)
 
+- [E2E 테스트는 그만. 테스트 개선기](https://velog.io/@hoonki/E2E-%ED%85%8C%EC%8A%A4%ED%8A%B8%EB%8A%94-%EA%B7%B8%EB%A7%8C.-%ED%85%8C%EC%8A%A4%ED%8A%B8-%EA%B0%9C%EC%84%A0%EA%B8%B0)
+
 ## ts-mockito
 
 - [jest.mock 보다 ts-mockito 사용하기 (feat. Node.js)](https://jojoldu.tistory.com/638)
