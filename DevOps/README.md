@@ -23,3 +23,5 @@
 - [폐쇄망 환경의 배포 시스템 개발기](https://blog.banksalad.com/tech/how-we-have-built-alice/)
 
 - [폐쇄망 환경에서의 Maven과 Nexus 사용기](https://f-lab.kr/insight/using-maven-and-nexus-in-closed-network-20240520)
+
+- [로컬 환경에서 HTTPS 설정하기](https://velog.io/@seorim6417/%EB%B9%84%EB%B0%80%EA%B8%80)
