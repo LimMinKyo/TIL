@@ -23,3 +23,5 @@
 - [프록시 서버(Proxy Server)와 DMZ 서버](https://juran-devblog.tistory.com/228)
 
 - [왜 도메인을 돈 주고 사야해? 도메인 시스템 6분 설명!](https://www.youtube.com/watch?v=ao0VtQnBBXA)
+
+- [이더넷(Ethernet), 인터넷(Internet)과 웹(web)의 차이](https://bentist.tistory.com/33)
