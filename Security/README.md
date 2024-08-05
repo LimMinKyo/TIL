@@ -5,3 +5,5 @@
 - [이런 하찮은걸로 어떻게 봇인지 판단함?](https://www.youtube.com/watch?v=pFjhHPa_Apw)
 
 - [GitHub 사용 시 하면 절대 안 되는 것 한 가지(과금 폭탄 주의)](https://www.youtube.com/watch?v=ZCae_LPuzBU)
+
+- [CORS 개념 정리(preflight, simple, credentialed request)+SOP](https://velog.io/@wiostz98kr/CORS%EC%9D%98-%EB%AA%A8%EB%93%A0-%EA%B2%83)
