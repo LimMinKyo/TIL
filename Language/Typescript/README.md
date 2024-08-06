@@ -67,3 +67,5 @@
 - ['타입스크립트 enum 을 사용하지 않는 방법' 을 사용하지 않는게 좋은 이유](https://velog.io/@vraimentres/typescript-enum)
 
 - ['extends' and 'implements' difference? (TypeScript)](https://stackoverflow.com/questions/38834625/extends-and-implements-difference-typescript)
+
+- [올해 버려야 할 타입스크립트 나쁜 버릇 10가지](https://ui.toast.com/weekly-pick/ko_20210217)
