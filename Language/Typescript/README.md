@@ -69,3 +69,5 @@
 - ['extends' and 'implements' difference? (TypeScript)](https://stackoverflow.com/questions/38834625/extends-and-implements-difference-typescript)
 
 - [올해 버려야 할 타입스크립트 나쁜 버릇 10가지](https://ui.toast.com/weekly-pick/ko_20210217)
+
+- [[TypeScript] tsconfig.json 의 엄격한 타입 체킹 옵션 (Strict Type-Checking Options)](https://velog.io/@hailieejkim/TypeScript-tsconfig.json-%EC%9D%98-%EC%97%84%EA%B2%A9%ED%95%9C-%ED%83%80%EC%9E%85-%EC%B2%B4%ED%82%B9-%EC%98%B5%EC%85%98-Strict-Type-Checking-Options)
