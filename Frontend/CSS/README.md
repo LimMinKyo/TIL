@@ -59,3 +59,5 @@
 - [티스토리 테이블에 가로 스크롤 구현하기](https://hangyojung.tistory.com/93)
 
 - [(번역) Campfire의 모던 CSS 패턴](https://velog.io/@superlipbalm/modern-css-patterns-and-techniques-in-campfire?utm_source=substack&utm_medium=email)
+
+- [CSS 세로 가운데 정렬(align-self vs align-content vs align-items)](https://www.youtube.com/shorts/6eBkqoUbxWI)
