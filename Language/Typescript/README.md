@@ -73,3 +73,5 @@
 - [[TypeScript] tsconfig.json 의 엄격한 타입 체킹 옵션 (Strict Type-Checking Options)](https://velog.io/@hailieejkim/TypeScript-tsconfig.json-%EC%9D%98-%EC%97%84%EA%B2%A9%ED%95%9C-%ED%83%80%EC%9E%85-%EC%B2%B4%ED%82%B9-%EC%98%B5%EC%85%98-Strict-Type-Checking-Options)
 
 - [함수의 매개변수, 리턴 타입을 가져오는 법. 프로미스 결괏값을 가져오는 법(ReturnType, Parameters, Awaited)](https://www.youtube.com/shorts/RCywqx-rQJU)
+
+- [타입스크립트에서 빛을 발하는 in 연산자](https://www.youtube.com/shorts/QOBRVm6cdtw)
