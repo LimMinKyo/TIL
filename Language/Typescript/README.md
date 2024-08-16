@@ -77,3 +77,5 @@
 - [타입스크립트에서 빛을 발하는 in 연산자](https://www.youtube.com/shorts/QOBRVm6cdtw)
 
 - [타입스크립트 제네릭 처음 할때 제일 이해 안 되는 현상: 분배법칙](https://youtube.com/shorts/XCFYoXlbgQ0?si=z-OonM4NlX0LSrN0)
+
+- [타입도 진화를 한답니다(any를 피하기 위한 타입 추론)](https://youtube.com/shorts/2odbvMihuGs?si=30SmwgA4vGDw4DJD)
