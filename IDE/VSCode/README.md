@@ -13,3 +13,5 @@
 - [VSCode에서 발생하는 Delete `␍` eslint (prettier/prettier) 해결방법](https://noogoonaa.tistory.com/62)
 
 - [마우스 없이 개발하기 (1): vscode 단축키 마스터하기](https://velog.io/@woohm402/no-mouse-1-vscode)
+
+- [Visual studio code 편집기 폰트 설정하기](https://tttsss77.tistory.com/97)
