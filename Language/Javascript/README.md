@@ -156,6 +156,8 @@
 
 - [자바스크립트 엔진과 런타임의 차이점은 무엇인가요?](https://ktseo41.github.io/blog/fe-article/javascript-engines-runtimes.html)
 
+- [axios, fetch 쓰시는 분들 ky, got 한 번 써보세요!!](https://www.youtube.com/shorts/m8jn_qZF8Ak)
+
 ## Date
 
 - [왜 내가 작성한 JavaScript Date 코드가 서버에서는 다르게 보이는 거죠?](https://wormwlrm.github.io/2022/09/08/JavaScript-Date.html)
