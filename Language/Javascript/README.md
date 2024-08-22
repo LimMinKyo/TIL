@@ -158,6 +158,8 @@
 
 - [axios, fetch 쓰시는 분들 ky, got 한 번 써보세요!!](https://www.youtube.com/shorts/m8jn_qZF8Ak)
 
+- [자바스크립트 프로젝트에서 스크립트 활용하기 (npm run)](https://www.daleseo.com/js-npm-run-script/)
+
 ## Date
 
 - [왜 내가 작성한 JavaScript Date 코드가 서버에서는 다르게 보이는 거죠?](https://wormwlrm.github.io/2022/09/08/JavaScript-Date.html)
