@@ -18,6 +18,8 @@
 
 - [Jest로 파라미터화 테스트하기: test.each(), describe.each()](https://www.daleseo.com/jest-each/)
 
+- [Jest로 테스트 커버리지 수집하기](https://www.daleseo.com/jest-coverage/)
+
 ## 에러 해결
 
 - [Jest fails to load jest.config.ts in a ESM project using ts-node 10 #11453](https://github.com/jestjs/jest/issues/11453)
