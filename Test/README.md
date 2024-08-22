@@ -80,6 +80,10 @@
 
 - [E2E 테스트는 그만. 테스트 개선기](https://velog.io/@hoonki/E2E-%ED%85%8C%EC%8A%A4%ED%8A%B8%EB%8A%94-%EA%B7%B8%EB%A7%8C.-%ED%85%8C%EC%8A%A4%ED%8A%B8-%EA%B0%9C%EC%84%A0%EA%B8%B0)
 
+- [내 마음대로 되지 않는 백엔드 테스트코드 - 희망편 & 현실편](https://www.inflearn.com/course/%ED%87%B4%EA%B7%BC%EA%B8%B8%EB%B0%8B%EC%97%85-%EC%9D%B8%ED%94%84%EB%9F%B0-%EB%B0%B1%EC%97%94%EB%93%9C-%ED%85%8C%EC%8A%A4%ED%8A%B8%EC%BD%94%EB%93%9C)
+
+- [(번역) 테스트 경계란 무엇일까요?](https://velog.io/@superlipbalm/what-is-a-test-boundary)
+
 ## ts-mockito
 
 - [jest.mock 보다 ts-mockito 사용하기 (feat. Node.js)](https://jojoldu.tistory.com/638)
