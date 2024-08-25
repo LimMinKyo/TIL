@@ -27,3 +27,5 @@
 - [개발자라면 "무조건" 디자인 패턴을 배워야한다?](https://www.youtube.com/watch?v=Pzy_MPfGixg)
 
 - [당신이 이 디자인 패턴을 배워야하는 이유?! 😱](https://www.youtube.com/watch?v=bdcxCpB68Xs)
+
+- [복잡한 건 감추고 간단한 것만 드러내는 퍼서드 패턴](https://youtube.com/shorts/XtEDCLh_Ltc?si=TZ6OrOq9pMmo9ERT)
