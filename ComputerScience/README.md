@@ -25,3 +25,5 @@
 - [왜 도메인을 돈 주고 사야해? 도메인 시스템 6분 설명!](https://www.youtube.com/watch?v=ao0VtQnBBXA)
 
 - [이더넷(Ethernet), 인터넷(Internet)과 웹(web)의 차이](https://bentist.tistory.com/33)
+
+- [Bit(Binary digit) Byte 의 고찰](https://medium.com/zigbang/bit-binary-digit-byte-%EC%9D%98-%EA%B3%A0%EC%B0%B0-ebefe5afb8d3)
