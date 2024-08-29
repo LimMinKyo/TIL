@@ -17,3 +17,5 @@
 - [[Linux] 쉘 스크립트(Shell script) 기초](https://engineer-mole.tistory.com/200)
 
 - [만화로 배우는 리눅스 시스템 관리 정리!](https://jojoldu.tistory.com/36)
+
+- [🐧 리눅스 파일 & 디렉토리 권한 (소유권 / 허가권 / 특수권한)](https://inpa.tistory.com/entry/LINUX-%F0%9F%93%9A-%ED%8C%8C%EC%9D%BC-%EA%B6%8C%ED%95%9C-%EC%86%8C%EC%9C%A0%EA%B6%8C%ED%97%88%EA%B0%80%EA%B6%8C-%F0%9F%92%AF-%EC%A0%95%EB%A6%AC)

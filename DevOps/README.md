@@ -25,3 +25,7 @@
 - [폐쇄망 환경에서의 Maven과 Nexus 사용기](https://f-lab.kr/insight/using-maven-and-nexus-in-closed-network-20240520)
 
 - [로컬 환경에서 HTTPS 설정하기](https://velog.io/@seorim6417/%EB%B9%84%EB%B0%80%EA%B8%80)
+
+- [서버(물리)가 내일 「죽는다」는 각오](https://velog.io/@juunini/server-will-die-tomorrow)
+
+- [라즈베리파이엔 k3s 쓰세요](https://velog.io/@juunini/rpi-k3s-good)
