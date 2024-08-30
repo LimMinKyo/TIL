@@ -23,3 +23,9 @@
 - [포트폴리오 새로할까? 바꿀까?](https://www.youtube.com/watch?v=137EAQsNUFo)
 
 - [3년차 프론트엔드 개발자 회고... 일 중독? 자기혐오?](https://www.youtube.com/watch?v=OvccUhwAcuI)
+
+- [법대생이었던 내가 일어나보니 개발자가 된 건에 대하여](https://velog.io/@joshuara7235/%EB%B2%95%EB%8C%80%EC%83%9D%EC%9D%B4%EC%97%88%EB%8D%98-%EB%82%B4%EA%B0%80-%EC%9D%BC%EC%96%B4%EB%82%98%EB%B3%B4%EB%8B%88-%EA%B0%9C%EB%B0%9C%EC%9E%90%EA%B0%80-%EB%90%9C-%EA%B1%B4%EC%97%90-%EB%8C%80%ED%95%98%EC%97%AC)
+
+- [3년차 백엔드 개발자의 2023년 회고. 그런데 이제 결혼과 이직을 곁들인.](https://velog.io/@joshuara7235/3%EB%85%84%EC%B0%A8-%EB%B0%B1%EC%97%94%EB%93%9C-%EA%B0%9C%EB%B0%9C%EC%9E%90%EC%9D%98-2023%EB%85%84-%ED%9A%8C%EA%B3%A0.-%EA%B7%B8%EB%9F%B0%EB%8D%B0-%EC%9D%B4%EC%A0%9C-%EA%B2%B0%ED%98%BC%EA%B3%BC-%EC%9D%B4%EC%A7%81%EC%9D%84-%EA%B3%81%EB%93%A4%EC%9D%B8)
+
+- [개발자 부부가 되고 싶어서 여자친구를 개발자로 만든 SSul 푼다.](https://velog.io/@joshuara7235/%EA%B0%9C%EB%B0%9C%EC%9E%90-%EB%B6%80%EB%B6%80%EA%B0%80-%EB%90%98%EA%B3%A0-%EC%8B%B6%EC%96%B4%EC%84%9C-%EC%97%AC%EC%9E%90%EC%B9%9C%EA%B5%AC%EB%A5%BC-%EA%B0%9C%EB%B0%9C%EC%9E%90%EB%A1%9C-%EB%A7%8C%EB%93%A0-SSul-%ED%91%BC%EB%8B%A4)
