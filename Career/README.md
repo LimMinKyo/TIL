@@ -29,3 +29,5 @@
 - [3년차 백엔드 개발자의 2023년 회고. 그런데 이제 결혼과 이직을 곁들인.](https://velog.io/@joshuara7235/3%EB%85%84%EC%B0%A8-%EB%B0%B1%EC%97%94%EB%93%9C-%EA%B0%9C%EB%B0%9C%EC%9E%90%EC%9D%98-2023%EB%85%84-%ED%9A%8C%EA%B3%A0.-%EA%B7%B8%EB%9F%B0%EB%8D%B0-%EC%9D%B4%EC%A0%9C-%EA%B2%B0%ED%98%BC%EA%B3%BC-%EC%9D%B4%EC%A7%81%EC%9D%84-%EA%B3%81%EB%93%A4%EC%9D%B8)
 
 - [개발자 부부가 되고 싶어서 여자친구를 개발자로 만든 SSul 푼다.](https://velog.io/@joshuara7235/%EA%B0%9C%EB%B0%9C%EC%9E%90-%EB%B6%80%EB%B6%80%EA%B0%80-%EB%90%98%EA%B3%A0-%EC%8B%B6%EC%96%B4%EC%84%9C-%EC%97%AC%EC%9E%90%EC%B9%9C%EA%B5%AC%EB%A5%BC-%EA%B0%9C%EB%B0%9C%EC%9E%90%EB%A1%9C-%EB%A7%8C%EB%93%A0-SSul-%ED%91%BC%EB%8B%A4)
+
+- [항해의 중간지점, 나는 얼마나 성장했나.](https://velog.io/@joshuara7235/%ED%95%AD%ED%95%B4%EC%9D%98-%EC%A4%91%EA%B0%84%EC%A7%80%EC%A0%90-%EB%82%98%EB%8A%94-%EC%96%BC%EB%A7%88%EB%82%98-%EC%84%B1%EC%9E%A5%ED%96%88%EB%82%98)

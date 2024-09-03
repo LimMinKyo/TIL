@@ -25,3 +25,7 @@
 ## RDS
 
 - [no pg_hba.conf entry for host "<IP>", user "<user>", database "<name>", no encryption 오류 해결](https://velog.io/@mechauk418/DRF-no-pghba.conf-entry-for-host-IP-user-user-database-name-no-encryption-%EC%98%A4%EB%A5%98-%ED%95%B4%EA%B2%B0%EB%B2%95)
+
+## 자격증
+
+- [AWS SAA-C03 8일 벼락치기 합격 후기](https://leeeeeyeon-dev.tistory.com/114)
