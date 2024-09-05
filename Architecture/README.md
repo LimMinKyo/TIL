@@ -28,6 +28,8 @@
 
 - [어플리케이션은 완벽할 수 없다. 다만 완벽을 지향할 뿐.](https://velog.io/@joshuara7235/%EC%96%B4%ED%94%8C%EB%A6%AC%EC%BC%80%EC%9D%B4%EC%85%98%EC%9D%80-%EC%99%84%EB%B2%BD%ED%95%A0-%EC%88%98-%EC%97%86%EB%8B%A4.-%EB%8B%A4%EB%A7%8C-%EC%99%84%EB%B2%BD%EC%9D%84-%EC%A7%80%ED%96%A5%ED%95%A0-%EB%BF%90)
 
+- [동시성 문제를 극복해보자 - (feat. DB 락과 Redis 분산락)](https://velog.io/@joshuara7235/%EB%8F%99%EC%8B%9C%EC%84%B1-%EB%AC%B8%EC%A0%9C%EB%A5%BC-%EA%B7%B9%EB%B3%B5%ED%95%B4%EB%B3%B4%EC%9E%90-feat-DB-%EB%9D%BD%EA%B3%BC-Redis-%EB%B6%84%EC%82%B0%EB%9D%BD)
+
 ## 디자인 패턴
 
 - [개발자라면 "무조건" 디자인 패턴을 배워야한다?](https://www.youtube.com/watch?v=Pzy_MPfGixg)
