@@ -19,5 +19,3 @@
 - [인공지능 시대 개발자의 전망 영상에 달린, 좋은 댓글 같이 읽기](https://www.youtube.com/watch?v=HUyt-aKplXw)
 
 - [내가 더이상 코파일럿을 쓰지않는 이유](https://www.youtube.com/watch?v=rMg-0sBEloA)
-
-- [이젠 좀 더 큰 바다로 항해를 떠나보자 - 항해플러스 5기 최종 회고](https://velog.io/@joshuara7235/%EC%9D%B4%EC%A0%A0-%EC%A2%80-%EB%8D%94-%ED%81%B0-%EB%B0%94%EB%8B%A4%EB%A1%9C-%ED%95%AD%ED%95%B4%EB%A5%BC-%EB%96%A0%EB%82%98%EB%B3%B4%EC%9E%90-%ED%95%AD%ED%95%B4%ED%94%8C%EB%9F%AC%EC%8A%A4-5%EA%B8%B0-%EC%B5%9C%EC%A2%85-%ED%9A%8C%EA%B3%A0#%EC%A7%80%EB%82%9C-%ED%9A%8C%EA%B3%A0-%EB%B3%B4%EB%9F%AC%EA%B0%80%EA%B8%B0)
