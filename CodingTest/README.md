@@ -12,6 +12,8 @@
 
 - [[코딩문] 코딩테스트 템플릿](https://codingmoon.io/coding-template/)
 
+- [2022 코딩 테스트 후기 (라인, 오늘의 집, 네이버, 카카오 , 넥토리얼, KT, SSAFY, 넷마블 ...)](https://codingnotes.tistory.com/164)
+
 ## 개발자로 취직하기님의 알고리즘 3분 요약
 
 - [그리디 탐욕 Greedy 알고리즘 설명 7분만에 이해하기](https://www.youtube.com/watch?v=_IZuE7NIeW4&list=PLlV7zJmoG4XJMkxuBRgkpdX89tL6aXl6q&index=6)
