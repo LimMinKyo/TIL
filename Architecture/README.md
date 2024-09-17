@@ -41,3 +41,5 @@
 - [당신이 이 디자인 패턴을 배워야하는 이유?! 😱](https://www.youtube.com/watch?v=bdcxCpB68Xs)
 
 - [복잡한 건 감추고 간단한 것만 드러내는 퍼서드 패턴](https://youtube.com/shorts/XtEDCLh_Ltc?si=TZ6OrOq9pMmo9ERT)
+
+- [매번 물어보기 귀찮으니 다 되면 알려주세요 옵저버 패턴(observer design pattern)](https://www.youtube.com/shorts/viEQexNQQy8?si=_kFE_R0Wxmn7bzD3)
