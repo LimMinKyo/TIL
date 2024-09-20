@@ -68,6 +68,8 @@
 
 - [프론트엔드에서 가장 중요한데 가장 안하는거](https://www.youtube.com/watch?v=_8deUuO0iJ8)
 
+- [ChatGPT가 Next.js에서 Remix로 갈아탔대!](https://velog.io/@supremgy/ChatGPT%EA%B0%80-Next.js%EC%97%90%EC%84%9C-Remix%EB%A1%9C-%EA%B0%88%EC%95%84%ED%83%94%EB%8D%B0)
+
 ## Korean FE Article
 
 - [(번역) 프런트엔드의 미래 탐색하기](https://ykss.netlify.app/translation/navigating_the_future_of_frontend)
