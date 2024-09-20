@@ -160,6 +160,8 @@
 
 - [자바스크립트 프로젝트에서 스크립트 활용하기 (npm run)](https://www.daleseo.com/js-npm-run-script/)
 
+- [(번역) 고급 수준의 자바스크립트 제너레이터에 대한 설명](https://velog.io/@tap_kim/understanding-generators-in-javascript)
+
 ## Date
 
 - [왜 내가 작성한 JavaScript Date 코드가 서버에서는 다르게 보이는 거죠?](https://wormwlrm.github.io/2022/09/08/JavaScript-Date.html)
