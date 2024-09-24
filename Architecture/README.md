@@ -34,6 +34,10 @@
 
 - [대량의 트래픽이 몰려올 때 나는 어떻게 해야하나? - (feat. Cache, 대기열 구현)](https://velog.io/@joshuara7235/%EB%8C%80%EB%9F%89%EC%9D%98-%ED%8A%B8%EB%9E%98%ED%94%BD%EC%9D%B4-%EB%AA%B0%EB%A0%A4%EC%98%AC-%EB%95%8C-%EB%82%98%EB%8A%94-%EC%96%B4%EB%96%BB%EA%B2%8C-%ED%95%B4%EC%95%BC%ED%95%98%EB%82%98-feat.-Cache-%EB%8C%80%EA%B8%B0%EC%97%B4-%EA%B5%AC%ED%98%84)
 
+- [MSA를 찍먹해보자. - feat. Saga Pattern](https://velog.io/@joshuara7235/MSA%EB%A5%BC-%EC%B0%8D%EB%A8%B9%ED%95%B4%EB%B3%B4%EC%9E%90.-feat.-Saga-Pattern)
+
+- [Kafka 를 찍먹해보자. - feat. Transactional Outbox Pattern](https://velog.io/@joshuara7235/Kafka-%EB%A5%BC-%EC%B0%8D%EB%A8%B9%ED%95%B4%EB%B3%B4%EC%9E%90.-feat.-Transactional-Outbox-Pattern)
+
 ## 디자인 패턴
 
 - [개발자라면 "무조건" 디자인 패턴을 배워야한다?](https://www.youtube.com/watch?v=Pzy_MPfGixg)
