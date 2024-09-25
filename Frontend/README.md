@@ -70,6 +70,8 @@
 
 - [ChatGPT가 Next.js에서 Remix로 갈아탔대!](https://velog.io/@supremgy/ChatGPT%EA%B0%80-Next.js%EC%97%90%EC%84%9C-Remix%EB%A1%9C-%EA%B0%88%EC%95%84%ED%83%94%EB%8D%B0)
 
+- [프론트엔드 개발자 관점으로 바라보는 관심사의 분리와 좋은 폴더 구조 (feat. FSD)](https://velog.io/@teo/separation-of-concerns-of-frontend)
+
 ## Korean FE Article
 
 - [(번역) 프런트엔드의 미래 탐색하기](https://ykss.netlify.app/translation/navigating_the_future_of_frontend)
