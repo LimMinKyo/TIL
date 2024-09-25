@@ -33,3 +33,5 @@
 - [항해의 중간지점, 나는 얼마나 성장했나.](https://velog.io/@joshuara7235/%ED%95%AD%ED%95%B4%EC%9D%98-%EC%A4%91%EA%B0%84%EC%A7%80%EC%A0%90-%EB%82%98%EB%8A%94-%EC%96%BC%EB%A7%88%EB%82%98-%EC%84%B1%EC%9E%A5%ED%96%88%EB%82%98)
 
 - [이젠 좀 더 큰 바다로 항해를 떠나보자 - 항해플러스 5기 최종 회고](https://velog.io/@joshuara7235/%EC%9D%B4%EC%A0%A0-%EC%A2%80-%EB%8D%94-%ED%81%B0-%EB%B0%94%EB%8B%A4%EB%A1%9C-%ED%95%AD%ED%95%B4%EB%A5%BC-%EB%96%A0%EB%82%98%EB%B3%B4%EC%9E%90-%ED%95%AD%ED%95%B4%ED%94%8C%EB%9F%AC%EC%8A%A4-5%EA%B8%B0-%EC%B5%9C%EC%A2%85-%ED%9A%8C%EA%B3%A0#%EC%A7%80%EB%82%9C-%ED%9A%8C%EA%B3%A0-%EB%B3%B4%EB%9F%AC%EA%B0%80%EA%B8%B0)
+
+- [자바 vs Node, 향로의 선택은?](https://www.youtube.com/watch?v=wZt0uzrfxrY)
