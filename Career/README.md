@@ -37,3 +37,5 @@
 - [향로 CTO가 성장해 온 길](https://www.youtube.com/watch?v=4mAZBs-46eQ)
 
 - [자바 vs Node, 향로의 선택은?](https://www.youtube.com/watch?v=wZt0uzrfxrY)
+
+- [코딩으로 원하는 인생 사는 법](https://www.youtube.com/watch?v=d4aeDT9kDVg)
