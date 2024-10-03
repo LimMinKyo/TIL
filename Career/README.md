@@ -39,3 +39,5 @@
 - [자바 vs Node, 향로의 선택은?](https://www.youtube.com/watch?v=wZt0uzrfxrY)
 
 - [코딩으로 원하는 인생 사는 법](https://www.youtube.com/watch?v=d4aeDT9kDVg)
+
+- [직장인이 대학원 다닐 수 있나요? 💬 대기업 개발자가 야간 대학원 다니는 이유 | 직장인 특수대학원, 학비, 시간관리, 자기계발](https://www.youtube.com/watch?v=Fx_okfRb7lY)
