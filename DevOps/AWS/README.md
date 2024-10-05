@@ -29,3 +29,5 @@
 ## 자격증
 
 - [AWS SAA-C03 8일 벼락치기 합격 후기](https://leeeeeyeon-dev.tistory.com/114)
+
+- [제가 알고 있는 AWS 자격증 시험 팁/노하우/정보 모두 알려드립니다 (50% 할인 중!)](https://www.youtube.com/watch?v=T17iGqvYi6s)
