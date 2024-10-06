@@ -49,3 +49,5 @@
 - [매번 물어보기 귀찮으니 다 되면 알려주세요 옵저버 패턴(observer design pattern)](https://www.youtube.com/shorts/viEQexNQQy8?si=_kFE_R0Wxmn7bzD3)
 
 - [복잡한 조합을 간단하게 바꾸는 브릿지 패턴(bridge design pattern)](https://www.youtube.com/shorts/-zV5H18Mfqo)
+
+- [상태가 복잡할 때 쓰는 상태 패턴(state design pattern)](https://www.youtube.com/shorts/rkCzAzMInAA)
