@@ -81,3 +81,5 @@
 - [(번역) 배경 이미지가 CLS를 유발할 수 있습니다.](https://velog.io/@tap_kim/Your-background-images-might-be-causing-CLS)
 
 - [(번역) 자바스크립트를 이용한 재시도 로직 구현하기](https://velog.io/@tap_kim/implement-retry-logic-using-javascript)
+
+- [(번역) 웹 페이지가 로드되기 전에 더 빠르게 만드는 방법](https://ykss.netlify.app/translation/how_to_make_your_web_page_faster_before_it_even_loads/)
