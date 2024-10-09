@@ -29,3 +29,5 @@
 - [Bit(Binary digit) Byte 의 고찰](https://medium.com/zigbang/bit-binary-digit-byte-%EC%9D%98-%EA%B3%A0%EC%B0%B0-ebefe5afb8d3)
 
 - [인터넷 요금제 비싼거 쓸 필요 없음](https://www.youtube.com/shorts/AqxeibwF13I)
+
+- [프로그래머 면접 질문: 3 way handshake를 설명하시오! (TCP)](https://www.youtube.com/shorts/yBY8X-8OWwM)
