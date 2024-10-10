@@ -22,6 +22,8 @@
 
 - [[AWS] 📚 VPC 개념 & 사용 - 사설 IP 통신망 [NAT Gateway / Bastion Host]](https://inpa.tistory.com/entry/AWS-%F0%9F%93%9A-VPC-%EA%B0%9C%EB%85%90-%EC%82%AC%EC%9A%A9-%EC%82%AC%EC%84%A4-IP-%ED%86%B5%EC%8B%A0%EB%A7%9D-NAT-Gateway-Bastion-Host#bastion_host_%EC%8B%A4%EC%A0%84_%EA%B5%AC%EC%B6%95%ED%95%98%EA%B8%B0)
 
+- [[디커플링 애플리케이션] SQS - Message Visibility Timeout](https://ssunw.tistory.com/entry/%EB%94%94%EC%BB%A4%ED%94%8C%EB%A7%81-%EC%95%A0%ED%94%8C%EB%A6%AC%EC%BC%80%EC%9D%B4%EC%85%98-SQS-Message-Visibility-Timeout)
+
 ## RDS
 
 - [no pg_hba.conf entry for host "<IP>", user "<user>", database "<name>", no encryption 오류 해결](https://velog.io/@mechauk418/DRF-no-pghba.conf-entry-for-host-IP-user-user-database-name-no-encryption-%EC%98%A4%EB%A5%98-%ED%95%B4%EA%B2%B0%EB%B2%95)
