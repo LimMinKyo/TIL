@@ -7,3 +7,5 @@
 - [내 사이드 프로젝트가 의미 없는 이유.](https://velog.io/@whatever/%EB%82%B4-%EC%82%AC%EC%9D%B4%EB%93%9C-%ED%94%84%EB%A1%9C%EC%A0%9D%ED%8A%B8%EA%B0%80-%EC%9D%98%EB%AF%B8-%EC%97%86%EB%8A%94-%EC%9D%B4%EC%9C%A0)
 
 - [두둥! Your Concert Life](https://devnm.notion.site/Your-Concert-Life-d6f07d14eea64faf97aec6ed28d2b5e2)
+
+- [내가 6일 만에 앱 런칭한 비법?!](https://www.youtube.com/watch?v=DnLTGBo5KM8)
