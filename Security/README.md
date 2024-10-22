@@ -8,6 +8,4 @@
 
 - [CORS 개념 정리(preflight, simple, credentialed request)+SOP](https://velog.io/@wiostz98kr/CORS%EC%9D%98-%EB%AA%A8%EB%93%A0-%EA%B2%83)
 
-- [프로그래머 면접 질문: CORS 문제에 대해 설명하시오](https://www.youtube.com/shorts/WndQfplpDJc)
-
-- [프로그래머 면접 질문: CSRF 공격과 방어법에 대해 설명하시오!](https://www.youtube.com/shorts/IPjMfr1ZBTE)
+- [개발자도구가 열려도 안전한 사이트를 만듭시다!!!](https://www.youtube.com/shorts/UQuKHudhJ84)

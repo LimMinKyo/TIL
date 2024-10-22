@@ -116,8 +116,6 @@
 
 - [오늘 리액트 컴파일러를 사용해 봤는데, 어땠을 것 같나요? 😉](https://junghan92.medium.com/%EC%98%A4%EB%8A%98-%EB%A6%AC%EC%95%A1%ED%8A%B8-%EC%BB%B4%ED%8C%8C%EC%9D%BC%EB%9F%AC%EB%A5%BC-%EC%82%AC%EC%9A%A9%ED%95%B4-%EB%B4%A4%EB%8A%94%EB%8D%B0-%EC%96%B4%EB%95%A0%EC%9D%84-%EA%B2%83-%EA%B0%99%EB%82%98%EC%9A%94-ece57f076b02)
 
-- [프로그래머 면접 질문: 버추얼돔에 대해 설명하시오!](https://www.youtube.com/shorts/3MCVajJY1Rk)
-
 ## React-Query
 
 - [react-query](https://velog.io/@jkl1545/React-Query)
