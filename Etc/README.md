@@ -13,3 +13,5 @@
 - [파이어베이스 킬러? 요즘 대세는 수파베이스!](https://www.youtube.com/watch?v=tvX9f8FqMFI)
 
 - [개발자를 위한 블로그 플랫폼 비교분석 (naver, tisotry, velog, medium, github, blogger...?)](https://velog.io/@choco_sister/%EA%B8%B0%EC%88%A0%EB%B8%94%EB%A1%9C%EA%B7%B8%EC%84%A0%ED%83%9D%ED%95%98%EA%B8%B0)
+
+- [typia - 런타임 타입 검사의 혁신](https://www.youtube.com/shorts/9z_gJVvTTuQ)
