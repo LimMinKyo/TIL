@@ -72,6 +72,8 @@
 
 - [프론트엔드 개발자 관점으로 바라보는 관심사의 분리와 좋은 폴더 구조 (feat. FSD)](https://velog.io/@teo/separation-of-concerns-of-frontend)
 
+- [개발자도구 꿀팁 2탄: 숨겨진 함수들](https://www.youtube.com/shorts/brfNa-dHqRE)
+
 ## Korean FE Article
 
 - [(번역) 프런트엔드의 미래 탐색하기](https://ykss.netlify.app/translation/navigating_the_future_of_frontend)
