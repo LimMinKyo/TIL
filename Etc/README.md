@@ -15,3 +15,5 @@
 - [개발자를 위한 블로그 플랫폼 비교분석 (naver, tisotry, velog, medium, github, blogger...?)](https://velog.io/@choco_sister/%EA%B8%B0%EC%88%A0%EB%B8%94%EB%A1%9C%EA%B7%B8%EC%84%A0%ED%83%9D%ED%95%98%EA%B8%B0)
 
 - [typia - 런타임 타입 검사의 혁신](https://www.youtube.com/shorts/9z_gJVvTTuQ)
+
+- [누구나 코딩으로 영상 편집 하는 방법..!?](https://www.youtube.com/watch?v=z2iodiQW0fg)
