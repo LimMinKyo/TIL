@@ -162,6 +162,8 @@
 
 - [(번역) 고급 수준의 자바스크립트 제너레이터에 대한 설명](https://velog.io/@tap_kim/understanding-generators-in-javascript)
 
+- [나만 몰랐던 것 같은 개발자도구 콘솔로그 팁](https://www.youtube.com/shorts/lMZZQoBzjCw)
+
 ## Date
 
 - [왜 내가 작성한 JavaScript Date 코드가 서버에서는 다르게 보이는 거죠?](https://wormwlrm.github.io/2022/09/08/JavaScript-Date.html)
