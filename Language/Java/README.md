@@ -9,3 +9,5 @@
 - [[자바] Java 8 버전 특징](https://velog.io/@skyepodium/%EC%9E%90%EB%B0%94-Java-8-%EB%B2%84%EC%A0%84-%ED%8A%B9%EC%A7%95)
 
 - [JAVA char형 비교](https://velog.io/@sungmo738/JAVA-char%ED%98%95-%EB%B9%84%EA%B5%90)
+
+- [[Stream] boxed()](https://velog.io/@chaeeun2030/Stream-boxed)
