@@ -43,3 +43,5 @@
 - [직장인이 대학원 다닐 수 있나요? 💬 대기업 개발자가 야간 대학원 다니는 이유 | 직장인 특수대학원, 학비, 시간관리, 자기계발](https://www.youtube.com/watch?v=Fx_okfRb7lY)
 
 - [서류 탈락한 회사에서 이직 제안이 온 이유?](https://velog.io/@k-svelte-master/why-company-contact-me-again)
+
+- [스포티파이 본사 개발자의 승진과정](https://www.youtube.com/watch?v=Uc_GuzeGhZ8)
