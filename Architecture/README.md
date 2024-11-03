@@ -53,3 +53,5 @@
 - [복잡한 조합을 간단하게 바꾸는 브릿지 패턴(bridge design pattern)](https://www.youtube.com/shorts/-zV5H18Mfqo)
 
 - [상태가 복잡할 때 쓰는 상태 패턴(state design pattern)](https://www.youtube.com/shorts/rkCzAzMInAA)
+
+- [다양한 명령을 같은 형태로, 커맨드 패턴(command design pattern)](https://www.youtube.com/shorts/7q6ysbGRSqc)
