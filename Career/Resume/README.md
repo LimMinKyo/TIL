@@ -15,3 +15,5 @@
 - [박우빈님 이력서 | 랠릿](https://www.rallit.com/hub/resumes/38234/%EB%B0%95%EC%9A%B0%EB%B9%88?isExpanded=true)
 
 - [서류탈락 80%, '이것' 때문에 떨어진다.](https://velog.io/@whatever/%EC%84%9C%EB%A5%98%ED%83%88%EB%9D%BD-80-%EC%9D%B4%EA%B2%83-%EB%95%8C%EB%AC%B8%EC%97%90-%EB%96%A8%EC%96%B4%EC%A7%84%EB%8B%A4)
+
+- [내 이력서는 폐급일까? | 3년차 프론트엔드 개발자 경력직 이직 멘토링](https://www.youtube.com/watch?v=MMMy2GM3hkw)
