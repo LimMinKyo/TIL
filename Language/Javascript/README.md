@@ -206,6 +206,8 @@
 
 - [JavasScript's New Keyword: "using"!](https://www.youtube.com/watch?v=-NmwyJ5S-IY)
 
+- [effect 라이브러리를 추천하는 이유(함수 에러 타이핑)](https://www.youtube.com/shorts/MzFCHctD0lM)
+
 ## 에러 해결
 
 - [Error: EACCES: permission denied 문제 해결 방법](https://brtech.tistory.com/124)
