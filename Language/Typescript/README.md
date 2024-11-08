@@ -81,3 +81,7 @@
 - [타입도 진화를 한답니다(any를 피하기 위한 타입 추론)](https://youtube.com/shorts/2odbvMihuGs?si=30SmwgA4vGDw4DJD)
 
 - [(번역) TypeScript Branded Types로 런타임 타입 안정성 개선하기](https://siosio3103.medium.com/typescript-branded-types%EB%A1%9C-%EB%9F%B0%ED%83%80%EC%9E%84-%ED%83%80%EC%9E%85-%EC%95%88%EC%A0%95%EC%84%B1-%EA%B0%9C%EC%84%A0%ED%95%98%EA%B8%B0-768222c8df0d)
+
+## 에러 해결
+
+- [error TS2339: Property 'user' does not exist on type 'Reqeust'.](https://velog.io/@sinf/error-TS2339-Property-user-does-not-exist-on-type-Reqeust)
