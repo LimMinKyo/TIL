@@ -25,3 +25,5 @@
 - [[database] 낙관적 락(Optimistic Lock)과 비관적 락(Pessimistic Lock)](https://sabarada.tistory.com/175)
 
 - [NodeJS 와 PostgreSQL Query Timeout](https://jojoldu.tistory.com/631)
+
+- [NOT IN 쿼리 성능 개선하기 (PostgreSQL)](https://jojoldu.tistory.com/632)
