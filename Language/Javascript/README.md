@@ -208,6 +208,8 @@
 
 - [effect 라이브러리를 추천하는 이유(함수 에러 타이핑)](https://www.youtube.com/shorts/MzFCHctD0lM)
 
+- [[SOCKET] 📚 Socket.IO 사용 해보기](https://inpa.tistory.com/entry/SOCKET-%F0%9F%93%9A-SocketIO-%EC%82%AC%EC%9A%A9-%ED%95%B4%EB%B3%B4%EA%B8%B0)
+
 ## 에러 해결
 
 - [Error: EACCES: permission denied 문제 해결 방법](https://brtech.tistory.com/124)
