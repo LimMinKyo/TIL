@@ -45,3 +45,5 @@
 - [서류 탈락한 회사에서 이직 제안이 온 이유?](https://velog.io/@k-svelte-master/why-company-contact-me-again)
 
 - [스포티파이 본사 개발자의 승진과정](https://www.youtube.com/watch?v=Uc_GuzeGhZ8)
+
+- [풀스택 개발자가 진짜 있을까? & 연봉 올리는 방법](https://www.youtube.com/watch?v=EnCmKHDEq-8)
