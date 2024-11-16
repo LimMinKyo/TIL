@@ -95,3 +95,5 @@
 - [k6 vs JMeter, 어느 성능 테스트 도구를 써야 할까?](https://velog.io/@yongtae923/k6-vs-JMeter)
 
 - [🧪 Artillery 부하 테스트 사용법](https://inpa.tistory.com/entry/JEST-%F0%9F%93%9A-%EB%B6%80%ED%95%98-%ED%85%8C%EC%8A%A4%ED%8A%B8-Stress-Test)
+
+- [대용량 트래픽은 어떻게 테스트해야할까? 60만 RPM 테스트하기 (K6, AWS, EC2, 테스트, 성능테스트)](https://vince-kim.tistory.com/m/39)
