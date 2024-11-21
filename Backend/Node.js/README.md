@@ -22,6 +22,8 @@
 
 - [[NODE] 📚 버퍼 / 스트림 / 파이프 문법 💯 정리](https://inpa.tistory.com/entry/NODE-%F0%9F%93%9A-%EB%B2%84%ED%8D%BC-%EC%8A%A4%ED%8A%B8%EB%A6%BC-%ED%8C%8C%EC%9D%B4%ED%94%84-%EC%A0%95%EB%A6%AC)
 
+- [[NODE] 📚 PM2 모듈 사용법 - 클러스터 / 무중단 서비스](https://inpa.tistory.com/entry/node-%F0%9F%93%9A-PM2-%EB%AA%A8%EB%93%88-%EC%82%AC%EC%9A%A9%EB%B2%95-%ED%81%B4%EB%9F%AC%EC%8A%A4%ED%84%B0-%EB%AC%B4%EC%A4%91%EB%8B%A8-%EC%84%9C%EB%B9%84%EC%8A%A4)
+
 ## nvm
 
 - [원활한 협업을 위한 .nvmrc](https://univdev.page/posts/nvmrc/)
