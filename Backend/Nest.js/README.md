@@ -74,6 +74,8 @@
 
 - [2. NestJS & TypeORM 환경에서 Monorepo 구성하기 - TypeORM 추가하기](https://jojoldu.tistory.com/597)
 
+- [[Nestjs] req.user의 Type 지정하기](https://velog.io/@linho1150/Nestjs-req.user의-Type-지정하기)
+
 ## Building a REST API with NestJS and Prisma
 
 1. [Building a REST API with NestJS and Prisma](https://www.prisma.io/blog/nestjs-prisma-rest-api-7D056s1BmOL0)
