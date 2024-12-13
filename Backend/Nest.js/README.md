@@ -76,6 +76,8 @@
 
 - [[Nestjs] req.user의 Type 지정하기](https://velog.io/@linho1150/Nestjs-req.user의-Type-지정하기)
 
+- [[nestjs] 핀테크 벡엔드 개발자가 알려주는 인증 & 인가 시스템 4편 - 깃허브/구글 oauth 인증](https://m.blog.naver.com/pjt3591oo/223137573151)
+
 ## Building a REST API with NestJS and Prisma
 
 1. [Building a REST API with NestJS and Prisma](https://www.prisma.io/blog/nestjs-prisma-rest-api-7D056s1BmOL0)
