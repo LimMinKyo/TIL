@@ -164,6 +164,8 @@
 
 - [나만 몰랐던 것 같은 개발자도구 콘솔로그 팁](https://www.youtube.com/shorts/lMZZQoBzjCw)
 
+- [[JS] tilde(~)과 double tilde(~~)연산자](https://velog.io/@proshy/JS-tilde과-double-tilde연산자)
+
 ## Date
 
 - [왜 내가 작성한 JavaScript Date 코드가 서버에서는 다르게 보이는 거죠?](https://wormwlrm.github.io/2022/09/08/JavaScript-Date.html)
