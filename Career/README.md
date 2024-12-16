@@ -47,3 +47,5 @@
 - [스포티파이 본사 개발자의 승진과정](https://www.youtube.com/watch?v=Uc_GuzeGhZ8)
 
 - [풀스택 개발자가 진짜 있을까? & 연봉 올리는 방법](https://www.youtube.com/watch?v=EnCmKHDEq-8)
+
+- [성장하지 않아도 잘 살아가는 방법 1](https://velog.io/@backfox/%EC%84%B1%EC%9E%A5%ED%95%98%EC%A7%80-%EC%95%8A%EC%95%84%EB%8F%84-%EC%9E%98-%EC%82%B4%EC%95%84%EA%B0%80%EB%8A%94-%EB%B0%A9%EB%B2%95-1-m3pfe9a8)
