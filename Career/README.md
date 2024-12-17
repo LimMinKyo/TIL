@@ -49,3 +49,5 @@
 - [풀스택 개발자가 진짜 있을까? & 연봉 올리는 방법](https://www.youtube.com/watch?v=EnCmKHDEq-8)
 
 - [성장하지 않아도 잘 살아가는 방법 1](https://velog.io/@backfox/%EC%84%B1%EC%9E%A5%ED%95%98%EC%A7%80-%EC%95%8A%EC%95%84%EB%8F%84-%EC%9E%98-%EC%82%B4%EC%95%84%EA%B0%80%EB%8A%94-%EB%B0%A9%EB%B2%95-1-m3pfe9a8)
+
+- [평범한 3년차 개발자의 회고글](https://velog.io/@leehyunho2001/%ED%8F%89%EB%B2%94%ED%95%9C-3%EB%85%84%EC%B0%A8-%EA%B0%9C%EB%B0%9C%EC%9E%90%EC%9D%98-%ED%9A%8C%EA%B3%A0%EA%B8%80)
