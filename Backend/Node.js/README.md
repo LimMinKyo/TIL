@@ -24,6 +24,8 @@
 
 - [[NODE] 📚 PM2 모듈 사용법 - 클러스터 / 무중단 서비스](https://inpa.tistory.com/entry/node-%F0%9F%93%9A-PM2-%EB%AA%A8%EB%93%88-%EC%82%AC%EC%9A%A9%EB%B2%95-%ED%81%B4%EB%9F%AC%EC%8A%A4%ED%84%B0-%EB%AC%B4%EC%A4%91%EB%8B%A8-%EC%84%9C%EB%B9%84%EC%8A%A4)
 
+- [Nodemailer + Gmail OAuth2.0으로 이메일 발송기능 구현하기](https://iamiet.tistory.com/entry/Nodemailer-Gmail-OAuth20%EC%9C%BC%EB%A1%9C-%EC%9D%B4%EB%A9%94%EC%9D%BC-%EB%B0%9C%EC%86%A1%EA%B8%B0%EB%8A%A5-%EA%B5%AC%ED%98%84%ED%95%98%EA%B8%B0)
+
 ## nvm
 
 - [원활한 협업을 위한 .nvmrc](https://univdev.page/posts/nvmrc/)
