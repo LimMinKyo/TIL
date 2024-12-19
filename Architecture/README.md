@@ -40,6 +40,8 @@
 
 - [💠 객체 지향 설계의 5가지 원칙 - S.O.L.I.D](https://inpa.tistory.com/entry/OOP-%F0%9F%92%A0-%EA%B0%9D%EC%B2%B4-%EC%A7%80%ED%96%A5-%EC%84%A4%EA%B3%84%EC%9D%98-5%EA%B0%80%EC%A7%80-%EC%9B%90%EC%B9%99-SOLID)
 
+- [모노레포 이렇게 좋은데 왜 안써요?](https://medium.com/musinsa-tech/journey-of-a-frontend-monorepo-8f5480b80661)
+
 ## 디자인 패턴
 
 - [개발자라면 "무조건" 디자인 패턴을 배워야한다?](https://www.youtube.com/watch?v=Pzy_MPfGixg)
