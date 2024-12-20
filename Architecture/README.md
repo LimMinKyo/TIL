@@ -42,6 +42,8 @@
 
 - [모노레포 이렇게 좋은데 왜 안써요?](https://medium.com/musinsa-tech/journey-of-a-frontend-monorepo-8f5480b80661)
 
+- [나야, 주문 - 주문시스템의 도전과 성장 이야기](https://medium.com/musinsa-tech/%EB%82%98%EC%95%BC-%EC%A3%BC%EB%AC%B8-%EC%A3%BC%EB%AC%B8%EC%8B%9C%EC%8A%A4%ED%85%9C%EC%9D%98-%EB%8F%84%EC%A0%84%EA%B3%BC-%EC%84%B1%EC%9E%A5-%EC%9D%B4%EC%95%BC%EA%B8%B0-744b4bece5b8)
+
 ## 디자인 패턴
 
 - [개발자라면 "무조건" 디자인 패턴을 배워야한다?](https://www.youtube.com/watch?v=Pzy_MPfGixg)
