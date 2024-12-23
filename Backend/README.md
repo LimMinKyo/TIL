@@ -31,3 +31,5 @@
 - [출시 예정 게임의 정보를 수집해보자 - Steam편](https://velog.io/@grit_munhyeok/%EA%B2%9C%EB%A6%B0%EB%8D%94-%EC%8A%A4%ED%81%AC%EB%9E%98%ED%95%91-%EB%B4%87-%EC%A0%9C%EC%9E%91%EA%B8%B0-Steam)
 
 - [약 2300개의 게임을 수집해 DB에 저장하기 (데이터 파이프라인)](https://velog.io/@grit_munhyeok/%EC%95%BD-2300%EA%B0%9C%EC%9D%98-%EA%B2%8C%EC%9E%84%EC%9D%84-%EC%88%98%EC%A7%91%ED%95%B4-DB%EC%97%90-%EC%A0%80%EC%9E%A5%ED%95%98%EA%B8%B0)
+
+- [게임 데이터 수집 봇 파이프라인 개선하기](https://velog.io/@grit_munhyeok/%EA%B2%8C%EC%9E%84-%EB%8D%B0%EC%9D%B4%ED%84%B0-%EC%88%98%EC%A7%91-%EB%B4%87-%EB%AC%B8%EC%A0%9C%EC%A0%90-%EB%B0%8F-%EA%B0%9C%EC%84%A0%ED%95%98%EA%B8%B0)
