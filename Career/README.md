@@ -53,3 +53,5 @@
 - [평범한 3년차 개발자의 회고글](https://velog.io/@leehyunho2001/%ED%8F%89%EB%B2%94%ED%95%9C-3%EB%85%84%EC%B0%A8-%EA%B0%9C%EB%B0%9C%EC%9E%90%EC%9D%98-%ED%9A%8C%EA%B3%A0%EA%B8%80)
 
 - [28살 SSAFY 전공자 프론트엔드 포트폴리오 (Next.js, Typescript)](https://www.youtube.com/watch?v=kkZ-o9q6MDU)
+
+- [나는 잘하는 개발자인가?](https://velog.io/@boy672820/%EB%82%98%EB%8A%94-%EC%9E%98%ED%95%98%EB%8A%94-%EA%B0%9C%EB%B0%9C%EC%9E%90%EC%9D%B8%EA%B0%80)
