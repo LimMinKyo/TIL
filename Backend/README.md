@@ -27,3 +27,5 @@
 - [람보르기니와 지프랭글러](https://jojoldu.tistory.com/677)
 
 - [[ORM] Active Record Vs. Data Mapper pattern](https://velog.io/@nittre/ORM-Active-Record-Vs.-Data-Mapper-pattern)
+
+- [출시 예정 게임의 정보를 수집해보자 - Steam편](https://velog.io/@grit_munhyeok/%EA%B2%9C%EB%A6%B0%EB%8D%94-%EC%8A%A4%ED%81%AC%EB%9E%98%ED%95%91-%EB%B4%87-%EC%A0%9C%EC%9E%91%EA%B8%B0-Steam)
