@@ -9,3 +9,5 @@
 - [두둥! Your Concert Life](https://devnm.notion.site/Your-Concert-Life-d6f07d14eea64faf97aec6ed28d2b5e2)
 
 - [내가 6일 만에 앱 런칭한 비법?!](https://www.youtube.com/watch?v=DnLTGBo5KM8)
+
+- [겜린더 출시 후기](https://velog.io/@grit_munhyeok/%EA%B2%9C%EB%A6%B0%EB%8D%94-%EC%B6%9C%EC%8B%9C-%ED%9B%84%EA%B8%B0)
