@@ -78,6 +78,8 @@
 
 - [[nestjs] 핀테크 벡엔드 개발자가 알려주는 인증 & 인가 시스템 4편 - 깃허브/구글 oauth 인증](https://m.blog.naver.com/pjt3591oo/223137573151)
 
+- [Nest.js에서 Socket Test작성하기](https://medium.com/@jinsung1048/nest-js%EC%97%90%EC%84%9C-socket-test%EC%9E%91%EC%84%B1%ED%95%98%EA%B8%B0-184cd66b9f6a)
+
 ## Building a REST API with NestJS and Prisma
 
 1. [Building a REST API with NestJS and Prisma](https://www.prisma.io/blog/nestjs-prisma-rest-api-7D056s1BmOL0)
