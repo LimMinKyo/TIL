@@ -29,3 +29,5 @@
 - [Bit(Binary digit) Byte 의 고찰](https://medium.com/zigbang/bit-binary-digit-byte-%EC%9D%98-%EA%B3%A0%EC%B0%B0-ebefe5afb8d3)
 
 - [인터넷 요금제 비싼거 쓸 필요 없음](https://www.youtube.com/shorts/AqxeibwF13I)
+
+- [웹 브라우저에 URL을 입력하면 어떤 일이 생기나요?](https://aws.amazon.com/ko/blogs/korea/what-happens-when-you-type-a-url-into-your-browser/)
