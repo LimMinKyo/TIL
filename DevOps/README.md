@@ -29,3 +29,5 @@
 - [서버(물리)가 내일 「죽는다」는 각오](https://velog.io/@juunini/server-will-die-tomorrow)
 
 - [라즈베리파이엔 k3s 쓰세요](https://velog.io/@juunini/rpi-k3s-good)
+
+- [월 유지비 1$ 미만으로 마참내 안죽는 on-premise 인프라를 만들었다.](https://velog.io/@juunini/diehard-on-prem-infra-under-one-dollor)
