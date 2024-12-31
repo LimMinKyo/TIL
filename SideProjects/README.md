@@ -13,3 +13,5 @@
 - [겜린더 출시 후기](https://velog.io/@grit_munhyeok/%EA%B2%9C%EB%A6%B0%EB%8D%94-%EC%B6%9C%EC%8B%9C-%ED%9B%84%EA%B8%B0)
 
 - [대학생 혼자서 기획, 디자인, 개발 다 하기](https://velog.io/@yurang_lab/%EB%8C%80%ED%95%99%EC%83%9D-%ED%98%BC%EC%9E%90%EC%84%9C-%EA%B8%B0%ED%9A%8D-%EB%94%94%EC%9E%90%EC%9D%B8-%EA%B0%9C%EB%B0%9C-%EB%8B%A4-%ED%95%98%EA%B8%B0)
+
+- [Sweet-Salty-Server](https://github.com/Sweet-Salty-Project/Sweet-Salty-Server)
