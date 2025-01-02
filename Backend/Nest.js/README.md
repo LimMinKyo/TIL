@@ -80,6 +80,8 @@
 
 - [Nest.js에서 Socket Test작성하기](https://medium.com/@jinsung1048/nest-js%EC%97%90%EC%84%9C-socket-test%EC%9E%91%EC%84%B1%ED%95%98%EA%B8%B0-184cd66b9f6a)
 
+- [JWT를 이용한 로그인(로그아웃)](https://velog.io/@yukina1418/JWT%EB%A5%BC-%EC%9D%B4%EC%9A%A9%ED%95%9C-%EB%A1%9C%EA%B7%B8%EC%9D%B8%EB%A1%9C%EA%B7%B8%EC%95%84%EC%9B%83)
+
 ## Building a REST API with NestJS and Prisma
 
 1. [Building a REST API with NestJS and Prisma](https://www.prisma.io/blog/nestjs-prisma-rest-api-7D056s1BmOL0)
