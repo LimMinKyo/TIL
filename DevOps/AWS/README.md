@@ -24,6 +24,8 @@
 
 - [[디커플링 애플리케이션] SQS - Message Visibility Timeout](https://ssunw.tistory.com/entry/%EB%94%94%EC%BB%A4%ED%94%8C%EB%A7%81-%EC%95%A0%ED%94%8C%EB%A6%AC%EC%BC%80%EC%9D%B4%EC%85%98-SQS-Message-Visibility-Timeout)
 
+- [[AWS] 프리티어 EC2 인스턴스 만드는 방법](https://velog.io/@sunblock99/AWS-%ED%94%84%EB%A6%AC%ED%8B%B0%EC%96%B4-EC2-%EC%9D%B8%EC%8A%A4%ED%84%B4%EC%8A%A4-%EB%A7%8C%EB%93%9C%EB%8A%94-%EB%B0%A9%EB%B2%95)
+
 ## RDS
 
 - [no pg_hba.conf entry for host "<IP>", user "<user>", database "<name>", no encryption 오류 해결](https://velog.io/@mechauk418/DRF-no-pghba.conf-entry-for-host-IP-user-user-database-name-no-encryption-%EC%98%A4%EB%A5%98-%ED%95%B4%EA%B2%B0%EB%B2%95)
