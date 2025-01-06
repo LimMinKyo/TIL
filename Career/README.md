@@ -55,3 +55,5 @@
 - [28살 SSAFY 전공자 프론트엔드 포트폴리오 (Next.js, Typescript)](https://www.youtube.com/watch?v=kkZ-o9q6MDU)
 
 - [나는 잘하는 개발자인가?](https://velog.io/@boy672820/%EB%82%98%EB%8A%94-%EC%9E%98%ED%95%98%EB%8A%94-%EA%B0%9C%EB%B0%9C%EC%9E%90%EC%9D%B8%EA%B0%80)
+
+- [2024년 개발자를 그만둔 사람의 회고글](https://velog.io/@nibble/2024%EB%85%84-%EA%B0%9C%EB%B0%9C%EC%9E%90%EB%A5%BC-%EA%B7%B8%EB%A7%8C%EB%91%94-%EC%82%AC%EB%9E%8C%EC%9D%98-%ED%9A%8C%EA%B3%A0%EA%B8%80)
