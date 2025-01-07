@@ -74,6 +74,8 @@
 
 - [개발자도구 꿀팁 2탄: 숨겨진 함수들](https://www.youtube.com/shorts/brfNa-dHqRE)
 
+- [Mixed Content 문제 해결하기(https에서 http 사이트로 요청)](https://marklee1117.tistory.com/48)
+
 ## Korean FE Article
 
 - [(번역) 프런트엔드의 미래 탐색하기](https://ykss.netlify.app/translation/navigating_the_future_of_frontend)
