@@ -16,6 +16,8 @@
 
 - [[Algorithm] 깊이우선탐색(DFS)과 너비우선탐색(BFS)](https://velog.io/@falling_star3/2.-%EA%B9%8A%EC%9D%B4%EC%9A%B0%EC%84%A0%ED%83%90%EC%83%89DFS%EA%B3%BC-%EB%84%93%EC%9D%B4%EC%9A%B0%EC%84%A0%ED%83%90%EC%83%89BFS)
 
+- [[자료구조] JavaScript로 힙(Heap) 구현하기](https://chamdom.blog/heap-using-js)
+
 ## 개발자로 취직하기님의 알고리즘 3분 요약
 
 - [그리디 탐욕 Greedy 알고리즘 설명 7분만에 이해하기](https://www.youtube.com/watch?v=_IZuE7NIeW4&list=PLlV7zJmoG4XJMkxuBRgkpdX89tL6aXl6q&index=6)
