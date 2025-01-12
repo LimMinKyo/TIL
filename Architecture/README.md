@@ -46,6 +46,8 @@
 
 - [코딩 책 한 권만 읽으면 이렇게 됩니다](https://www.youtube.com/watch?v=th7n1rmlO4I)
 
+- [Threads 앱은 뭘 써서 개발했길래 벌써 유저가 1억일까](https://www.youtube.com/watch?v=YqiROYdkdcs)
+
 ## 디자인 패턴
 
 - [개발자라면 "무조건" 디자인 패턴을 배워야한다?](https://www.youtube.com/watch?v=Pzy_MPfGixg)
