@@ -76,6 +76,8 @@
 
 - [Mixed Content 문제 해결하기(https에서 http 사이트로 요청)](https://marklee1117.tistory.com/48)
 
+- [달리는 기차의 바퀴 갈아끼우기: 인프런 프론트엔드 마이그레이션 여정│인프콘2024](https://www.youtube.com/watch?v=iBEEdMIU6Kk)
+
 ## Korean FE Article
 
 - [(번역) 프런트엔드의 미래 탐색하기](https://ykss.netlify.app/translation/navigating_the_future_of_frontend)
