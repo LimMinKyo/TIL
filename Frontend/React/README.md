@@ -134,6 +134,8 @@
 
 - [React Query - Authentication](https://velog.io/@pjh1011409/React-Query-)
 
+- [(번역) React Query를 사용하여 서버 상태를 관리하는 방법](https://soobing.github.io/react/How-to-manage-server-state-with-React-Query/)
+
 ## React-Hook-Form
 
 - [What type is register from react-hook-form?](https://stackoverflow.com/questions/70442081/what-type-is-register-from-react-hook-form)
