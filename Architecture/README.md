@@ -48,6 +48,8 @@
 
 - [Threads 앱은 뭘 써서 개발했길래 벌써 유저가 1억일까](https://www.youtube.com/watch?v=YqiROYdkdcs)
 
+- [(번역) 코드 다듬기: 개발자를 생각하게 하지 마세요.](https://medium.com/@jiwoochoics/%EB%B2%88%EC%97%AD-%EC%BD%94%EB%93%9C-%EB%8B%A4%EB%93%AC%EA%B8%B0-%EA%B0%9C%EB%B0%9C%EC%9E%90%EB%A5%BC-%EC%83%9D%EA%B0%81%ED%95%98%EA%B2%8C-%ED%95%98%EC%A7%80-%EB%A7%88%EC%84%B8%EC%9A%94-51e1f623044d)
+
 ## 디자인 패턴
 
 - [개발자라면 "무조건" 디자인 패턴을 배워야한다?](https://www.youtube.com/watch?v=Pzy_MPfGixg)
