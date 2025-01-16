@@ -31,3 +31,5 @@
 - [라즈베리파이엔 k3s 쓰세요](https://velog.io/@juunini/rpi-k3s-good)
 
 - [월 유지비 1$ 미만으로 마참내 안죽는 on-premise 인프라를 만들었다.](https://velog.io/@juunini/diehard-on-prem-infra-under-one-dollor)
+
+- [지난 4년간 6번의 무진장 행사를 통해 성장한 DevOps 이야기 | 인프콘2024](https://www.youtube.com/watch?v=t-Xa_Dj22O4&list=PLpkj8RKr48wZQXN874PP1hJkaRm6qcvZg&index=10)
