@@ -78,6 +78,8 @@
 
 - [달리는 기차의 바퀴 갈아끼우기: 인프런 프론트엔드 마이그레이션 여정│인프콘2024](https://www.youtube.com/watch?v=iBEEdMIU6Kk)
 
+- [제대로 된 프론트 개발자들은 이렇게 코딩합니다. (feat. Toss)](https://www.youtube.com/watch?v=DexOHNAvNHo)
+
 ## Korean FE Article
 
 - [(번역) 프런트엔드의 미래 탐색하기](https://ykss.netlify.app/translation/navigating_the_future_of_frontend)
