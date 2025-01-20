@@ -78,6 +78,8 @@
 
 - [달리는 기차의 바퀴 갈아끼우기: 인프런 프론트엔드 마이그레이션 여정│인프콘2024](https://www.youtube.com/watch?v=iBEEdMIU6Kk)
 
+- [7년 동안 하나 만들었습니다: 프론트엔드 개발의 결정적 순간│인프콘2024](https://www.youtube.com/watch?v=XmCcQvqlHs0)
+
 ## Korean FE Article
 
 - [(번역) 프런트엔드의 미래 탐색하기](https://ykss.netlify.app/translation/navigating_the_future_of_frontend)
