@@ -80,6 +80,8 @@
 
 - [7년 동안 하나 만들었습니다: 프론트엔드 개발의 결정적 순간│인프콘2024](https://www.youtube.com/watch?v=XmCcQvqlHs0)
 
+- [제대로 된 프론트 개발자들은 이렇게 코딩합니다. (feat. Toss)](https://www.youtube.com/watch?v=DexOHNAvNHo)
+
 ## Korean FE Article
 
 - [(번역) 프런트엔드의 미래 탐색하기](https://ykss.netlify.app/translation/navigating_the_future_of_frontend)

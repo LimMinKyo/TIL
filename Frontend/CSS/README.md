@@ -61,3 +61,5 @@
 - [(번역) Campfire의 모던 CSS 패턴](https://velog.io/@superlipbalm/modern-css-patterns-and-techniques-in-campfire?utm_source=substack&utm_medium=email)
 
 - [CSS 세로 가운데 정렬(align-self vs align-content vs align-items)](https://www.youtube.com/shorts/6eBkqoUbxWI)
+
+- [2023년 나온 따끈따끈 신상 CSS 알려드림.](https://www.youtube.com/watch?v=vc4DGouf62E)
