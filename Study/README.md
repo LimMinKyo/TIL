@@ -19,3 +19,5 @@
 - [인공지능 시대 개발자의 전망 영상에 달린, 좋은 댓글 같이 읽기](https://www.youtube.com/watch?v=HUyt-aKplXw)
 
 - [내가 더이상 코파일럿을 쓰지않는 이유](https://www.youtube.com/watch?v=rMg-0sBEloA)
+
+- [디버깅 마인드셋: 디버깅의 고통을 절반으로 줄이는 고수들의 행동패턴 따라하기|인프콘2024](https://youtu.be/KkkyYFziOG8?si=qqw_Ln4dQ7RXsDKN)
