@@ -168,6 +168,8 @@
 
 - [[Node.js] javascript: Array의 요소(element)를 swap하는 방법](https://miiingo.tistory.com/364)
 
+- [[Js] 2차원 배열 new Array().fill()로 값 할당할 때 주의할 점](https://aeunhi99.tistory.com/257)
+
 ## Date
 
 - [왜 내가 작성한 JavaScript Date 코드가 서버에서는 다르게 보이는 거죠?](https://wormwlrm.github.io/2022/09/08/JavaScript-Date.html)
