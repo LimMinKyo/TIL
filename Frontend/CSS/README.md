@@ -63,3 +63,5 @@
 - [CSS 세로 가운데 정렬(align-self vs align-content vs align-items)](https://www.youtube.com/shorts/6eBkqoUbxWI)
 
 - [2023년 나온 따끈따끈 신상 CSS 알려드림.](https://www.youtube.com/watch?v=vc4DGouf62E)
+
+- [웹사이트 로딩이 더 빨라지는 매직? 🍯 꿀팁 공유 10분컷!](https://www.youtube.com/watch?v=8EWwyAcqR6o)
