@@ -22,6 +22,8 @@
 
 ## 개발자로 취직하기님의 알고리즘 3분 요약
 
+- [스트링 String 알고리즘 설명 5분만에 이해하기 문자열](https://www.youtube.com/watch?v=E-wokROz5UE&list=PLlV7zJmoG4XJMkxuBRgkpdX89tL6aXl6q&index=5)
+
 - [그리디 탐욕 Greedy 알고리즘 설명 7분만에 이해하기](https://www.youtube.com/watch?v=_IZuE7NIeW4&list=PLlV7zJmoG4XJMkxuBRgkpdX89tL6aXl6q&index=6)
 
 ## 코딩문님의 자바스크립트 코딩테스트 문제풀이

@@ -26,6 +26,8 @@
 
 - [[AWS] 프리티어 EC2 인스턴스 만드는 방법](https://velog.io/@sunblock99/AWS-%ED%94%84%EB%A6%AC%ED%8B%B0%EC%96%B4-EC2-%EC%9D%B8%EC%8A%A4%ED%84%B4%EC%8A%A4-%EB%A7%8C%EB%93%9C%EB%8A%94-%EB%B0%A9%EB%B2%95)
 
+- [그래서 웹서비스 하나 만들었는데 배포는 어떻게함? (AWS)](https://www.youtube.com/watch?v=cOUhREAWJNw)
+
 ## RDS
 
 - [no pg_hba.conf entry for host "<IP>", user "<user>", database "<name>", no encryption 오류 해결](https://velog.io/@mechauk418/DRF-no-pghba.conf-entry-for-host-IP-user-user-database-name-no-encryption-%EC%98%A4%EB%A5%98-%ED%95%B4%EA%B2%B0%EB%B2%95)
