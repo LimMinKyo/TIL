@@ -168,6 +168,8 @@
 
 - [[Node.js] javascript: Array의 요소(element)를 swap하는 방법](https://miiingo.tistory.com/364)
 
+- [[번역] V8 자바스크립트 엔진](https://velog.io/@surim014/the-v8-javascript-engine)
+
 ## Date
 
 - [왜 내가 작성한 JavaScript Date 코드가 서버에서는 다르게 보이는 거죠?](https://wormwlrm.github.io/2022/09/08/JavaScript-Date.html)
