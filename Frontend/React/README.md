@@ -118,6 +118,8 @@
 
 - [클라이언트 - 서버 상태 분리: 둘이 친해지길 바라!](https://velog.io/@okko8522/%EC%84%9C%EB%B2%84-%EC%83%81%ED%83%9C-%ED%81%B4%EB%9D%BC%EC%9D%B4%EC%96%B8%ED%8A%B8-%EC%83%81%ED%83%9C)
 
+- [👏 핑거스냅을 인식하는 React 컴포넌트를 만들었어요! (feat. TensorFlow.js)](https://velog.io/@hmmhmmhm/wake-me)
+
 ## React-Query
 
 - [react-query](https://velog.io/@jkl1545/React-Query)
