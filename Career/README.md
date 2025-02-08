@@ -61,3 +61,5 @@
 - [취업 성공한 개발자의 회고록, 개발자 면접 후기, 취준 과정 | 3년차 프론트엔드 개발자](https://www.youtube.com/watch?v=Kexd9ToKMyw)
 
 - [합격하는 개발자 포트폴리오 양식 공유](https://www.youtube.com/watch?v=kgJeBupiSJA)
+
+- [충격 발표, 1년 차 개발자 퇴사? 맞습니다.. 네, 맞고요](https://velog.io/@kimfield/2025%EB%85%84-%EC%B2%AB%EB%B2%88%EC%A7%B8%EA%B8%B0%EB%A1%9D-%ED%87%B4%EC%82%AC-%EA%B7%B8%EB%A6%AC%EA%B3%A0-%EC%83%88%EB%A1%9C%EC%9A%B4%EC%8B%9C%EC%9E%91)
