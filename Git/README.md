@@ -45,3 +45,5 @@
 - [[Git] 앗 커밋 메시지 실수했다](https://velog.io/@s33h/Git-%EC%95%97-%EC%BB%A4%EB%B0%8B-%EB%A9%94%EC%8B%9C%EC%A7%80-%EC%8B%A4%EC%88%98%ED%96%88%EB%8B%A4)
 
 - [시간을 엄청 아껴줄 Git으로 코드 에러 위치 찾는 방법(git bisect, git rev-parse HEAD)](https://www.youtube.com/watch?v=U-CLzjXcDGA)
+
+- [VSCode에서 한 파일 내 특정 부분만 커밋하는 방법](https://careerly.co.kr/comments/113592)
