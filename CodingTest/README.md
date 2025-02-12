@@ -22,6 +22,8 @@
 
 ## 개발자로 취직하기님의 알고리즘 3분 요약
 
+- [브루트 포스 완전 탐색 알고리즘 3분만에 이해하기](https://www.youtube.com/watch?v=ZNa9-86uVEA&list=PLlV7zJmoG4XJMkxuBRgkpdX89tL6aXl6q&index=2)
+
 - [스트링 String 알고리즘 설명 5분만에 이해하기 문자열](https://www.youtube.com/watch?v=E-wokROz5UE&list=PLlV7zJmoG4XJMkxuBRgkpdX89tL6aXl6q&index=5)
 
 - [그리디 탐욕 Greedy 알고리즘 설명 7분만에 이해하기](https://www.youtube.com/watch?v=_IZuE7NIeW4&list=PLlV7zJmoG4XJMkxuBRgkpdX89tL6aXl6q&index=6)
