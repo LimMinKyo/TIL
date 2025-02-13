@@ -65,3 +65,5 @@
 - [충격 발표, 1년 차 개발자 퇴사? 맞습니다.. 네, 맞고요](https://velog.io/@kimfield/2025%EB%85%84-%EC%B2%AB%EB%B2%88%EC%A7%B8%EA%B8%B0%EB%A1%9D-%ED%87%B4%EC%82%AC-%EA%B7%B8%EB%A6%AC%EA%B3%A0-%EC%83%88%EB%A1%9C%EC%9A%B4%EC%8B%9C%EC%9E%91)
 
 - [2023-2024년 회고 - 성장에 관하여](https://sturdy-mink-c2f.notion.site/2023-2024-ad0e9a65c4a842b983e871217382cae4)
+
+- [실리콘밸리 개발 문화 및 서바이벌 전략 | 인프콘2024](https://www.youtube.com/watch?v=3oFul4Ntw0c)
