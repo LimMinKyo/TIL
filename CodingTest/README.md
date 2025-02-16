@@ -24,6 +24,8 @@
 
 - [브루트 포스 완전 탐색 알고리즘 3분만에 이해하기](https://www.youtube.com/watch?v=ZNa9-86uVEA&list=PLlV7zJmoG4XJMkxuBRgkpdX89tL6aXl6q&index=2)
 
+- [DP 동적계획 다이나믹 프로그래밍 알고리즘 설명 10분만에 이해하기 (정수 삼각형 문제풀이)](https://www.youtube.com/watch?v=0bqfTzpWySY&list=PLlV7zJmoG4XJOSotNY8Fm3FES6c2y4gTy)
+
 - [스트링 String 알고리즘 설명 5분만에 이해하기 문자열](https://www.youtube.com/watch?v=E-wokROz5UE&list=PLlV7zJmoG4XJMkxuBRgkpdX89tL6aXl6q&index=5)
 
 - [그리디 탐욕 Greedy 알고리즘 설명 7분만에 이해하기](https://www.youtube.com/watch?v=_IZuE7NIeW4&list=PLlV7zJmoG4XJMkxuBRgkpdX89tL6aXl6q&index=6)
