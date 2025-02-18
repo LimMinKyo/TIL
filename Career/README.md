@@ -67,3 +67,5 @@
 - [2023-2024년 회고 - 성장에 관하여](https://sturdy-mink-c2f.notion.site/2023-2024-ad0e9a65c4a842b983e871217382cae4)
 
 - [실리콘밸리 개발 문화 및 서바이벌 전략 | 인프콘2024](https://www.youtube.com/watch?v=3oFul4Ntw0c)
+
+- ["신입이 어떻게 대규모 트래픽 처리 경험을 쌓아요?"의 리뷰](https://bellog.tistory.com/248)
