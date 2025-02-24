@@ -30,6 +30,10 @@
 
 - [그리디 탐욕 Greedy 알고리즘 설명 7분만에 이해하기](https://www.youtube.com/watch?v=_IZuE7NIeW4&list=PLlV7zJmoG4XJMkxuBRgkpdX89tL6aXl6q&index=6)
 
+- [해시 Hash 알고리즘 설명 5분만에 이해하기](https://www.youtube.com/watch?v=zFL29ydL9D8)
+
+- [DFS BFS 깊이 너비 우선탐색 알고리즘 5분만에 이해하기](https://www.youtube.com/watch?v=BsYbdUnKZ-Y)
+
 ## 코딩문님의 자바스크립트 코딩테스트 문제풀이
 
 - [자바스크립트 코딩테스트 문제풀이 EP#1 | Array 중복 제거](https://www.youtube.com/watch?v=zbH7YqUxFpA&list=PL3xNAKVIm80KhJzoz0N5VPROJq3IoLBIW)
