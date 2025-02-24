@@ -15,3 +15,5 @@
 - [대학생 혼자서 기획, 디자인, 개발 다 하기](https://velog.io/@yurang_lab/%EB%8C%80%ED%95%99%EC%83%9D-%ED%98%BC%EC%9E%90%EC%84%9C-%EA%B8%B0%ED%9A%8D-%EB%94%94%EC%9E%90%EC%9D%B8-%EA%B0%9C%EB%B0%9C-%EB%8B%A4-%ED%95%98%EA%B8%B0)
 
 - [Sweet-Salty-Server](https://github.com/Sweet-Salty-Project/Sweet-Salty-Server)
+
+- [오픈소스로 다 공개한 코코아 제작기](https://velog.io/@hansanghun/%EC%98%A4%ED%94%88%EC%86%8C%EC%8A%A4%EB%A1%9C-%EB%8B%A4-%EA%B3%B5%EA%B0%9C%ED%95%9C-%EC%BD%94%EC%BD%94%EC%95%84-%EC%A0%9C%EC%9E%91%EA%B8%B0)
