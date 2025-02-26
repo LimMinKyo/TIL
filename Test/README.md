@@ -90,6 +90,8 @@
 
 - [테스트 자동화도 무신사(QA)랑해](https://medium.com/musinsa-tech/%ED%85%8C%EC%8A%A4%ED%8A%B8-%EC%9E%90%EB%8F%99%ED%99%94%EB%8F%84-%EB%AC%B4%EC%8B%A0%EC%82%AC-qa-%EB%9E%91%ED%95%B4-d91ec5751457)
 
+- [스토리북 & 자동화 테스트와 함께 하는 컴포넌트 주도 프론트엔드 개발 | 판교 퇴근길 밋업 with 인프런](https://www.youtube.com/watch?v=CBLPEeayqYo)
+
 ## ts-mockito
 
 - [jest.mock 보다 ts-mockito 사용하기 (feat. Node.js)](https://jojoldu.tistory.com/638)
