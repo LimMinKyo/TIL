@@ -47,3 +47,5 @@
 - [시간을 엄청 아껴줄 Git으로 코드 에러 위치 찾는 방법(git bisect, git rev-parse HEAD)](https://www.youtube.com/watch?v=U-CLzjXcDGA)
 
 - [VSCode에서 한 파일 내 특정 부분만 커밋하는 방법](https://careerly.co.kr/comments/113592)
+
+- [Git Conflict 안 나는 branch 전략!](https://www.youtube.com/shorts/blXwY9OHNAI)
