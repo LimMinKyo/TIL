@@ -84,6 +84,8 @@
 
 - [Efficiently Migrate from Express to NestJS: A Step-by-Step Guide](https://delvingdeveloper.com/posts/migrating-from-express-to-nestjs)
 
+- [모든 타입이 추론되는 API 만들기 ( feat. Nestia )](https://kscodebase.tistory.com/663)
+
 ## Building a REST API with NestJS and Prisma
 
 1. [Building a REST API with NestJS and Prisma](https://www.prisma.io/blog/nestjs-prisma-rest-api-7D056s1BmOL0)
