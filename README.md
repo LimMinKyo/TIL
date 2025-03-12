@@ -1,7 +1,8 @@
 # TIL(Today I Learned)
 
 - [Architecture](./Architecture/README.md)
-- [ComputerScience](./ComputerScience/README.md)
+- [Clean Code](./CleanCode/README.md)
+- [Computer Science](./ComputerScience/README.md)
 - [Frontend](./Frontend)
   - [React](./Frontend/React/README.md)
   - [React Native](./Frontend/ReactNative/README.md)

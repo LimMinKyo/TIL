@@ -35,3 +35,7 @@
 - [게임 데이터 수집 봇 파이프라인 개선하기](https://velog.io/@grit_munhyeok/%EA%B2%8C%EC%9E%84-%EB%8D%B0%EC%9D%B4%ED%84%B0-%EC%88%98%EC%A7%91-%EB%B4%87-%EB%AC%B8%EC%A0%9C%EC%A0%90-%EB%B0%8F-%EA%B0%9C%EC%84%A0%ED%95%98%EA%B8%B0)
 
 - [동시성 이슈를 곁들인 조회수 기능 개선하기](https://velog.io/@carol_ly/%EB%8F%99%EC%8B%9C%EC%84%B1-%EC%9D%B4%EC%8A%88%EB%A5%BC-%EA%B3%81%EB%93%A4%EC%9D%B8-%EC%A1%B0%ED%9A%8C%EC%88%98-%EA%B8%B0%EB%8A%A5-%EA%B0%9C%EC%84%A0%ED%95%98%EA%B8%B0)
+
+- [Offset Pagination 단점](https://www.youtube.com/shorts/TK1m6AhoekE)
+
+- [Pagination을 알려드림](https://www.youtube.com/watch?v=Rd0xBOT6xao)
