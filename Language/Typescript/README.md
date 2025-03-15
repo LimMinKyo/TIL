@@ -82,6 +82,8 @@
 
 - [(번역) TypeScript Branded Types로 런타임 타입 안정성 개선하기](https://siosio3103.medium.com/typescript-branded-types%EB%A1%9C-%EB%9F%B0%ED%83%80%EC%9E%84-%ED%83%80%EC%9E%85-%EC%95%88%EC%A0%95%EC%84%B1-%EA%B0%9C%EC%84%A0%ED%95%98%EA%B8%B0-768222c8df0d)
 
+- [로직 한줄도 안바꾸고 10배가 빨라져버린 안건에 대하여..](https://youtu.be/q0LtSR04hW0?si=xAErDzwgqcHFhVoq)
+
 ## 에러 해결
 
 - [error TS2339: Property 'user' does not exist on type 'Reqeust'.](https://velog.io/@sinf/error-TS2339-Property-user-does-not-exist-on-type-Reqeust)
