@@ -120,6 +120,8 @@
 
 - [👏 핑거스냅을 인식하는 React 컴포넌트를 만들었어요! (feat. TensorFlow.js)](https://velog.io/@hmmhmmhm/wake-me)
 
+- [Context API 최적화 방법](https://www.youtube.com/shorts/qD3IPEooSVs)
+
 ## React-Query
 
 - [react-query](https://velog.io/@jkl1545/React-Query)
