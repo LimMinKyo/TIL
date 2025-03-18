@@ -86,6 +86,8 @@
 
 - [모든 타입이 추론되는 API 만들기 ( feat. Nestia )](https://kscodebase.tistory.com/663)
 
+- [Nestia를 사용하지 않은 이유](https://velog.io/@joch2712/Nestia%EB%A5%BC-%EC%82%AC%EC%9A%A9%ED%95%98%EC%A7%80-%EC%95%8A%EC%9D%80-%EC%9D%B4%EC%9C%A0)
+
 ## Building a REST API with NestJS and Prisma
 
 1. [Building a REST API with NestJS and Prisma](https://www.prisma.io/blog/nestjs-prisma-rest-api-7D056s1BmOL0)
