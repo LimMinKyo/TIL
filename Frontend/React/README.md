@@ -122,6 +122,8 @@
 
 - [Context API 최적화 방법](https://www.youtube.com/shorts/qD3IPEooSVs)
 
+- [[번역] 리액트에서의 단일 책임 원칙: 컴포넌트 집중의 기술](https://velog.io/@eunbinn/single-responsibility-principle-in-react)
+
 ## React-Query
 
 - [react-query](https://velog.io/@jkl1545/React-Query)
