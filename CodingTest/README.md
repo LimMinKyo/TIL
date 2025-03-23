@@ -20,6 +20,8 @@
 
 - [유클리드 호제법(Euclidean-algorithm)](https://velog.io/@yerin4847/W1-유클리드-호제법)
 
+- [코테 자신 없으세요? 무지성으로 코테 풀면 생기는 일](https://www.youtube.com/watch?v=cUT3S4N8fS8)
+
 ## 개발자로 취직하기님의 알고리즘 3분 요약
 
 - [브루트 포스 완전 탐색 알고리즘 3분만에 이해하기](https://www.youtube.com/watch?v=ZNa9-86uVEA&list=PLlV7zJmoG4XJMkxuBRgkpdX89tL6aXl6q&index=2)
