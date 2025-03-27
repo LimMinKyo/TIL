@@ -28,6 +28,8 @@
 
 - [그래서 웹서비스 하나 만들었는데 배포는 어떻게함? (AWS)](https://www.youtube.com/watch?v=cOUhREAWJNw)
 
+- [5분 만에 AWS 140만원 벌기 🤑](https://velog.io/@hsh111366/5%EB%B6%84-%EB%A7%8C%EC%97%90-AWS-140%EB%A7%8C%EC%9B%90-%EB%B2%8C%EA%B8%B0)
+
 ## RDS
 
 - [no pg_hba.conf entry for host "<IP>", user "<user>", database "<name>", no encryption 오류 해결](https://velog.io/@mechauk418/DRF-no-pghba.conf-entry-for-host-IP-user-user-database-name-no-encryption-%EC%98%A4%EB%A5%98-%ED%95%B4%EA%B2%B0%EB%B2%95)
