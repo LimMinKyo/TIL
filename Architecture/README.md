@@ -67,3 +67,5 @@
 - [상태가 복잡할 때 쓰는 상태 패턴(state design pattern)](https://www.youtube.com/shorts/rkCzAzMInAA)
 
 - [다양한 명령을 같은 형태로, 커맨드 패턴(command design pattern)](https://www.youtube.com/shorts/7q6ysbGRSqc)
+
+- [요즘 정말 핫한 🔥 디자인 패턴이 있다?](https://www.youtube.com/watch?v=XTcsR_-GrBY)
