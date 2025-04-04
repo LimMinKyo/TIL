@@ -37,3 +37,5 @@
 - [AWS 쓰지마세요](https://youtu.be/xUKudCftBCw?si=QteEP1_8S-sXaa0r)
 
 - [데이터독은 데이터독을 어떻게 모니터링할까?│인프콘2024](https://www.youtube.com/watch?v=v7QUIoGIhZQ&list=PLpkj8RKr48wZQXN874PP1hJkaRm6qcvZg&index=48)
+
+- [X-Forwarded-For(XFF) 헤더란?](https://hwan-shell.tistory.com/381)
