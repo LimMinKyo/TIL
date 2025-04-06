@@ -11,3 +11,5 @@
 - [아빠가 된 개발자는 AI 에이전트를 어떻게 활용할까?](https://youtu.be/-59bKxwir5Q?si=0OHVNpvKo4JBOV-p)
 
 - [AI컨퍼런스 4개에서 들은 현업이야기 와 최신트랜드 싹다 정리해서 알려줌](https://www.youtube.com/watch?v=PL48_gUxKjQ)
+
+- [요즘 난리난 MCP! 10분안에 정리해줌.](https://youtu.be/EswVjHZMn74?si=femCF-r16yaxHvIM)
