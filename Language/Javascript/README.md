@@ -172,6 +172,8 @@
 
 - [[Js] 2차원 배열 new Array().fill()로 값 할당할 때 주의할 점](https://aeunhi99.tistory.com/257)
 
+- [JSON에서 BigInt 다루기](https://medium.com/@lifthus531/json%EC%97%90%EC%84%9C-bigint-%EB%8B%A4%EB%A3%A8%EA%B8%B0-3909a73fcff1)
+
 ## Date
 
 - [왜 내가 작성한 JavaScript Date 코드가 서버에서는 다르게 보이는 거죠?](https://wormwlrm.github.io/2022/09/08/JavaScript-Date.html)
