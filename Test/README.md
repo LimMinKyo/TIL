@@ -92,6 +92,8 @@
 
 - [스토리북 & 자동화 테스트와 함께 하는 컴포넌트 주도 프론트엔드 개발 | 판교 퇴근길 밋업 with 인프런](https://www.youtube.com/watch?v=CBLPEeayqYo)
 
+- [왜 테스트를 해야 하는가?](https://kscodebase.tistory.com/m/685)
+
 ## ts-mockito
 
 - [jest.mock 보다 ts-mockito 사용하기 (feat. Node.js)](https://jojoldu.tistory.com/638)
