@@ -174,6 +174,8 @@
 
 - [JSON에서 BigInt 다루기](https://medium.com/@lifthus531/json%EC%97%90%EC%84%9C-bigint-%EB%8B%A4%EB%A3%A8%EA%B8%B0-3909a73fcff1)
 
+- [innerHTML을 대체할 메서드의 등장!!(getHTML, setHTMLUnsafe)](https://youtube.com/shorts/rYtl-kVPWwk?si=ytKKW71eGLRvFrYg)
+
 ## Date
 
 - [왜 내가 작성한 JavaScript Date 코드가 서버에서는 다르게 보이는 거죠?](https://wormwlrm.github.io/2022/09/08/JavaScript-Date.html)
