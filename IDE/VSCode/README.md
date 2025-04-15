@@ -15,3 +15,5 @@
 - [마우스 없이 개발하기 (1): vscode 단축키 마스터하기](https://velog.io/@woohm402/no-mouse-1-vscode)
 
 - [Visual studio code 편집기 폰트 설정하기](https://tttsss77.tistory.com/97)
+
+- [💽 개발하는데 유용한 VSCode 확장팩 - 유료 IDE 못지않게 ❗](https://inpa.tistory.com/entry/VS-Code-%E2%8F%B1%EF%B8%8F-%EC%BD%94%EB%94%A9%EC%97%90-%EC%9C%A0%EC%9A%A9%ED%95%9C-%EB%8F%84%EA%B5%AC-%EC%B6%94%EC%B2%9C)
