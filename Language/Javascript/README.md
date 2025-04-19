@@ -176,6 +176,8 @@
 
 - [innerHTML을 대체할 메서드의 등장!!(getHTML, setHTMLUnsafe)](https://youtube.com/shorts/rYtl-kVPWwk?si=ytKKW71eGLRvFrYg)
 
+- [이걸 알면 배열 작업이 엄청나게 빨라집니다. 이터레이터, 지연평가](https://www.youtube.com/shorts/wX1Z9eb5Nmk)
+
 ## Date
 
 - [왜 내가 작성한 JavaScript Date 코드가 서버에서는 다르게 보이는 거죠?](https://wormwlrm.github.io/2022/09/08/JavaScript-Date.html)
