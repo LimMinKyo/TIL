@@ -9,3 +9,5 @@
 - [Prisma schema db column snake case to camel case 자동 변환 (매핑)](https://velog.io/@danceintherain/Prisma-schema-db-column-snake-case-to-camel-case-%EC%9E%90%EB%8F%99-%EB%B3%80%ED%99%98-%EB%A7%A4%ED%95%91)
 
 - [Prisma의 단점 - Timezone, 다른ORM은?](https://blog.ewq.kr/m/39)
+
+- [Prisma 사용기](https://velog.io/@jxxunnn/Prisma-사용기)
