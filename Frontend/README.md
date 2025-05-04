@@ -84,6 +84,8 @@
 
 - [ChatGPT 가 NextJS 를 버렸다고?](https://www.youtube.com/watch?v=5r44Te7V5RI)
 
+- [토스에서 만든 개 편한 라이브러리(내 쇼츠 보물창고)](https://youtube.com/shorts/8HDmp3-zb0Q?si=OQmJrssuE9xQZYi9)
+
 ## Korean FE Article
 
 - [(번역) 프런트엔드의 미래 탐색하기](https://ykss.netlify.app/translation/navigating_the_future_of_frontend)
