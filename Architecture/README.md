@@ -52,6 +52,8 @@
 
 - [10년 된 레거시 PHP 모노리스 갈아엎은 후기│인프콘2024](https://www.youtube.com/watch?v=tmQNn9R5hFM&list=PLpkj8RKr48wZQXN874PP1hJkaRm6qcvZg&index=47)
 
+- [강의실 개편](https://tech.inflab.com/202207-refactoring-legacy-code/)
+
 ## 디자인 패턴
 
 - [개발자라면 "무조건" 디자인 패턴을 배워야한다?](https://www.youtube.com/watch?v=Pzy_MPfGixg)
