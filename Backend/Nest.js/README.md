@@ -90,6 +90,8 @@
 
 - [Nestia를 활용한 e2e 테스트](https://kscodebase.tistory.com/642)
 
+- [Guards와 Exception filters](https://velog.io/@kisuk623/Guards와-Exception-filters)
+
 ## Building a REST API with NestJS and Prisma
 
 1. [Building a REST API with NestJS and Prisma](https://www.prisma.io/blog/nestjs-prisma-rest-api-7D056s1BmOL0)
