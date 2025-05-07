@@ -23,3 +23,5 @@
 - [디버깅 마인드셋: 디버깅의 고통을 절반으로 줄이는 고수들의 행동패턴 따라하기|인프콘2024](https://youtu.be/KkkyYFziOG8?si=qqw_Ln4dQ7RXsDKN)
 
 - [코드를 짜다가 에러를 마주칠 때마다 이걸 꾸준히 해보세요! (feat. 에러 일기)](https://youtu.be/qKIUAXN_VgI?si=bjbGNmjQ5vCivCDe)
+
+- [개발자라면 꼭 알아야 할, 코딩 공부 쉽게하는 ㅈㅅ공부법](https://www.youtube.com/watch?v=0OhwSxFbM-A)
