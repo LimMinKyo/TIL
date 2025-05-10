@@ -71,3 +71,5 @@
 - ["신입이 어떻게 대규모 트래픽 처리 경험을 쌓아요?"의 리뷰](https://bellog.tistory.com/248)
 
 - [중고신입 프론트엔드 개발자의 퇴사와 이직스토리 (feat. 퇴사자가 본 채용시장)](https://www.youtube.com/watch?v=-8VJQiWNrS0)
+
+- [신입때부터 칭찬받는 일하는 습관 3단계](https://www.youtube.com/shorts/3WHAB-kVOJI)
