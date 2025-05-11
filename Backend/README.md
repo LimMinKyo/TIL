@@ -39,3 +39,5 @@
 - [Offset Pagination 단점](https://www.youtube.com/shorts/TK1m6AhoekE)
 
 - [Pagination을 알려드림](https://www.youtube.com/watch?v=Rd0xBOT6xao)
+
+- [백엔드는 SNS 로그인 때 무얼 검증해야 할까요?](https://youtube.com/shorts/vOE8vCGlE6I?si=M74_zB4JjqcS7YcC)
