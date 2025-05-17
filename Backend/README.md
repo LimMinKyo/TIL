@@ -41,3 +41,5 @@
 - [Pagination을 알려드림](https://www.youtube.com/watch?v=Rd0xBOT6xao)
 
 - [백엔드는 SNS 로그인 때 무얼 검증해야 할까요?](https://youtube.com/shorts/vOE8vCGlE6I?si=M74_zB4JjqcS7YcC)
+
+- [액세스 토큰 리프레쉬 토큰 디비에 저장해도 되나요?](https://youtube.com/shorts/9G3wHxK3zLg?si=mmISP3M-DxK0hcJO)
