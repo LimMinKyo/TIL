@@ -39,3 +39,5 @@
 - [데이터독은 데이터독을 어떻게 모니터링할까?│인프콘2024](https://www.youtube.com/watch?v=v7QUIoGIhZQ&list=PLpkj8RKr48wZQXN874PP1hJkaRm6qcvZg&index=48)
 
 - [X-Forwarded-For(XFF) 헤더란?](https://hwan-shell.tistory.com/381)
+
+- [클라우드를 가지고 놀아보세요.](https://velog.io/@480/%ED%81%B4%EB%9D%BC%EC%9A%B0%EB%93%9C%EB%A5%BC-%EA%B0%80%EC%A7%80%EA%B3%A0-%EB%86%80%EC%95%84%EB%B3%B4%EC%84%B8%EC%9A%94)
