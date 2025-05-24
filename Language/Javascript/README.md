@@ -180,6 +180,8 @@
 
 - [📚 Lodash 지연 평가(Lazy Evaluation) 원리](https://inpa.tistory.com/entry/LODASH-%F0%9F%93%9A-%EC%A7%80%EC%97%B0-%ED%8F%89%EA%B0%80-%EC%9B%90%EB%A6%AC-lodash%EB%8A%94-%EC%98%A4%ED%9E%88%EB%A0%A4-%EC%84%B1%EB%8A%A5%EC%9D%B4-%EC%A2%8B%EC%9D%84-%EC%88%98-%EC%9E%88%EB%8B%A4)
 
+- [노드에서 setTimeout 프로미스가 됩니다](https://youtube.com/shorts/qfuwlIakuS0?si=6Z5JDAzjK___jKcu)
+
 ## Date
 
 - [왜 내가 작성한 JavaScript Date 코드가 서버에서는 다르게 보이는 거죠?](https://wormwlrm.github.io/2022/09/08/JavaScript-Date.html)
