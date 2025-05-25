@@ -182,6 +182,8 @@
 
 - [노드에서 setTimeout 프로미스가 됩니다](https://youtube.com/shorts/qfuwlIakuS0?si=6Z5JDAzjK___jKcu)
 
+- [동기 함수에도 await 붙일 수 있습니다.](https://youtube.com/shorts/8OjeEwiNUFk?si=X1UcC5sOdA38X8sy)
+
 ## Date
 
 - [왜 내가 작성한 JavaScript Date 코드가 서버에서는 다르게 보이는 거죠?](https://wormwlrm.github.io/2022/09/08/JavaScript-Date.html)
