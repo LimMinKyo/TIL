@@ -92,6 +92,8 @@
 
 - [Guards와 Exception filters](https://velog.io/@kisuk623/Guards와-Exception-filters)
 
+- [@nestjs-cls/transactional](https://papooch.github.io/nestjs-cls/plugins/available-plugins/transactional)
+
 ## Building a REST API with NestJS and Prisma
 
 1. [Building a REST API with NestJS and Prisma](https://www.prisma.io/blog/nestjs-prisma-rest-api-7D056s1BmOL0)
