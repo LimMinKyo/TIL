@@ -124,6 +124,8 @@
 
 - [[번역] 리액트에서의 단일 책임 원칙: 컴포넌트 집중의 기술](https://velog.io/@eunbinn/single-responsibility-principle-in-react)
 
+- [자연스럽게 자제하게 된 리액트 개발 습관](https://velog.io/@brince/자제하게-된-리액트-개발-습관)
+
 ## React-Query
 
 - [react-query](https://velog.io/@jkl1545/React-Query)
