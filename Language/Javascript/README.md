@@ -184,6 +184,8 @@
 
 - [동기 함수에도 await 붙일 수 있습니다.](https://youtube.com/shorts/8OjeEwiNUFk?si=X1UcC5sOdA38X8sy)
 
+- [npm update보다 편한 게 있습니다](https://www.youtube.com/shorts/TpFUiIkX5IQ)
+
 ## Date
 
 - [왜 내가 작성한 JavaScript Date 코드가 서버에서는 다르게 보이는 거죠?](https://wormwlrm.github.io/2022/09/08/JavaScript-Date.html)
