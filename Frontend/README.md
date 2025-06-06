@@ -86,6 +86,8 @@
 
 - [토스에서 만든 개 편한 라이브러리(내 쇼츠 보물창고)](https://youtube.com/shorts/8HDmp3-zb0Q?si=OQmJrssuE9xQZYi9)
 
+- [토스 프론트엔드 가이드라인 기반으로 만든 Cursor rule](https://gist.github.com/toy-crane/dde6258997519d954063a536fc72d055)
+
 ## Korean FE Article
 
 - [(번역) 프런트엔드의 미래 탐색하기](https://ykss.netlify.app/translation/navigating_the_future_of_frontend)
