@@ -94,6 +94,8 @@
 
 - [왜 테스트를 해야 하는가?](https://kscodebase.tistory.com/m/685)
 
+- [내가 TDD를 사용하면서 얻은 것 중 하나는 관심 대상이 점점 사용자(고객) 쪽으로 이동했다는 점이다](https://www.linkedin.com/posts/gyuwonyi_내가-tdd를-사용하면서-얻은-것-중-하나는-관심-대상이-점점-사용자고객-activity-7329794529195188224-q9C5?utm_medium=ios_app&rcm=ACoAAEzJhX0BTm-uOxZECtNEUOF7ammBP7Opd90&utm_source=social_share_send&utm_campaign=share_via)
+
 ## ts-mockito
 
 - [jest.mock 보다 ts-mockito 사용하기 (feat. Node.js)](https://jojoldu.tistory.com/638)
