@@ -73,3 +73,5 @@
 - [중고신입 프론트엔드 개발자의 퇴사와 이직스토리 (feat. 퇴사자가 본 채용시장)](https://www.youtube.com/watch?v=-8VJQiWNrS0)
 
 - [신입때부터 칭찬받는 일하는 습관 3단계](https://www.youtube.com/shorts/3WHAB-kVOJI)
+
+- [토스에 합류하다 (토스 합격)](https://velog.io/@long9725/토스에-합류하다)
