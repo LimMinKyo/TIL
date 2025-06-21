@@ -9,3 +9,5 @@
 - [CORS 개념 정리(preflight, simple, credentialed request)+SOP](https://velog.io/@wiostz98kr/CORS%EC%9D%98-%EB%AA%A8%EB%93%A0-%EA%B2%83)
 
 - [개발자도구가 열려도 안전한 사이트를 만듭시다!!!](https://www.youtube.com/shorts/UQuKHudhJ84)
+
+- [GET POST 뭐가 더 안전한 요청일까?](https://youtube.com/shorts/bUPYAPOchuI?si=0TGCoXX8xGtU-pkC)
