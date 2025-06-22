@@ -88,6 +88,8 @@
 
 - [토스 프론트엔드 가이드라인 기반으로 만든 Cursor rule](https://gist.github.com/toy-crane/dde6258997519d954063a536fc72d055)
 
+- [[Typescript로 설계하는 프로젝트] "원래 있던 기능이니 금방 하시죠?" 당하지 않는 Service Layer 설계 전략](https://velog.io/@rewq5991/typescript-project-service-design)
+
 ## Korean FE Article
 
 - [(번역) 프런트엔드의 미래 탐색하기](https://ykss.netlify.app/translation/navigating_the_future_of_frontend)
