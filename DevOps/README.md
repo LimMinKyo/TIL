@@ -41,3 +41,5 @@
 - [X-Forwarded-For(XFF) 헤더란?](https://hwan-shell.tistory.com/381)
 
 - [클라우드를 가지고 놀아보세요.](https://velog.io/@480/%ED%81%B4%EB%9D%BC%EC%9A%B0%EB%93%9C%EB%A5%BC-%EA%B0%80%EC%A7%80%EA%B3%A0-%EB%86%80%EC%95%84%EB%B3%B4%EC%84%B8%EC%9A%94)
+
+- [대표적인 무중단 배포 - 롤링!!](https://youtube.com/shorts/GN2Nl90JbF4?si=27S53Z3uvSw6QGF6)
