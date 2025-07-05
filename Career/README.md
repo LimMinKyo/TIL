@@ -75,3 +75,5 @@
 - [신입때부터 칭찬받는 일하는 습관 3단계](https://www.youtube.com/shorts/3WHAB-kVOJI)
 
 - [토스에 합류하다 (토스 합격)](https://velog.io/@long9725/토스에-합류하다)
+
+- [26살 비전공자에서, 30살 네이버 신입까지](https://velog.io/@dyddn2015/25살-비전공자에서-30살-네이버-신입까지)
