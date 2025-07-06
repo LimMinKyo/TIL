@@ -49,3 +49,5 @@
 - [VSCode에서 한 파일 내 특정 부분만 커밋하는 방법](https://careerly.co.kr/comments/113592)
 
 - [Git Conflict 안 나는 branch 전략!](https://www.youtube.com/shorts/blXwY9OHNAI)
+
+- [Git submodule을 사용해보자](https://velog.io/@junho5336/Git-Submodule을-사용해보자)
