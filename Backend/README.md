@@ -45,3 +45,5 @@
 - [액세스 토큰 리프레쉬 토큰 디비에 저장해도 되나요?](https://youtube.com/shorts/9G3wHxK3zLg?si=mmISP3M-DxK0hcJO)
 
 - [에러 메시지도 표준이 있다는 걸 아시나요?? problem details spec](https://www.youtube.com/shorts/_r880rjE3fM?si=vOga0rNn7u2E0dDu)
+
+- [실패했는데 상태 코드가 200인 경우…?](https://youtube.com/shorts/BEIng-2BH24?si=KhPAcTq4RLps2KgJ)
