@@ -186,6 +186,8 @@
 
 - [npm update보다 편한 게 있습니다](https://www.youtube.com/shorts/TpFUiIkX5IQ)
 
+- [Promise.try가 나왔습니다!! 동기 비동기 둘 다 프로미스로 만들어버리기](https://youtube.com/shorts/84FJMJiMGgo?si=QT2mwsC_JVA_4P-t)
+
 ## Date
 
 - [왜 내가 작성한 JavaScript Date 코드가 서버에서는 다르게 보이는 거죠?](https://wormwlrm.github.io/2022/09/08/JavaScript-Date.html)
