@@ -126,6 +126,8 @@
 
 - [자연스럽게 자제하게 된 리액트 개발 습관](https://velog.io/@brince/자제하게-된-리액트-개발-습관)
 
+- [한 줄로 여는 Modal](https://velog.io/@twinkleandy/한-줄로-여는-Modal)
+
 ## React-Query
 
 - [react-query](https://velog.io/@jkl1545/React-Query)
