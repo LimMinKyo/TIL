@@ -90,6 +90,8 @@
 
 - [[Typescript로 설계하는 프로젝트] "원래 있던 기능이니 금방 하시죠?" 당하지 않는 Service Layer 설계 전략](https://velog.io/@rewq5991/typescript-project-service-design)
 
+- [백엔드에 명령하는 프론트엔드가 되어보자](https://velog.io/@k-svelte-master/frontend-win-backend)
+
 ## Korean FE Article
 
 - [(번역) 프런트엔드의 미래 탐색하기](https://ykss.netlify.app/translation/navigating_the_future_of_frontend)
