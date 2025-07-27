@@ -34,6 +34,8 @@
 
 - [AWS is breaking the limits of SQL DB. Introducing Serverless SQL DB Service: Aurora DSQL.](https://m.youtube.com/watch?v=TGQuSrePOPU)
 
+- [Lambda Remote Debugging: You can now debug Lambda remotely.](https://m.youtube.com/watch?v=5WXXXWaFA7M)
+
 ## RDS
 
 - [no pg_hba.conf entry for host "<IP>", user "<user>", database "<name>", no encryption 오류 해결](https://velog.io/@mechauk418/DRF-no-pghba.conf-entry-for-host-IP-user-user-database-name-no-encryption-%EC%98%A4%EB%A5%98-%ED%95%B4%EA%B2%B0%EB%B2%95)
