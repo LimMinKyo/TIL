@@ -36,6 +36,8 @@
 
 - [Lambda Remote Debugging: You can now debug Lambda remotely.](https://m.youtube.com/watch?v=5WXXXWaFA7M)
 
+- [AWS 프리티어에서 더 이상 실수로 비용 나올까 걱정하지 마세요. AWS 프리티어가 완전히 변했거든요!](https://m.youtube.com/watch?v=8L-uck6lREQ)
+
 ## RDS
 
 - [no pg_hba.conf entry for host "<IP>", user "<user>", database "<name>", no encryption 오류 해결](https://velog.io/@mechauk418/DRF-no-pghba.conf-entry-for-host-IP-user-user-database-name-no-encryption-%EC%98%A4%EB%A5%98-%ED%95%B4%EA%B2%B0%EB%B2%95)
