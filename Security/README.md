@@ -11,3 +11,5 @@
 - [개발자도구가 열려도 안전한 사이트를 만듭시다!!!](https://www.youtube.com/shorts/UQuKHudhJ84)
 
 - [GET POST 뭐가 더 안전한 요청일까?](https://youtube.com/shorts/bUPYAPOchuI?si=0TGCoXX8xGtU-pkC)
+
+- [개발자도구에 토큰이 보이는 건 괜찮은 건가요??](https://m.youtube.com/shorts/gENFdS0jnE8)
