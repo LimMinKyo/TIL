@@ -17,3 +17,5 @@
 - [요즘 코딩 왜 배움? 에 대한 반박영상 | 커서로 개발하는게 개 힘든 이유](https://www.youtube.com/watch?v=Xchj7iJ-CUU)
 
 - [시간을 아끼는 개발자의 선택: MCP로 해커뉴스를 Obsidian에 스마트하게 정리하기](https://velog.io/@meowoof/MCP로-읽는-해커뉴스-Obsidian에-정리-해보기)
+
+- [구글, 이거 무료로 써도 돼? "이제 이 앱 없으면 바보 됩니다 ㄷㄷ" / CPA CFA 합격한 비결!!!](https://m.youtube.com/watch?v=BAcV-5QnFbE)
