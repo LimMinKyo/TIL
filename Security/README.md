@@ -13,3 +13,5 @@
 - [GET POST 뭐가 더 안전한 요청일까?](https://youtube.com/shorts/bUPYAPOchuI?si=0TGCoXX8xGtU-pkC)
 
 - [개발자도구에 토큰이 보이는 건 괜찮은 건가요??](https://m.youtube.com/shorts/gENFdS0jnE8)
+
+- [사용자 강제 로그아웃 시키려면 어떻게 해야하나요?](https://youtube.com/shorts/fkgxyfxEE2A?si=gFVybHoKIVxCgvam)
