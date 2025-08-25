@@ -15,3 +15,5 @@
 - [개발자도구에 토큰이 보이는 건 괜찮은 건가요??](https://m.youtube.com/shorts/gENFdS0jnE8)
 
 - [사용자 강제 로그아웃 시키려면 어떻게 해야하나요?](https://youtube.com/shorts/fkgxyfxEE2A?si=gFVybHoKIVxCgvam)
+
+- [SNS 로그인에서 주는 토큰을 로그인에 쓰면 안 됩니다…](https://www.youtube.com/shorts/j4nVKKFD6Jo)
