@@ -17,3 +17,5 @@
 - [사용자 강제 로그아웃 시키려면 어떻게 해야하나요?](https://youtube.com/shorts/fkgxyfxEE2A?si=gFVybHoKIVxCgvam)
 
 - [SNS 로그인에서 주는 토큰을 로그인에 쓰면 안 됩니다…](https://www.youtube.com/shorts/j4nVKKFD6Jo)
+
+- [액세스 토큰 리프레시 토큰 어디에 저장해야 하나요?(웹 버전)](https://m.youtube.com/shorts/EnetEaN1h3M)
