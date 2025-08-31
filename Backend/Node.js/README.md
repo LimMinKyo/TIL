@@ -26,6 +26,8 @@
 
 - [Nodemailer + Gmail OAuth2.0으로 이메일 발송기능 구현하기](https://iamiet.tistory.com/entry/Nodemailer-Gmail-OAuth20%EC%9C%BC%EB%A1%9C-%EC%9D%B4%EB%A9%94%EC%9D%BC-%EB%B0%9C%EC%86%A1%EA%B8%B0%EB%8A%A5-%EA%B5%AC%ED%98%84%ED%95%98%EA%B8%B0)
 
+- [Node.js 서버가 잘 죽는다고요?? 흠 글쎄요 - Node.js에 대한 오해 3](https://www.youtube.com/shorts/FlZl1913gDA)
+
 ## nvm
 
 - [원활한 협업을 위한 .nvmrc](https://univdev.page/posts/nvmrc/)
