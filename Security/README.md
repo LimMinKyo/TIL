@@ -19,3 +19,5 @@
 - [SNS 로그인에서 주는 토큰을 로그인에 쓰면 안 됩니다…](https://www.youtube.com/shorts/j4nVKKFD6Jo)
 
 - [액세스 토큰 리프레시 토큰 어디에 저장해야 하나요?(웹 버전)](https://m.youtube.com/shorts/EnetEaN1h3M)
+
+- [모바일 앱이나 리액트네이티브에서는 토큰 어디에 저장해야 해요??](https://m.youtube.com/shorts/fyCVYLEXs2c)
