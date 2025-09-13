@@ -45,3 +45,5 @@
 - [대표적인 무중단 배포 - 롤링!!](https://youtube.com/shorts/GN2Nl90JbF4?si=27S53Z3uvSw6QGF6)
 
 - [AB테스트에도 써먹을 수 있는 카나리 배포!](https://youtube.com/shorts/IzjqeYLKXpo?si=ezq67hu94nGQFL4p)
+
+- [생산성 높은 MSA 환경 구성하기 : 1편](https://medium.com/@techblog_41684/생산성-높은-msa-환경-구성하기-1편-44093a9e3cc5)
