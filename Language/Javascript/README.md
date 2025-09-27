@@ -190,6 +190,8 @@
 
 - [2026년에 추가되는 새 기능! Error.isError](https://m.youtube.com/shorts/pJLjMf3IS7s?si=UEdQBUXroBD207cD)
 
+- [진짜 setTimeout(0)을 원한다면](https://m.youtube.com/shorts/3t1KhBHCieA)
+
 ## Date
 
 - [왜 내가 작성한 JavaScript Date 코드가 서버에서는 다르게 보이는 거죠?](https://wormwlrm.github.io/2022/09/08/JavaScript-Date.html)
