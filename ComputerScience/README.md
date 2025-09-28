@@ -35,3 +35,5 @@
 - [왜 Authorization "Bearer"인가요?](https://velog.io/@oneook/%EC%99%9C-Authorization-Bearer%EC%9D%B8%EA%B0%80%EC%9A%94)
 
 - [CS 다시 공부하기 - CS는 왜 필요할까?](https://velog.io/@moony_-/CS는-왜-필요할까)
+
+- [AI 시대에도 CS 지식 배워야할까요?(전공해야 하나요?정처기 따야 하나요?)](https://m.youtube.com/shorts/ZDB4QTmNNic)
