@@ -54,6 +54,8 @@
 
 - [강의실 개편](https://tech.inflab.com/202207-refactoring-legacy-code/)
 
+- [AI is good at generating code, but it's terrible at editing it (#designpattern)](https://m.youtube.com/shorts/Rhx7D3mBpQc?si=w5TFiAPoGBTuXeTw)
+
 ## 디자인 패턴
 
 - [개발자라면 "무조건" 디자인 패턴을 배워야한다?](https://www.youtube.com/watch?v=Pzy_MPfGixg)
