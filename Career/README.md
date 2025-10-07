@@ -79,3 +79,5 @@
 - [26살 비전공자에서, 30살 네이버 신입까지](https://velog.io/@dyddn2015/25살-비전공자에서-30살-네이버-신입까지)
 
 - [어쩌다보니 토스 UX 엔지니어](https://velog.io/@brince/어쩌다보니-토스-UX-엔지니어)
+
+- [최근 유튜브 라이브에서 "MAU 100만인데 개발 환경이 별로인 회사" vs "MAU 5만인데 개발 환경이 훌륭한 회사" 중 어디에 합류할 것인가에 대한 질문이 올라왔다.](https://www.linkedin.com/posts/동욱-이-575160177_최근-유튜브-라이브에서-mau-100만인데-개발-환경이-별로인-회사-vs-activity-7328684714137935872-BX4S/?utm_medium=ios_app&rcm=ACoAAEzJhX0BTm-uOxZECtNEUOF7ammBP7Opd90&utm_source=social_share_send&utm_campaign=share_via)
