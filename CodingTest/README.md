@@ -22,6 +22,8 @@
 
 - [코테 자신 없으세요? 무지성으로 코테 풀면 생기는 일](https://www.youtube.com/watch?v=cUT3S4N8fS8)
 
+- [알고달레 | 알고리즘 입문자를 위한 달레의 친절한 안내서](https://www.algodale.com)
+
 ## 개발자로 취직하기님의 알고리즘 3분 요약
 
 - [브루트 포스 완전 탐색 알고리즘 3분만에 이해하기](https://www.youtube.com/watch?v=ZNa9-86uVEA&list=PLlV7zJmoG4XJMkxuBRgkpdX89tL6aXl6q&index=2)
@@ -35,8 +37,6 @@
 - [해시 Hash 알고리즘 설명 5분만에 이해하기](https://www.youtube.com/watch?v=zFL29ydL9D8)
 
 - [DFS BFS 깊이 너비 우선탐색 알고리즘 5분만에 이해하기](https://www.youtube.com/watch?v=BsYbdUnKZ-Y)
-
-- [알고달레 | 알고리즘 입문자를 위한 달레의 친절한 안내서](https://www.algodale.com)
 
 ## 코딩문님의 자바스크립트 코딩테스트 문제풀이
 
