@@ -36,6 +36,8 @@
 
 - [DFS BFS 깊이 너비 우선탐색 알고리즘 5분만에 이해하기](https://www.youtube.com/watch?v=BsYbdUnKZ-Y)
 
+- [알고달레 | 알고리즘 입문자를 위한 달레의 친절한 안내서](https://www.algodale.com)
+
 ## 코딩문님의 자바스크립트 코딩테스트 문제풀이
 
 - [자바스크립트 코딩테스트 문제풀이 EP#1 | Array 중복 제거](https://www.youtube.com/watch?v=zbH7YqUxFpA&list=PL3xNAKVIm80KhJzoz0N5VPROJq3IoLBIW)
